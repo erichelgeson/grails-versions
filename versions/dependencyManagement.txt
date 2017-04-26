@@ -14,58 +14,58 @@ global - Default dependency management for all configurations
     org.codehaus.groovy:groovy-swing 2.4.5
     org.codehaus.groovy:groovy-templates 2.4.5
     org.codehaus.groovy:groovy-xml 2.4.5
-    org.grails:grails-async 3.0.10
-    org.grails:grails-bootstrap 3.0.10
-    org.grails:grails-compat 3.0.10
-    org.grails:grails-console 3.0.10
-    org.grails:grails-core 3.0.10
-    org.grails:grails-databinding 3.0.10
-    org.grails:grails-dependencies 3.0.10
-    org.grails:grails-docs 3.0.10
-    org.grails:grails-encoder 3.0.10
-    org.grails:grails-gradle-model 3.0.10
-    org.grails:grails-gradle-plugin 3.0.10
-    org.grails:grails-gsp 3.0.10
-    org.grails:grails-logging 3.0.10
-    org.grails:grails-plugin-async 3.0.10
-    org.grails:grails-plugin-codecs 3.0.10
-    org.grails:grails-plugin-controllers 3.0.10
-    org.grails:grails-plugin-converters 3.0.10
-    org.grails:grails-plugin-databinding 3.0.10
-    org.grails:grails-plugin-datasource 3.0.10
-    org.grails:grails-plugin-domain-class 3.0.10
-    org.grails:grails-plugin-events 3.0.10
-    org.grails:grails-plugin-filters 3.0.10
-    org.grails:grails-plugin-gsp 3.0.10
-    org.grails:grails-plugin-i18n 3.0.10
-    org.grails:grails-plugin-interceptors 3.0.10
-    org.grails:grails-plugin-mimetypes 3.0.10
-    org.grails:grails-plugin-rest 3.0.10
-    org.grails:grails-plugin-services 3.0.10
-    org.grails:grails-plugin-testing 3.0.10
-    org.grails:grails-plugin-url-mappings 3.0.10
-    org.grails:grails-plugin-validation 3.0.10
-    org.grails:grails-shell 3.0.10
-    org.grails:grails-spring 3.0.10
-    org.grails:grails-taglib 3.0.10
-    org.grails:grails-test 3.0.10
-    org.grails:grails-test-suite-base 3.0.10
-    org.grails:grails-test-suite-persistence 3.0.10
-    org.grails:grails-test-suite-uber 3.0.10
-    org.grails:grails-test-suite-web 3.0.10
-    org.grails:grails-validation 3.0.10
-    org.grails:grails-web 3.0.10
-    org.grails:grails-web-boot 3.0.10
-    org.grails:grails-web-common 3.0.10
-    org.grails:grails-web-databinding 3.0.10
-    org.grails:grails-web-fileupload 3.0.10
-    org.grails:grails-web-gsp 3.0.10
-    org.grails:grails-web-gsp-taglib 3.0.10
-    org.grails:grails-web-jsp 3.0.10
-    org.grails:grails-web-mvc 3.0.10
-    org.grails:grails-web-sitemesh 3.0.10
-    org.grails:grails-web-taglib 3.0.10
-    org.grails:grails-web-url-mappings 3.0.10
+    org.grails:grails-async 3.0.11
+    org.grails:grails-bootstrap 3.0.11
+    org.grails:grails-compat 3.0.11
+    org.grails:grails-console 3.0.11
+    org.grails:grails-core 3.0.11
+    org.grails:grails-databinding 3.0.11
+    org.grails:grails-dependencies 3.0.11
+    org.grails:grails-docs 3.0.11
+    org.grails:grails-encoder 3.0.11
+    org.grails:grails-gradle-model 3.0.11
+    org.grails:grails-gradle-plugin 3.0.11
+    org.grails:grails-gsp 3.0.11
+    org.grails:grails-logging 3.0.11
+    org.grails:grails-plugin-async 3.0.11
+    org.grails:grails-plugin-codecs 3.0.11
+    org.grails:grails-plugin-controllers 3.0.11
+    org.grails:grails-plugin-converters 3.0.11
+    org.grails:grails-plugin-databinding 3.0.11
+    org.grails:grails-plugin-datasource 3.0.11
+    org.grails:grails-plugin-domain-class 3.0.11
+    org.grails:grails-plugin-events 3.0.11
+    org.grails:grails-plugin-filters 3.0.11
+    org.grails:grails-plugin-gsp 3.0.11
+    org.grails:grails-plugin-i18n 3.0.11
+    org.grails:grails-plugin-interceptors 3.0.11
+    org.grails:grails-plugin-mimetypes 3.0.11
+    org.grails:grails-plugin-rest 3.0.11
+    org.grails:grails-plugin-services 3.0.11
+    org.grails:grails-plugin-testing 3.0.11
+    org.grails:grails-plugin-url-mappings 3.0.11
+    org.grails:grails-plugin-validation 3.0.11
+    org.grails:grails-shell 3.0.11
+    org.grails:grails-spring 3.0.11
+    org.grails:grails-taglib 3.0.11
+    org.grails:grails-test 3.0.11
+    org.grails:grails-test-suite-base 3.0.11
+    org.grails:grails-test-suite-persistence 3.0.11
+    org.grails:grails-test-suite-uber 3.0.11
+    org.grails:grails-test-suite-web 3.0.11
+    org.grails:grails-validation 3.0.11
+    org.grails:grails-web 3.0.11
+    org.grails:grails-web-boot 3.0.11
+    org.grails:grails-web-common 3.0.11
+    org.grails:grails-web-databinding 3.0.11
+    org.grails:grails-web-fileupload 3.0.11
+    org.grails:grails-web-gsp 3.0.11
+    org.grails:grails-web-gsp-taglib 3.0.11
+    org.grails:grails-web-jsp 3.0.11
+    org.grails:grails-web-mvc 3.0.11
+    org.grails:grails-web-sitemesh 3.0.11
+    org.grails:grails-web-taglib 3.0.11
+    org.grails:grails-web-url-mappings 3.0.11
     org.grails.plugins:asset-pipeline 3.0.11
     org.grails.plugins:cache 3.0.1
     org.grails.plugins:cassandra 4.0.7
@@ -146,4 +146,4 @@ No configuration-specific dependency management
 
 BUILD SUCCESSFUL
 
-Total time: 4.933 secs
+Total time: 6.563 secs
