@@ -1,3 +1,5 @@
+package versions
+
 class UrlMappings {
 
     static mappings = {
