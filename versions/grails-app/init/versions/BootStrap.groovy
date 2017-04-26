@@ -1,3 +1,5 @@
+package versions
+
 class BootStrap {
 
     def init = { servletContext ->
