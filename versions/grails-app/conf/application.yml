@@ -52,7 +52,8 @@ grails:
     codegen:
         defaultPackage: versions
     spring:
-        transactionManagement: false
+        transactionManagement:
+            proxies: false
 info:
     app:
         name: '@info.app.name@'
