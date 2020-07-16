@@ -1,58 +1,86 @@
-Download https://repo.grails.org/grails/core/org/grails/grails-gradle-plugin/3.1.11/grails-gradle-plugin-3.1.11.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-gradle-model/3.1.11/grails-gradle-model-3.1.11.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-shell/3.1.11/grails-shell-3.1.11.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-bootstrap/3.1.11/grails-bootstrap-3.1.11.jar
-Download https://repo.grails.org/grails/core/io/spring/gradle/dependency-management-plugin/0.6.0.RELEASE/dependency-management-plugin-0.6.0.RELEASE.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-core/3.1.11/grails-core-3.1.11.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-web-boot/3.1.11/grails-web-boot-3.1.11.jar
-Download https://repo.grails.org/grails/core/org/springframework/spring-tx/4.2.7.RELEASE/spring-tx-4.2.7.RELEASE.jar
-Download https://repo.grails.org/grails/core/org/springframework/spring-beans/4.2.7.RELEASE/spring-beans-4.2.7.RELEASE.jar
-Download https://repo.grails.org/grails/core/org/springframework/spring-context/4.2.7.RELEASE/spring-context-4.2.7.RELEASE.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-spring/3.1.11/grails-spring-3.1.11.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-rest/3.1.11/grails-plugin-rest-3.1.11.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-databinding/3.1.11/grails-plugin-databinding-3.1.11.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-i18n/3.1.11/grails-plugin-i18n-3.1.11.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-gsp/3.1.11/grails-plugin-gsp-3.1.11.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-services/3.1.11/grails-plugin-services-3.1.11.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-url-mappings/3.1.11/grails-plugin-url-mappings-3.1.11.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-interceptors/3.1.11/grails-plugin-interceptors-3.1.11.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-async/3.1.11/grails-plugin-async-3.1.11.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-web-common/3.1.11/grails-web-common-3.1.11.jar
-Download https://repo.grails.org/grails/core/org/springframework/spring-aop/4.2.7.RELEASE/spring-aop-4.2.7.RELEASE.jar
-Download https://repo.grails.org/grails/core/org/springframework/spring-expression/4.2.7.RELEASE/spring-expression-4.2.7.RELEASE.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-web/3.1.11/grails-web-3.1.11.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-controllers/3.1.11/grails-plugin-controllers-3.1.11.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-datasource/3.1.11/grails-plugin-datasource-3.1.11.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-codecs/3.1.11/grails-plugin-codecs-3.1.11.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-logging/3.1.11/grails-logging-3.1.11.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-web-gsp-taglib/3.1.11/grails-web-gsp-taglib-3.1.11.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-events/3.1.11/grails-plugin-events-3.1.11.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-validation/3.1.11/grails-validation-3.1.11.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-databinding/3.1.11/grails-databinding-3.1.11.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-encoder/3.1.11/grails-encoder-3.1.11.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-gsp/3.1.11/grails-gsp-3.1.11.jar
-Download https://repo.grails.org/grails/core/org/springframework/spring-webmvc/4.2.7.RELEASE/spring-webmvc-4.2.7.RELEASE.jar
-Download https://repo.grails.org/grails/core/org/springframework/spring-context-support/4.2.7.RELEASE/spring-context-support-4.2.7.RELEASE.jar
-Download https://repo.grails.org/grails/core/org/springframework/spring-aspects/4.2.7.RELEASE/spring-aspects-4.2.7.RELEASE.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-web-gsp/3.1.11/grails-web-gsp-3.1.11.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-web-databinding/3.1.11/grails-web-databinding-3.1.11.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-web-url-mappings/3.1.11/grails-web-url-mappings-3.1.11.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-web-jsp/3.1.11/grails-web-jsp-3.1.11.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-web-mvc/3.1.11/grails-web-mvc-3.1.11.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-web-sitemesh/3.1.11/grails-web-sitemesh-3.1.11.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-async/3.1.11/grails-async-3.1.11.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-converters/3.1.11/grails-plugin-converters-3.1.11.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-mimetypes/3.1.11/grails-plugin-mimetypes-3.1.11.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-validation/3.1.11/grails-plugin-validation-3.1.11.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-domain-class/3.1.11/grails-plugin-domain-class-3.1.11.jar
-Download https://repo.grails.org/grails/core/org/springframework/spring-jdbc/4.2.7.RELEASE/spring-jdbc-4.2.7.RELEASE.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-codecs/3.1.11/grails-codecs-3.1.11.jar
-Download https://repo.grails.org/grails/core/org/springframework/spring-web/4.2.7.RELEASE/spring-web-4.2.7.RELEASE.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-taglib/3.1.11/grails-taglib-3.1.11.jar
-Download https://repo.grails.org/grails/core/org/springframework/spring-orm/4.2.7.RELEASE/spring-orm-4.2.7.RELEASE.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-web-taglib/3.1.11/grails-web-taglib-3.1.11.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-console/3.1.11/grails-console-3.1.11.jar
-Download https://repo.grails.org/grails/core/org/springframework/spring-test/4.2.7.RELEASE/spring-test-4.2.7.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-gradle-plugin/3.1.12/grails-gradle-plugin-3.1.12.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-gradle-model/3.1.12/grails-gradle-model-3.1.12.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-shell/3.1.12/grails-shell-3.1.12.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-bootstrap/3.1.12/grails-bootstrap-3.1.12.jar
+Download https://repo.grails.org/grails/core/org/springframework/boot/spring-boot-gradle-plugin/1.3.8.RELEASE/spring-boot-gradle-plugin-1.3.8.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/springframework/boot/spring-boot-cli/1.3.8.RELEASE/spring-boot-cli-1.3.8.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/springframework/boot/spring-boot-loader-tools/1.3.8.RELEASE/spring-boot-loader-tools-1.3.8.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/springframework/spring-core/4.2.8.RELEASE/spring-core-4.2.8.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/springframework/boot/spring-boot-starter-parent/1.3.8.RELEASE/spring-boot-starter-parent-1.3.8.RELEASE.pom
+Download https://repo.grails.org/grails/core/org/springframework/boot/spring-boot-dependencies/1.3.8.RELEASE/spring-boot-dependencies-1.3.8.RELEASE.pom
+Download https://repo.grails.org/grails/core/org/springframework/spring-framework-bom/4.2.8.RELEASE/spring-framework-bom-4.2.8.RELEASE.pom
+Download https://repo.grails.org/grails/core/org/springframework/data/spring-data-releasetrain/Gosling-SR5/spring-data-releasetrain-Gosling-SR5.pom
+Download https://repo.grails.org/grails/core/org/springframework/data/build/spring-data-build/1.7.5.RELEASE/spring-data-build-1.7.5.RELEASE.pom
+Download https://repo.grails.org/grails/core/org/springframework/boot/spring-boot-starter-logging/1.3.8.RELEASE/spring-boot-starter-logging-1.3.8.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/springframework/boot/spring-boot-autoconfigure/1.3.8.RELEASE/spring-boot-autoconfigure-1.3.8.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-core/3.1.12/grails-core-3.1.12.jar
+Download https://repo.grails.org/grails/core/org/springframework/boot/spring-boot-starter-actuator/1.3.8.RELEASE/spring-boot-starter-actuator-1.3.8.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/springframework/boot/spring-boot-starter-tomcat/1.3.8.RELEASE/spring-boot-starter-tomcat-1.3.8.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-web-boot/3.1.12/grails-web-boot-3.1.12.jar
+Download https://repo.grails.org/grails/core/org/grails/plugins/hibernate4/5.0.11/hibernate4-5.0.11.jar
+Download https://repo.grails.org/grails/core/org/springframework/boot/spring-boot/1.3.8.RELEASE/spring-boot-1.3.8.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/springframework/spring-tx/4.2.8.RELEASE/spring-tx-4.2.8.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/springframework/spring-beans/4.2.8.RELEASE/spring-beans-4.2.8.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/springframework/spring-context/4.2.8.RELEASE/spring-context-4.2.8.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-spring/3.1.12/grails-spring-3.1.12.jar
+Download https://repo.grails.org/grails/core/org/springframework/boot/spring-boot-starter/1.3.8.RELEASE/spring-boot-starter-1.3.8.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/springframework/boot/spring-boot-actuator/1.3.8.RELEASE/spring-boot-actuator-1.3.8.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/apache/tomcat/embed/tomcat-embed-core/8.0.37/tomcat-embed-core-8.0.37.jar
+Download https://repo.grails.org/grails/core/org/apache/tomcat/embed/tomcat-embed-el/8.0.37/tomcat-embed-el-8.0.37.jar
+Download https://repo.grails.org/grails/core/org/apache/tomcat/embed/tomcat-embed-logging-juli/8.0.37/tomcat-embed-logging-juli-8.0.37.jar
+Download https://repo.grails.org/grails/core/org/apache/tomcat/embed/tomcat-embed-websocket/8.0.37/tomcat-embed-websocket-8.0.37.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-rest/3.1.12/grails-plugin-rest-3.1.12.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-databinding/3.1.12/grails-plugin-databinding-3.1.12.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-i18n/3.1.12/grails-plugin-i18n-3.1.12.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-gsp/3.1.12/grails-plugin-gsp-3.1.12.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-services/3.1.12/grails-plugin-services-3.1.12.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-url-mappings/3.1.12/grails-plugin-url-mappings-3.1.12.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-interceptors/3.1.12/grails-plugin-interceptors-3.1.12.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-async/3.1.12/grails-plugin-async-3.1.12.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-web-common/3.1.12/grails-web-common-3.1.12.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-datastore-simple/5.0.12.RELEASE/grails-datastore-simple-5.0.12.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-datastore-gorm-support/5.0.12.RELEASE/grails-datastore-gorm-support-5.0.12.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-datastore-gorm-hibernate4/5.0.12.RELEASE/grails-datastore-gorm-hibernate4-5.0.12.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/springframework/spring-aop/4.2.8.RELEASE/spring-aop-4.2.8.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/springframework/spring-expression/4.2.8.RELEASE/spring-expression-4.2.8.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-web/3.1.12/grails-web-3.1.12.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-controllers/3.1.12/grails-plugin-controllers-3.1.12.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-datasource/3.1.12/grails-plugin-datasource-3.1.12.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-codecs/3.1.12/grails-plugin-codecs-3.1.12.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-logging/3.1.12/grails-logging-3.1.12.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-web-gsp-taglib/3.1.12/grails-web-gsp-taglib-3.1.12.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-events/3.1.12/grails-plugin-events-3.1.12.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-validation/3.1.12/grails-validation-3.1.12.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-databinding/3.1.12/grails-databinding-3.1.12.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-encoder/3.1.12/grails-encoder-3.1.12.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-gsp/3.1.12/grails-gsp-3.1.12.jar
+Download https://repo.grails.org/grails/core/org/springframework/spring-webmvc/4.2.8.RELEASE/spring-webmvc-4.2.8.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/springframework/spring-context-support/4.2.8.RELEASE/spring-context-support-4.2.8.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-datastore-core/5.0.12.RELEASE/grails-datastore-core-5.0.12.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-datastore-gorm/5.0.12.RELEASE/grails-datastore-gorm-5.0.12.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-datastore-gorm-hibernate-core/5.0.12.RELEASE/grails-datastore-gorm-hibernate-core-5.0.12.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/springframework/spring-aspects/4.2.8.RELEASE/spring-aspects-4.2.8.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-web-gsp/3.1.12/grails-web-gsp-3.1.12.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-web-databinding/3.1.12/grails-web-databinding-3.1.12.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-web-url-mappings/3.1.12/grails-web-url-mappings-3.1.12.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-web-jsp/3.1.12/grails-web-jsp-3.1.12.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-web-mvc/3.1.12/grails-web-mvc-3.1.12.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-web-sitemesh/3.1.12/grails-web-sitemesh-3.1.12.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-async/3.1.12/grails-async-3.1.12.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-converters/3.1.12/grails-plugin-converters-3.1.12.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-mimetypes/3.1.12/grails-plugin-mimetypes-3.1.12.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-validation/3.1.12/grails-plugin-validation-3.1.12.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-domain-class/3.1.12/grails-plugin-domain-class-3.1.12.jar
+Download https://repo.grails.org/grails/core/org/springframework/spring-jdbc/4.2.8.RELEASE/spring-jdbc-4.2.8.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/apache/tomcat/tomcat-jdbc/8.0.37/tomcat-jdbc-8.0.37.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-codecs/3.1.12/grails-codecs-3.1.12.jar
+Download https://repo.grails.org/grails/core/org/springframework/spring-web/4.2.8.RELEASE/spring-web-4.2.8.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-taglib/3.1.12/grails-taglib-3.1.12.jar
+Download https://repo.grails.org/grails/core/org/springframework/spring-orm/4.2.8.RELEASE/spring-orm-4.2.8.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-web-taglib/3.1.12/grails-web-taglib-3.1.12.jar
+Download https://repo.grails.org/grails/core/org/apache/tomcat/tomcat-juli/8.0.37/tomcat-juli-8.0.37.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-console/3.1.12/grails-console-3.1.12.jar
+Download https://repo.grails.org/grails/core/org/springframework/spring-test/4.2.8.RELEASE/spring-test-4.2.8.RELEASE.jar
 :dependencyManagement
 
 ------------------------------------------------------------
@@ -97,7 +125,7 @@ global - Default dependency management for all configurations
     com.jayway.jsonpath:json-path-assert 2.0.0
     com.samskivert:jmustache 1.11
     com.sendgrid:sendgrid-java 2.2.2
-    com.sun.mail:javax.mail 1.5.5
+    com.sun.mail:javax.mail 1.5.6
     com.timgroup:java-statsd-client 3.1.0
     com.zaxxer:HikariCP 2.4.7
     com.zaxxer:HikariCP-java6 2.3.13
@@ -127,7 +155,7 @@ global - Default dependency management for all configurations
     io.undertow:undertow-websockets-jsr 1.3.23.Final
     javax.cache:cache-api 1.0.0
     javax.jms:jms-api 1.1-rev-1
-    javax.mail:javax.mail-api 1.5.5
+    javax.mail:javax.mail-api 1.5.6
     javax.servlet:javax.servlet-api 3.1.0
     javax.servlet:jstl 1.2
     javax.transaction:javax.transaction-api 1.2
@@ -179,13 +207,13 @@ global - Default dependency management for all configurations
     org.apache.logging.log4j:log4j-core 2.4.1
     org.apache.logging.log4j:log4j-slf4j-impl 2.4.1
     org.apache.solr:solr-solrj 4.10.4
-    org.apache.tomcat:tomcat-jdbc 8.0.36
-    org.apache.tomcat:tomcat-jsp-api 8.0.36
-    org.apache.tomcat.embed:tomcat-embed-core 8.0.36
-    org.apache.tomcat.embed:tomcat-embed-el 8.0.36
-    org.apache.tomcat.embed:tomcat-embed-jasper 8.0.36
-    org.apache.tomcat.embed:tomcat-embed-logging-juli 8.0.36
-    org.apache.tomcat.embed:tomcat-embed-websocket 8.0.36
+    org.apache.tomcat:tomcat-jdbc 8.0.37
+    org.apache.tomcat:tomcat-jsp-api 8.0.37
+    org.apache.tomcat.embed:tomcat-embed-core 8.0.37
+    org.apache.tomcat.embed:tomcat-embed-el 8.0.37
+    org.apache.tomcat.embed:tomcat-embed-jasper 8.0.37
+    org.apache.tomcat.embed:tomcat-embed-logging-juli 8.0.37
+    org.apache.tomcat.embed:tomcat-embed-websocket 8.0.37
     org.apache.velocity:velocity 1.7
     org.apache.velocity:velocity-tools 2.0
     org.aspectj:aspectjrt 1.8.9
@@ -219,30 +247,30 @@ global - Default dependency management for all configurations
     org.crashub:crash.plugins.cron 1.3.2
     org.crashub:crash.plugins.mail 1.3.2
     org.crashub:crash.shell 1.3.2
-    org.eclipse.jetty:jetty-annotations 9.2.18.v20160721
-    org.eclipse.jetty:jetty-client 9.2.18.v20160721
-    org.eclipse.jetty:jetty-continuation 9.2.18.v20160721
-    org.eclipse.jetty:jetty-deploy 9.2.18.v20160721
-    org.eclipse.jetty:jetty-http 9.2.18.v20160721
-    org.eclipse.jetty:jetty-io 9.2.18.v20160721
-    org.eclipse.jetty:jetty-jmx 9.2.18.v20160721
-    org.eclipse.jetty:jetty-jsp 9.2.18.v20160721
-    org.eclipse.jetty:jetty-plus 9.2.18.v20160721
-    org.eclipse.jetty:jetty-security 9.2.18.v20160721
-    org.eclipse.jetty:jetty-server 9.2.18.v20160721
-    org.eclipse.jetty:jetty-servlet 9.2.18.v20160721
-    org.eclipse.jetty:jetty-servlets 9.2.18.v20160721
-    org.eclipse.jetty:jetty-util 9.2.18.v20160721
-    org.eclipse.jetty:jetty-webapp 9.2.18.v20160721
-    org.eclipse.jetty:jetty-xml 9.2.18.v20160721
+    org.eclipse.jetty:jetty-annotations 9.2.19.v20160908
+    org.eclipse.jetty:jetty-client 9.2.19.v20160908
+    org.eclipse.jetty:jetty-continuation 9.2.19.v20160908
+    org.eclipse.jetty:jetty-deploy 9.2.19.v20160908
+    org.eclipse.jetty:jetty-http 9.2.19.v20160908
+    org.eclipse.jetty:jetty-io 9.2.19.v20160908
+    org.eclipse.jetty:jetty-jmx 9.2.19.v20160908
+    org.eclipse.jetty:jetty-jsp 9.2.19.v20160908
+    org.eclipse.jetty:jetty-plus 9.2.19.v20160908
+    org.eclipse.jetty:jetty-security 9.2.19.v20160908
+    org.eclipse.jetty:jetty-server 9.2.19.v20160908
+    org.eclipse.jetty:jetty-servlet 9.2.19.v20160908
+    org.eclipse.jetty:jetty-servlets 9.2.19.v20160908
+    org.eclipse.jetty:jetty-util 9.2.19.v20160908
+    org.eclipse.jetty:jetty-webapp 9.2.19.v20160908
+    org.eclipse.jetty:jetty-xml 9.2.19.v20160908
     org.eclipse.jetty.orbit:javax.servlet.jsp 2.2.0.v201112011158
-    org.eclipse.jetty.websocket:javax-websocket-server-impl 9.2.18.v20160721
-    org.eclipse.jetty.websocket:websocket-client 9.2.18.v20160721
-    org.eclipse.jetty.websocket:websocket-server 9.2.18.v20160721
+    org.eclipse.jetty.websocket:javax-websocket-server-impl 9.2.19.v20160908
+    org.eclipse.jetty.websocket:websocket-client 9.2.19.v20160908
+    org.eclipse.jetty.websocket:websocket-server 9.2.19.v20160908
     org.elasticsearch:elasticsearch 1.5.2
-    org.firebirdsql.jdbc:jaybird-jdk16 2.2.10
-    org.firebirdsql.jdbc:jaybird-jdk17 2.2.10
-    org.firebirdsql.jdbc:jaybird-jdk18 2.2.10
+    org.firebirdsql.jdbc:jaybird-jdk16 2.2.11
+    org.firebirdsql.jdbc:jaybird-jdk17 2.2.11
+    org.firebirdsql.jdbc:jaybird-jdk18 2.2.11
     org.flywaydb:flyway-core 3.2.1
     org.freemarker:freemarker 2.3.25-incubating
     org.glassfish:javax.el 3.0.0
@@ -252,84 +280,84 @@ global - Default dependency management for all configurations
     org.glassfish.jersey.ext:jersey-bean-validation 2.22.2
     org.glassfish.jersey.ext:jersey-spring3 2.22.2
     org.glassfish.jersey.media:jersey-media-json-jackson 2.22.2
-    org.grails:grails-async 3.1.11
-    org.grails:grails-bootstrap 3.1.11
-    org.grails:grails-codecs 3.1.11
-    org.grails:grails-compat 3.1.11
-    org.grails:grails-console 3.1.11
-    org.grails:grails-core 3.1.11
-    org.grails:grails-databinding 3.1.11
-    org.grails:grails-datastore-core 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm-cassandra 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm-hibernate 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm-hibernate4 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm-hibernate5 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm-mongodb 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm-neo4j 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm-support 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm-test 5.0.10.RELEASE
-    org.grails:grails-datastore-rest-client 5.0.10.RELEASE
-    org.grails:grails-datastore-simple 5.0.10.RELEASE
-    org.grails:grails-datastore-test-support 5.0.10.RELEASE
-    org.grails:grails-datastore-web 5.0.10.RELEASE
-    org.grails:grails-dependencies 3.1.11
-    org.grails:grails-docs 3.1.11
-    org.grails:grails-encoder 3.1.11
-    org.grails:grails-gradle-model 3.1.11
-    org.grails:grails-gradle-plugin 3.1.11
-    org.grails:grails-gsp 3.1.11
-    org.grails:grails-logging 3.1.11
-    org.grails:grails-plugin-async 3.1.11
-    org.grails:grails-plugin-codecs 3.1.11
-    org.grails:grails-plugin-controllers 3.1.11
-    org.grails:grails-plugin-converters 3.1.11
-    org.grails:grails-plugin-databinding 3.1.11
-    org.grails:grails-plugin-datasource 3.1.11
-    org.grails:grails-plugin-domain-class 3.1.11
-    org.grails:grails-plugin-events 3.1.11
-    org.grails:grails-plugin-gsp 3.1.11
-    org.grails:grails-plugin-i18n 3.1.11
-    org.grails:grails-plugin-interceptors 3.1.11
-    org.grails:grails-plugin-mimetypes 3.1.11
-    org.grails:grails-plugin-rest 3.1.11
-    org.grails:grails-plugin-services 3.1.11
-    org.grails:grails-plugin-testing 3.1.11
-    org.grails:grails-plugin-url-mappings 3.1.11
-    org.grails:grails-plugin-validation 3.1.11
-    org.grails:grails-shell 3.1.11
-    org.grails:grails-spring 3.1.11
-    org.grails:grails-taglib 3.1.11
-    org.grails:grails-test 3.1.11
-    org.grails:grails-test-suite-base 3.1.11
-    org.grails:grails-test-suite-persistence 3.1.11
-    org.grails:grails-test-suite-uber 3.1.11
-    org.grails:grails-test-suite-web 3.1.11
-    org.grails:grails-validation 3.1.11
-    org.grails:grails-web 3.1.11
-    org.grails:grails-web-boot 3.1.11
-    org.grails:grails-web-common 3.1.11
-    org.grails:grails-web-databinding 3.1.11
-    org.grails:grails-web-fileupload 3.1.11
-    org.grails:grails-web-gsp 3.1.11
-    org.grails:grails-web-gsp-taglib 3.1.11
-    org.grails:grails-web-jsp 3.1.11
-    org.grails:grails-web-mvc 3.1.11
-    org.grails:grails-web-sitemesh 3.1.11
-    org.grails:grails-web-taglib 3.1.11
-    org.grails:grails-web-url-mappings 3.1.11
+    org.grails:grails-async 3.1.12
+    org.grails:grails-bootstrap 3.1.12
+    org.grails:grails-codecs 3.1.12
+    org.grails:grails-compat 3.1.12
+    org.grails:grails-console 3.1.12
+    org.grails:grails-core 3.1.12
+    org.grails:grails-databinding 3.1.12
+    org.grails:grails-datastore-core 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm-cassandra 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm-hibernate 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm-hibernate4 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm-hibernate5 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm-mongodb 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm-neo4j 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm-support 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm-test 5.0.12.RELEASE
+    org.grails:grails-datastore-rest-client 5.0.12.RELEASE
+    org.grails:grails-datastore-simple 5.0.12.RELEASE
+    org.grails:grails-datastore-test-support 5.0.12.RELEASE
+    org.grails:grails-datastore-web 5.0.12.RELEASE
+    org.grails:grails-dependencies 3.1.12
+    org.grails:grails-docs 3.1.12
+    org.grails:grails-encoder 3.1.12
+    org.grails:grails-gradle-model 3.1.12
+    org.grails:grails-gradle-plugin 3.1.12
+    org.grails:grails-gsp 3.1.12
+    org.grails:grails-logging 3.1.12
+    org.grails:grails-plugin-async 3.1.12
+    org.grails:grails-plugin-codecs 3.1.12
+    org.grails:grails-plugin-controllers 3.1.12
+    org.grails:grails-plugin-converters 3.1.12
+    org.grails:grails-plugin-databinding 3.1.12
+    org.grails:grails-plugin-datasource 3.1.12
+    org.grails:grails-plugin-domain-class 3.1.12
+    org.grails:grails-plugin-events 3.1.12
+    org.grails:grails-plugin-gsp 3.1.12
+    org.grails:grails-plugin-i18n 3.1.12
+    org.grails:grails-plugin-interceptors 3.1.12
+    org.grails:grails-plugin-mimetypes 3.1.12
+    org.grails:grails-plugin-rest 3.1.12
+    org.grails:grails-plugin-services 3.1.12
+    org.grails:grails-plugin-testing 3.1.12
+    org.grails:grails-plugin-url-mappings 3.1.12
+    org.grails:grails-plugin-validation 3.1.12
+    org.grails:grails-shell 3.1.12
+    org.grails:grails-spring 3.1.12
+    org.grails:grails-taglib 3.1.12
+    org.grails:grails-test 3.1.12
+    org.grails:grails-test-suite-base 3.1.12
+    org.grails:grails-test-suite-persistence 3.1.12
+    org.grails:grails-test-suite-uber 3.1.12
+    org.grails:grails-test-suite-web 3.1.12
+    org.grails:grails-validation 3.1.12
+    org.grails:grails-web 3.1.12
+    org.grails:grails-web-boot 3.1.12
+    org.grails:grails-web-common 3.1.12
+    org.grails:grails-web-databinding 3.1.12
+    org.grails:grails-web-fileupload 3.1.12
+    org.grails:grails-web-gsp 3.1.12
+    org.grails:grails-web-gsp-taglib 3.1.12
+    org.grails:grails-web-jsp 3.1.12
+    org.grails:grails-web-mvc 3.1.12
+    org.grails:grails-web-sitemesh 3.1.12
+    org.grails:grails-web-taglib 3.1.12
+    org.grails:grails-web-url-mappings 3.1.12
     org.grails.plugins:asset-pipeline 3.2.1
     org.grails.plugins:asset-pipeline-grails 2.8.2
     org.grails.plugins:cache 3.0.2
-    org.grails.plugins:cassandra 5.0.10
+    org.grails.plugins:cassandra 5.0.11
     org.grails.plugins:fields 2.1.2
     org.grails.plugins:geb 1.0.2
     org.grails.plugins:hibernate 4.3.10.7
-    org.grails.plugins:hibernate3 5.0.10
-    org.grails.plugins:hibernate4 5.0.10
-    org.grails.plugins:hibernate5 5.0.10
-    org.grails.plugins:mongodb 5.0.10
-    org.grails.plugins:neo4j 5.0.10
+    org.grails.plugins:hibernate3 5.0.11
+    org.grails.plugins:hibernate4 5.0.11
+    org.grails.plugins:hibernate5 5.0.11
+    org.grails.plugins:mongodb 5.0.11
+    org.grails.plugins:neo4j 5.0.11
     org.grails.plugins:scaffolding 3.2.1
     org.grails.plugins:views-json 1.0.12
     org.grails.plugins:views-markup 1.0.12
@@ -357,7 +385,7 @@ global - Default dependency management for all configurations
     org.javassist:javassist 3.18.1-GA
     org.jboss.logging:jboss-logging 3.3.0.Final
     org.jdom:jdom2 2.0.6
-    org.jolokia:jolokia-core 1.3.3
+    org.jolokia:jolokia-core 1.3.4
     org.jooq:jooq 3.7.4
     org.jooq:jooq-codegen 3.7.4
     org.jooq:jooq-meta 3.7.4
@@ -366,7 +394,7 @@ global - Default dependency management for all configurations
     org.mariadb.jdbc:mariadb-java-client 1.2.3
     org.mockito:mockito-core 1.10.19
     org.mongodb:mongo-java-driver 2.13.3
-    org.postgresql:postgresql 9.4.1209.jre7
+    org.postgresql:postgresql 9.4.1211.jre7
     org.skyscreamer:jsonassert 1.2.3
     org.slf4j:jcl-over-slf4j 1.7.21
     org.slf4j:jul-to-slf4j 1.7.21
@@ -377,26 +405,26 @@ global - Default dependency management for all configurations
     org.slf4j:slf4j-simple 1.7.21
     org.spockframework:spock-core 1.0-groovy-2.4
     org.spockframework:spock-spring 1.0-groovy-2.4
-    org.springframework:spring-aop 4.2.7.RELEASE
-    org.springframework:spring-aspects 4.2.7.RELEASE
-    org.springframework:spring-beans 4.2.7.RELEASE
-    org.springframework:spring-context 4.2.7.RELEASE
-    org.springframework:spring-context-support 4.2.7.RELEASE
-    org.springframework:spring-core 4.2.7.RELEASE
-    org.springframework:spring-expression 4.2.7.RELEASE
-    org.springframework:spring-instrument 4.2.7.RELEASE
-    org.springframework:spring-instrument-tomcat 4.2.7.RELEASE
-    org.springframework:spring-jdbc 4.2.7.RELEASE
-    org.springframework:spring-jms 4.2.7.RELEASE
-    org.springframework:spring-messaging 4.2.7.RELEASE
-    org.springframework:spring-orm 4.2.7.RELEASE
-    org.springframework:spring-oxm 4.2.7.RELEASE
-    org.springframework:spring-test 4.2.7.RELEASE
-    org.springframework:spring-tx 4.2.7.RELEASE
-    org.springframework:spring-web 4.2.7.RELEASE
-    org.springframework:spring-webmvc 4.2.7.RELEASE
-    org.springframework:spring-webmvc-portlet 4.2.7.RELEASE
-    org.springframework:spring-websocket 4.2.7.RELEASE
+    org.springframework:spring-aop 4.2.8.RELEASE
+    org.springframework:spring-aspects 4.2.8.RELEASE
+    org.springframework:spring-beans 4.2.8.RELEASE
+    org.springframework:spring-context 4.2.8.RELEASE
+    org.springframework:spring-context-support 4.2.8.RELEASE
+    org.springframework:spring-core 4.2.8.RELEASE
+    org.springframework:spring-expression 4.2.8.RELEASE
+    org.springframework:spring-instrument 4.2.8.RELEASE
+    org.springframework:spring-instrument-tomcat 4.2.8.RELEASE
+    org.springframework:spring-jdbc 4.2.8.RELEASE
+    org.springframework:spring-jms 4.2.8.RELEASE
+    org.springframework:spring-messaging 4.2.8.RELEASE
+    org.springframework:spring-orm 4.2.8.RELEASE
+    org.springframework:spring-oxm 4.2.8.RELEASE
+    org.springframework:spring-test 4.2.8.RELEASE
+    org.springframework:spring-tx 4.2.8.RELEASE
+    org.springframework:spring-web 4.2.8.RELEASE
+    org.springframework:spring-webmvc 4.2.8.RELEASE
+    org.springframework:spring-webmvc-portlet 4.2.8.RELEASE
+    org.springframework:spring-websocket 4.2.8.RELEASE
     org.springframework:springloaded 1.2.6.RELEASE
     org.springframework.amqp:spring-amqp 1.5.6.RELEASE
     org.springframework.amqp:spring-rabbit 1.5.6.RELEASE
@@ -404,84 +432,84 @@ global - Default dependency management for all configurations
     org.springframework.batch:spring-batch-infrastructure 3.0.7.RELEASE
     org.springframework.batch:spring-batch-integration 3.0.7.RELEASE
     org.springframework.batch:spring-batch-test 3.0.7.RELEASE
-    org.springframework.boot:spring-boot 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-actuator 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-actuator-docs 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-autoconfigure 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-configuration-metadata 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-configuration-processor 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-devtools 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-loader 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-loader-tools 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-actuator 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-amqp 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-aop 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-artemis 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-batch 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-cache 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-cloud-connectors 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-data-cassandra 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-data-elasticsearch 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-data-gemfire 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-data-jpa 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-data-mongodb 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-data-rest 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-data-solr 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-freemarker 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-groovy-templates 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-hateoas 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-hornetq 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-integration 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-jdbc 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-jersey 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-jetty 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-jooq 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-jta-atomikos 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-jta-bitronix 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-log4j 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-log4j2 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-logging 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-mail 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-mobile 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-mustache 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-redis 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-remote-shell 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-security 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-social-facebook 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-social-linkedin 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-social-twitter 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-test 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-thymeleaf 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-tomcat 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-undertow 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-validation 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-velocity 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-web 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-websocket 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-ws 1.3.7.RELEASE
+    org.springframework.boot:spring-boot 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-actuator 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-actuator-docs 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-autoconfigure 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-configuration-metadata 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-configuration-processor 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-devtools 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-loader 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-loader-tools 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-actuator 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-amqp 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-aop 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-artemis 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-batch 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-cache 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-cloud-connectors 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-data-cassandra 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-data-elasticsearch 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-data-gemfire 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-data-jpa 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-data-mongodb 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-data-rest 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-data-solr 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-freemarker 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-groovy-templates 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-hateoas 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-hornetq 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-integration 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-jdbc 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-jersey 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-jetty 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-jooq 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-jta-atomikos 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-jta-bitronix 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-log4j 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-log4j2 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-logging 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-mail 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-mobile 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-mustache 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-redis 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-remote-shell 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-security 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-social-facebook 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-social-linkedin 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-social-twitter 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-test 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-thymeleaf 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-tomcat 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-undertow 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-validation 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-velocity 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-web 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-websocket 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-ws 1.3.8.RELEASE
     org.springframework.cloud:spring-cloud-cloudfoundry-connector 1.2.3.RELEASE
     org.springframework.cloud:spring-cloud-core 1.2.3.RELEASE
     org.springframework.cloud:spring-cloud-heroku-connector 1.2.3.RELEASE
     org.springframework.cloud:spring-cloud-localconfig-connector 1.2.3.RELEASE
     org.springframework.cloud:spring-cloud-spring-service-connector 1.2.3.RELEASE
-    org.springframework.data:spring-cql 1.3.4.RELEASE
-    org.springframework.data:spring-data-cassandra 1.3.4.RELEASE
-    org.springframework.data:spring-data-commons 1.11.4.RELEASE
-    org.springframework.data:spring-data-couchbase 1.4.4.RELEASE
-    org.springframework.data:spring-data-elasticsearch 1.3.4.RELEASE
-    org.springframework.data:spring-data-gemfire 1.7.4.RELEASE
-    org.springframework.data:spring-data-jpa 1.9.4.RELEASE
-    org.springframework.data:spring-data-keyvalue 1.0.4.RELEASE
-    org.springframework.data:spring-data-mongodb 1.8.4.RELEASE
-    org.springframework.data:spring-data-mongodb-cross-store 1.8.4.RELEASE
-    org.springframework.data:spring-data-mongodb-log4j 1.8.4.RELEASE
-    org.springframework.data:spring-data-neo4j 3.4.4.RELEASE
-    org.springframework.data:spring-data-redis 1.6.4.RELEASE
-    org.springframework.data:spring-data-rest-core 2.4.4.RELEASE
-    org.springframework.data:spring-data-rest-hal-browser 2.4.4.RELEASE
-    org.springframework.data:spring-data-rest-webmvc 2.4.4.RELEASE
-    org.springframework.data:spring-data-solr 1.5.4.RELEASE
+    org.springframework.data:spring-cql 1.3.5.RELEASE
+    org.springframework.data:spring-data-cassandra 1.3.5.RELEASE
+    org.springframework.data:spring-data-commons 1.11.5.RELEASE
+    org.springframework.data:spring-data-couchbase 1.4.5.RELEASE
+    org.springframework.data:spring-data-elasticsearch 1.3.5.RELEASE
+    org.springframework.data:spring-data-gemfire 1.7.5.RELEASE
+    org.springframework.data:spring-data-jpa 1.9.5.RELEASE
+    org.springframework.data:spring-data-keyvalue 1.0.5.RELEASE
+    org.springframework.data:spring-data-mongodb 1.8.5.RELEASE
+    org.springframework.data:spring-data-mongodb-cross-store 1.8.5.RELEASE
+    org.springframework.data:spring-data-mongodb-log4j 1.8.5.RELEASE
+    org.springframework.data:spring-data-neo4j 3.4.5.RELEASE
+    org.springframework.data:spring-data-redis 1.6.5.RELEASE
+    org.springframework.data:spring-data-rest-core 2.4.5.RELEASE
+    org.springframework.data:spring-data-rest-hal-browser 2.4.5.RELEASE
+    org.springframework.data:spring-data-rest-webmvc 2.4.5.RELEASE
+    org.springframework.data:spring-data-solr 1.5.5.RELEASE
     org.springframework.hateoas:spring-hateoas 0.19.0.RELEASE
     org.springframework.integration:spring-integration-amqp 4.2.9.RELEASE
     org.springframework.integration:spring-integration-core 4.2.9.RELEASE
@@ -527,7 +555,7 @@ global - Default dependency management for all configurations
     org.springframework.security:spring-security-core 4.0.4.RELEASE
     org.springframework.security:spring-security-crypto 4.0.4.RELEASE
     org.springframework.security:spring-security-data 4.0.4.RELEASE
-    org.springframework.security:spring-security-jwt 1.0.4.RELEASE
+    org.springframework.security:spring-security-jwt 1.0.5.RELEASE
     org.springframework.security:spring-security-ldap 4.0.4.RELEASE
     org.springframework.security:spring-security-messaging 4.0.4.RELEASE
     org.springframework.security:spring-security-openid 4.0.4.RELEASE
@@ -535,8 +563,8 @@ global - Default dependency management for all configurations
     org.springframework.security:spring-security-taglibs 4.0.4.RELEASE
     org.springframework.security:spring-security-test 4.0.4.RELEASE
     org.springframework.security:spring-security-web 4.0.4.RELEASE
-    org.springframework.security.oauth:spring-security-oauth 2.0.10.RELEASE
-    org.springframework.security.oauth:spring-security-oauth2 2.0.10.RELEASE
+    org.springframework.security.oauth:spring-security-oauth 2.0.11.RELEASE
+    org.springframework.security.oauth:spring-security-oauth2 2.0.11.RELEASE
     org.springframework.session:spring-session 1.0.2.RELEASE
     org.springframework.session:spring-session-data-redis 1.0.2.RELEASE
     org.springframework.social:spring-social-config 1.1.4.RELEASE
@@ -621,7 +649,7 @@ default - Dependency management for the default configuration
     com.jayway.jsonpath:json-path-assert 2.0.0
     com.samskivert:jmustache 1.11
     com.sendgrid:sendgrid-java 2.2.2
-    com.sun.mail:javax.mail 1.5.5
+    com.sun.mail:javax.mail 1.5.6
     com.timgroup:java-statsd-client 3.1.0
     com.zaxxer:HikariCP 2.4.7
     com.zaxxer:HikariCP-java6 2.3.13
@@ -651,7 +679,7 @@ default - Dependency management for the default configuration
     io.undertow:undertow-websockets-jsr 1.3.23.Final
     javax.cache:cache-api 1.0.0
     javax.jms:jms-api 1.1-rev-1
-    javax.mail:javax.mail-api 1.5.5
+    javax.mail:javax.mail-api 1.5.6
     javax.servlet:javax.servlet-api 3.1.0
     javax.servlet:jstl 1.2
     javax.transaction:javax.transaction-api 1.2
@@ -703,13 +731,13 @@ default - Dependency management for the default configuration
     org.apache.logging.log4j:log4j-core 2.4.1
     org.apache.logging.log4j:log4j-slf4j-impl 2.4.1
     org.apache.solr:solr-solrj 4.10.4
-    org.apache.tomcat:tomcat-jdbc 8.0.36
-    org.apache.tomcat:tomcat-jsp-api 8.0.36
-    org.apache.tomcat.embed:tomcat-embed-core 8.0.36
-    org.apache.tomcat.embed:tomcat-embed-el 8.0.36
-    org.apache.tomcat.embed:tomcat-embed-jasper 8.0.36
-    org.apache.tomcat.embed:tomcat-embed-logging-juli 8.0.36
-    org.apache.tomcat.embed:tomcat-embed-websocket 8.0.36
+    org.apache.tomcat:tomcat-jdbc 8.0.37
+    org.apache.tomcat:tomcat-jsp-api 8.0.37
+    org.apache.tomcat.embed:tomcat-embed-core 8.0.37
+    org.apache.tomcat.embed:tomcat-embed-el 8.0.37
+    org.apache.tomcat.embed:tomcat-embed-jasper 8.0.37
+    org.apache.tomcat.embed:tomcat-embed-logging-juli 8.0.37
+    org.apache.tomcat.embed:tomcat-embed-websocket 8.0.37
     org.apache.velocity:velocity 1.7
     org.apache.velocity:velocity-tools 2.0
     org.aspectj:aspectjrt 1.8.9
@@ -743,30 +771,30 @@ default - Dependency management for the default configuration
     org.crashub:crash.plugins.cron 1.3.2
     org.crashub:crash.plugins.mail 1.3.2
     org.crashub:crash.shell 1.3.2
-    org.eclipse.jetty:jetty-annotations 9.2.18.v20160721
-    org.eclipse.jetty:jetty-client 9.2.18.v20160721
-    org.eclipse.jetty:jetty-continuation 9.2.18.v20160721
-    org.eclipse.jetty:jetty-deploy 9.2.18.v20160721
-    org.eclipse.jetty:jetty-http 9.2.18.v20160721
-    org.eclipse.jetty:jetty-io 9.2.18.v20160721
-    org.eclipse.jetty:jetty-jmx 9.2.18.v20160721
-    org.eclipse.jetty:jetty-jsp 9.2.18.v20160721
-    org.eclipse.jetty:jetty-plus 9.2.18.v20160721
-    org.eclipse.jetty:jetty-security 9.2.18.v20160721
-    org.eclipse.jetty:jetty-server 9.2.18.v20160721
-    org.eclipse.jetty:jetty-servlet 9.2.18.v20160721
-    org.eclipse.jetty:jetty-servlets 9.2.18.v20160721
-    org.eclipse.jetty:jetty-util 9.2.18.v20160721
-    org.eclipse.jetty:jetty-webapp 9.2.18.v20160721
-    org.eclipse.jetty:jetty-xml 9.2.18.v20160721
+    org.eclipse.jetty:jetty-annotations 9.2.19.v20160908
+    org.eclipse.jetty:jetty-client 9.2.19.v20160908
+    org.eclipse.jetty:jetty-continuation 9.2.19.v20160908
+    org.eclipse.jetty:jetty-deploy 9.2.19.v20160908
+    org.eclipse.jetty:jetty-http 9.2.19.v20160908
+    org.eclipse.jetty:jetty-io 9.2.19.v20160908
+    org.eclipse.jetty:jetty-jmx 9.2.19.v20160908
+    org.eclipse.jetty:jetty-jsp 9.2.19.v20160908
+    org.eclipse.jetty:jetty-plus 9.2.19.v20160908
+    org.eclipse.jetty:jetty-security 9.2.19.v20160908
+    org.eclipse.jetty:jetty-server 9.2.19.v20160908
+    org.eclipse.jetty:jetty-servlet 9.2.19.v20160908
+    org.eclipse.jetty:jetty-servlets 9.2.19.v20160908
+    org.eclipse.jetty:jetty-util 9.2.19.v20160908
+    org.eclipse.jetty:jetty-webapp 9.2.19.v20160908
+    org.eclipse.jetty:jetty-xml 9.2.19.v20160908
     org.eclipse.jetty.orbit:javax.servlet.jsp 2.2.0.v201112011158
-    org.eclipse.jetty.websocket:javax-websocket-server-impl 9.2.18.v20160721
-    org.eclipse.jetty.websocket:websocket-client 9.2.18.v20160721
-    org.eclipse.jetty.websocket:websocket-server 9.2.18.v20160721
+    org.eclipse.jetty.websocket:javax-websocket-server-impl 9.2.19.v20160908
+    org.eclipse.jetty.websocket:websocket-client 9.2.19.v20160908
+    org.eclipse.jetty.websocket:websocket-server 9.2.19.v20160908
     org.elasticsearch:elasticsearch 1.5.2
-    org.firebirdsql.jdbc:jaybird-jdk16 2.2.10
-    org.firebirdsql.jdbc:jaybird-jdk17 2.2.10
-    org.firebirdsql.jdbc:jaybird-jdk18 2.2.10
+    org.firebirdsql.jdbc:jaybird-jdk16 2.2.11
+    org.firebirdsql.jdbc:jaybird-jdk17 2.2.11
+    org.firebirdsql.jdbc:jaybird-jdk18 2.2.11
     org.flywaydb:flyway-core 3.2.1
     org.freemarker:freemarker 2.3.25-incubating
     org.glassfish:javax.el 3.0.0
@@ -776,84 +804,84 @@ default - Dependency management for the default configuration
     org.glassfish.jersey.ext:jersey-bean-validation 2.22.2
     org.glassfish.jersey.ext:jersey-spring3 2.22.2
     org.glassfish.jersey.media:jersey-media-json-jackson 2.22.2
-    org.grails:grails-async 3.1.11
-    org.grails:grails-bootstrap 3.1.11
-    org.grails:grails-codecs 3.1.11
-    org.grails:grails-compat 3.1.11
-    org.grails:grails-console 3.1.11
-    org.grails:grails-core 3.1.11
-    org.grails:grails-databinding 3.1.11
-    org.grails:grails-datastore-core 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm-cassandra 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm-hibernate 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm-hibernate4 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm-hibernate5 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm-mongodb 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm-neo4j 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm-support 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm-test 5.0.10.RELEASE
-    org.grails:grails-datastore-rest-client 5.0.10.RELEASE
-    org.grails:grails-datastore-simple 5.0.10.RELEASE
-    org.grails:grails-datastore-test-support 5.0.10.RELEASE
-    org.grails:grails-datastore-web 5.0.10.RELEASE
-    org.grails:grails-dependencies 3.1.11
-    org.grails:grails-docs 3.1.11
-    org.grails:grails-encoder 3.1.11
-    org.grails:grails-gradle-model 3.1.11
-    org.grails:grails-gradle-plugin 3.1.11
-    org.grails:grails-gsp 3.1.11
-    org.grails:grails-logging 3.1.11
-    org.grails:grails-plugin-async 3.1.11
-    org.grails:grails-plugin-codecs 3.1.11
-    org.grails:grails-plugin-controllers 3.1.11
-    org.grails:grails-plugin-converters 3.1.11
-    org.grails:grails-plugin-databinding 3.1.11
-    org.grails:grails-plugin-datasource 3.1.11
-    org.grails:grails-plugin-domain-class 3.1.11
-    org.grails:grails-plugin-events 3.1.11
-    org.grails:grails-plugin-gsp 3.1.11
-    org.grails:grails-plugin-i18n 3.1.11
-    org.grails:grails-plugin-interceptors 3.1.11
-    org.grails:grails-plugin-mimetypes 3.1.11
-    org.grails:grails-plugin-rest 3.1.11
-    org.grails:grails-plugin-services 3.1.11
-    org.grails:grails-plugin-testing 3.1.11
-    org.grails:grails-plugin-url-mappings 3.1.11
-    org.grails:grails-plugin-validation 3.1.11
-    org.grails:grails-shell 3.1.11
-    org.grails:grails-spring 3.1.11
-    org.grails:grails-taglib 3.1.11
-    org.grails:grails-test 3.1.11
-    org.grails:grails-test-suite-base 3.1.11
-    org.grails:grails-test-suite-persistence 3.1.11
-    org.grails:grails-test-suite-uber 3.1.11
-    org.grails:grails-test-suite-web 3.1.11
-    org.grails:grails-validation 3.1.11
-    org.grails:grails-web 3.1.11
-    org.grails:grails-web-boot 3.1.11
-    org.grails:grails-web-common 3.1.11
-    org.grails:grails-web-databinding 3.1.11
-    org.grails:grails-web-fileupload 3.1.11
-    org.grails:grails-web-gsp 3.1.11
-    org.grails:grails-web-gsp-taglib 3.1.11
-    org.grails:grails-web-jsp 3.1.11
-    org.grails:grails-web-mvc 3.1.11
-    org.grails:grails-web-sitemesh 3.1.11
-    org.grails:grails-web-taglib 3.1.11
-    org.grails:grails-web-url-mappings 3.1.11
+    org.grails:grails-async 3.1.12
+    org.grails:grails-bootstrap 3.1.12
+    org.grails:grails-codecs 3.1.12
+    org.grails:grails-compat 3.1.12
+    org.grails:grails-console 3.1.12
+    org.grails:grails-core 3.1.12
+    org.grails:grails-databinding 3.1.12
+    org.grails:grails-datastore-core 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm-cassandra 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm-hibernate 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm-hibernate4 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm-hibernate5 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm-mongodb 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm-neo4j 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm-support 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm-test 5.0.12.RELEASE
+    org.grails:grails-datastore-rest-client 5.0.12.RELEASE
+    org.grails:grails-datastore-simple 5.0.12.RELEASE
+    org.grails:grails-datastore-test-support 5.0.12.RELEASE
+    org.grails:grails-datastore-web 5.0.12.RELEASE
+    org.grails:grails-dependencies 3.1.12
+    org.grails:grails-docs 3.1.12
+    org.grails:grails-encoder 3.1.12
+    org.grails:grails-gradle-model 3.1.12
+    org.grails:grails-gradle-plugin 3.1.12
+    org.grails:grails-gsp 3.1.12
+    org.grails:grails-logging 3.1.12
+    org.grails:grails-plugin-async 3.1.12
+    org.grails:grails-plugin-codecs 3.1.12
+    org.grails:grails-plugin-controllers 3.1.12
+    org.grails:grails-plugin-converters 3.1.12
+    org.grails:grails-plugin-databinding 3.1.12
+    org.grails:grails-plugin-datasource 3.1.12
+    org.grails:grails-plugin-domain-class 3.1.12
+    org.grails:grails-plugin-events 3.1.12
+    org.grails:grails-plugin-gsp 3.1.12
+    org.grails:grails-plugin-i18n 3.1.12
+    org.grails:grails-plugin-interceptors 3.1.12
+    org.grails:grails-plugin-mimetypes 3.1.12
+    org.grails:grails-plugin-rest 3.1.12
+    org.grails:grails-plugin-services 3.1.12
+    org.grails:grails-plugin-testing 3.1.12
+    org.grails:grails-plugin-url-mappings 3.1.12
+    org.grails:grails-plugin-validation 3.1.12
+    org.grails:grails-shell 3.1.12
+    org.grails:grails-spring 3.1.12
+    org.grails:grails-taglib 3.1.12
+    org.grails:grails-test 3.1.12
+    org.grails:grails-test-suite-base 3.1.12
+    org.grails:grails-test-suite-persistence 3.1.12
+    org.grails:grails-test-suite-uber 3.1.12
+    org.grails:grails-test-suite-web 3.1.12
+    org.grails:grails-validation 3.1.12
+    org.grails:grails-web 3.1.12
+    org.grails:grails-web-boot 3.1.12
+    org.grails:grails-web-common 3.1.12
+    org.grails:grails-web-databinding 3.1.12
+    org.grails:grails-web-fileupload 3.1.12
+    org.grails:grails-web-gsp 3.1.12
+    org.grails:grails-web-gsp-taglib 3.1.12
+    org.grails:grails-web-jsp 3.1.12
+    org.grails:grails-web-mvc 3.1.12
+    org.grails:grails-web-sitemesh 3.1.12
+    org.grails:grails-web-taglib 3.1.12
+    org.grails:grails-web-url-mappings 3.1.12
     org.grails.plugins:asset-pipeline 3.2.1
     org.grails.plugins:asset-pipeline-grails 2.8.2
     org.grails.plugins:cache 3.0.2
-    org.grails.plugins:cassandra 5.0.10
+    org.grails.plugins:cassandra 5.0.11
     org.grails.plugins:fields 2.1.2
     org.grails.plugins:geb 1.0.2
     org.grails.plugins:hibernate 4.3.10.7
-    org.grails.plugins:hibernate3 5.0.10
-    org.grails.plugins:hibernate4 5.0.10
-    org.grails.plugins:hibernate5 5.0.10
-    org.grails.plugins:mongodb 5.0.10
-    org.grails.plugins:neo4j 5.0.10
+    org.grails.plugins:hibernate3 5.0.11
+    org.grails.plugins:hibernate4 5.0.11
+    org.grails.plugins:hibernate5 5.0.11
+    org.grails.plugins:mongodb 5.0.11
+    org.grails.plugins:neo4j 5.0.11
     org.grails.plugins:scaffolding 3.2.1
     org.grails.plugins:views-json 1.0.12
     org.grails.plugins:views-markup 1.0.12
@@ -881,7 +909,7 @@ default - Dependency management for the default configuration
     org.javassist:javassist 3.18.1-GA
     org.jboss.logging:jboss-logging 3.3.0.Final
     org.jdom:jdom2 2.0.6
-    org.jolokia:jolokia-core 1.3.3
+    org.jolokia:jolokia-core 1.3.4
     org.jooq:jooq 3.7.4
     org.jooq:jooq-codegen 3.7.4
     org.jooq:jooq-meta 3.7.4
@@ -890,7 +918,7 @@ default - Dependency management for the default configuration
     org.mariadb.jdbc:mariadb-java-client 1.2.3
     org.mockito:mockito-core 1.10.19
     org.mongodb:mongo-java-driver 2.13.3
-    org.postgresql:postgresql 9.4.1209.jre7
+    org.postgresql:postgresql 9.4.1211.jre7
     org.skyscreamer:jsonassert 1.2.3
     org.slf4j:jcl-over-slf4j 1.7.21
     org.slf4j:jul-to-slf4j 1.7.21
@@ -901,26 +929,26 @@ default - Dependency management for the default configuration
     org.slf4j:slf4j-simple 1.7.21
     org.spockframework:spock-core 1.0-groovy-2.4
     org.spockframework:spock-spring 1.0-groovy-2.4
-    org.springframework:spring-aop 4.2.7.RELEASE
-    org.springframework:spring-aspects 4.2.7.RELEASE
-    org.springframework:spring-beans 4.2.7.RELEASE
-    org.springframework:spring-context 4.2.7.RELEASE
-    org.springframework:spring-context-support 4.2.7.RELEASE
-    org.springframework:spring-core 4.2.7.RELEASE
-    org.springframework:spring-expression 4.2.7.RELEASE
-    org.springframework:spring-instrument 4.2.7.RELEASE
-    org.springframework:spring-instrument-tomcat 4.2.7.RELEASE
-    org.springframework:spring-jdbc 4.2.7.RELEASE
-    org.springframework:spring-jms 4.2.7.RELEASE
-    org.springframework:spring-messaging 4.2.7.RELEASE
-    org.springframework:spring-orm 4.2.7.RELEASE
-    org.springframework:spring-oxm 4.2.7.RELEASE
-    org.springframework:spring-test 4.2.7.RELEASE
-    org.springframework:spring-tx 4.2.7.RELEASE
-    org.springframework:spring-web 4.2.7.RELEASE
-    org.springframework:spring-webmvc 4.2.7.RELEASE
-    org.springframework:spring-webmvc-portlet 4.2.7.RELEASE
-    org.springframework:spring-websocket 4.2.7.RELEASE
+    org.springframework:spring-aop 4.2.8.RELEASE
+    org.springframework:spring-aspects 4.2.8.RELEASE
+    org.springframework:spring-beans 4.2.8.RELEASE
+    org.springframework:spring-context 4.2.8.RELEASE
+    org.springframework:spring-context-support 4.2.8.RELEASE
+    org.springframework:spring-core 4.2.8.RELEASE
+    org.springframework:spring-expression 4.2.8.RELEASE
+    org.springframework:spring-instrument 4.2.8.RELEASE
+    org.springframework:spring-instrument-tomcat 4.2.8.RELEASE
+    org.springframework:spring-jdbc 4.2.8.RELEASE
+    org.springframework:spring-jms 4.2.8.RELEASE
+    org.springframework:spring-messaging 4.2.8.RELEASE
+    org.springframework:spring-orm 4.2.8.RELEASE
+    org.springframework:spring-oxm 4.2.8.RELEASE
+    org.springframework:spring-test 4.2.8.RELEASE
+    org.springframework:spring-tx 4.2.8.RELEASE
+    org.springframework:spring-web 4.2.8.RELEASE
+    org.springframework:spring-webmvc 4.2.8.RELEASE
+    org.springframework:spring-webmvc-portlet 4.2.8.RELEASE
+    org.springframework:spring-websocket 4.2.8.RELEASE
     org.springframework:springloaded 1.2.6.RELEASE
     org.springframework.amqp:spring-amqp 1.5.6.RELEASE
     org.springframework.amqp:spring-rabbit 1.5.6.RELEASE
@@ -928,84 +956,84 @@ default - Dependency management for the default configuration
     org.springframework.batch:spring-batch-infrastructure 3.0.7.RELEASE
     org.springframework.batch:spring-batch-integration 3.0.7.RELEASE
     org.springframework.batch:spring-batch-test 3.0.7.RELEASE
-    org.springframework.boot:spring-boot 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-actuator 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-actuator-docs 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-autoconfigure 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-configuration-metadata 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-configuration-processor 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-devtools 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-loader 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-loader-tools 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-actuator 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-amqp 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-aop 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-artemis 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-batch 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-cache 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-cloud-connectors 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-data-cassandra 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-data-elasticsearch 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-data-gemfire 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-data-jpa 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-data-mongodb 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-data-rest 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-data-solr 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-freemarker 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-groovy-templates 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-hateoas 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-hornetq 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-integration 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-jdbc 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-jersey 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-jetty 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-jooq 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-jta-atomikos 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-jta-bitronix 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-log4j 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-log4j2 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-logging 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-mail 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-mobile 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-mustache 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-redis 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-remote-shell 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-security 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-social-facebook 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-social-linkedin 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-social-twitter 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-test 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-thymeleaf 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-tomcat 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-undertow 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-validation 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-velocity 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-web 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-websocket 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-ws 1.3.7.RELEASE
+    org.springframework.boot:spring-boot 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-actuator 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-actuator-docs 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-autoconfigure 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-configuration-metadata 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-configuration-processor 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-devtools 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-loader 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-loader-tools 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-actuator 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-amqp 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-aop 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-artemis 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-batch 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-cache 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-cloud-connectors 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-data-cassandra 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-data-elasticsearch 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-data-gemfire 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-data-jpa 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-data-mongodb 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-data-rest 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-data-solr 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-freemarker 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-groovy-templates 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-hateoas 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-hornetq 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-integration 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-jdbc 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-jersey 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-jetty 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-jooq 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-jta-atomikos 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-jta-bitronix 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-log4j 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-log4j2 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-logging 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-mail 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-mobile 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-mustache 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-redis 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-remote-shell 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-security 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-social-facebook 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-social-linkedin 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-social-twitter 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-test 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-thymeleaf 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-tomcat 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-undertow 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-validation 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-velocity 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-web 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-websocket 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-ws 1.3.8.RELEASE
     org.springframework.cloud:spring-cloud-cloudfoundry-connector 1.2.3.RELEASE
     org.springframework.cloud:spring-cloud-core 1.2.3.RELEASE
     org.springframework.cloud:spring-cloud-heroku-connector 1.2.3.RELEASE
     org.springframework.cloud:spring-cloud-localconfig-connector 1.2.3.RELEASE
     org.springframework.cloud:spring-cloud-spring-service-connector 1.2.3.RELEASE
-    org.springframework.data:spring-cql 1.3.4.RELEASE
-    org.springframework.data:spring-data-cassandra 1.3.4.RELEASE
-    org.springframework.data:spring-data-commons 1.11.4.RELEASE
-    org.springframework.data:spring-data-couchbase 1.4.4.RELEASE
-    org.springframework.data:spring-data-elasticsearch 1.3.4.RELEASE
-    org.springframework.data:spring-data-gemfire 1.7.4.RELEASE
-    org.springframework.data:spring-data-jpa 1.9.4.RELEASE
-    org.springframework.data:spring-data-keyvalue 1.0.4.RELEASE
-    org.springframework.data:spring-data-mongodb 1.8.4.RELEASE
-    org.springframework.data:spring-data-mongodb-cross-store 1.8.4.RELEASE
-    org.springframework.data:spring-data-mongodb-log4j 1.8.4.RELEASE
-    org.springframework.data:spring-data-neo4j 3.4.4.RELEASE
-    org.springframework.data:spring-data-redis 1.6.4.RELEASE
-    org.springframework.data:spring-data-rest-core 2.4.4.RELEASE
-    org.springframework.data:spring-data-rest-hal-browser 2.4.4.RELEASE
-    org.springframework.data:spring-data-rest-webmvc 2.4.4.RELEASE
-    org.springframework.data:spring-data-solr 1.5.4.RELEASE
+    org.springframework.data:spring-cql 1.3.5.RELEASE
+    org.springframework.data:spring-data-cassandra 1.3.5.RELEASE
+    org.springframework.data:spring-data-commons 1.11.5.RELEASE
+    org.springframework.data:spring-data-couchbase 1.4.5.RELEASE
+    org.springframework.data:spring-data-elasticsearch 1.3.5.RELEASE
+    org.springframework.data:spring-data-gemfire 1.7.5.RELEASE
+    org.springframework.data:spring-data-jpa 1.9.5.RELEASE
+    org.springframework.data:spring-data-keyvalue 1.0.5.RELEASE
+    org.springframework.data:spring-data-mongodb 1.8.5.RELEASE
+    org.springframework.data:spring-data-mongodb-cross-store 1.8.5.RELEASE
+    org.springframework.data:spring-data-mongodb-log4j 1.8.5.RELEASE
+    org.springframework.data:spring-data-neo4j 3.4.5.RELEASE
+    org.springframework.data:spring-data-redis 1.6.5.RELEASE
+    org.springframework.data:spring-data-rest-core 2.4.5.RELEASE
+    org.springframework.data:spring-data-rest-hal-browser 2.4.5.RELEASE
+    org.springframework.data:spring-data-rest-webmvc 2.4.5.RELEASE
+    org.springframework.data:spring-data-solr 1.5.5.RELEASE
     org.springframework.hateoas:spring-hateoas 0.19.0.RELEASE
     org.springframework.integration:spring-integration-amqp 4.2.9.RELEASE
     org.springframework.integration:spring-integration-core 4.2.9.RELEASE
@@ -1051,7 +1079,7 @@ default - Dependency management for the default configuration
     org.springframework.security:spring-security-core 4.0.4.RELEASE
     org.springframework.security:spring-security-crypto 4.0.4.RELEASE
     org.springframework.security:spring-security-data 4.0.4.RELEASE
-    org.springframework.security:spring-security-jwt 1.0.4.RELEASE
+    org.springframework.security:spring-security-jwt 1.0.5.RELEASE
     org.springframework.security:spring-security-ldap 4.0.4.RELEASE
     org.springframework.security:spring-security-messaging 4.0.4.RELEASE
     org.springframework.security:spring-security-openid 4.0.4.RELEASE
@@ -1059,8 +1087,8 @@ default - Dependency management for the default configuration
     org.springframework.security:spring-security-taglibs 4.0.4.RELEASE
     org.springframework.security:spring-security-test 4.0.4.RELEASE
     org.springframework.security:spring-security-web 4.0.4.RELEASE
-    org.springframework.security.oauth:spring-security-oauth 2.0.10.RELEASE
-    org.springframework.security.oauth:spring-security-oauth2 2.0.10.RELEASE
+    org.springframework.security.oauth:spring-security-oauth 2.0.11.RELEASE
+    org.springframework.security.oauth:spring-security-oauth2 2.0.11.RELEASE
     org.springframework.session:spring-session 1.0.2.RELEASE
     org.springframework.session:spring-session-data-redis 1.0.2.RELEASE
     org.springframework.social:spring-social-config 1.1.4.RELEASE
@@ -1136,7 +1164,7 @@ integrationTestRuntime - Dependency management for the integrationTestRuntime co
     com.jayway.jsonpath:json-path-assert 2.0.0
     com.samskivert:jmustache 1.11
     com.sendgrid:sendgrid-java 2.2.2
-    com.sun.mail:javax.mail 1.5.5
+    com.sun.mail:javax.mail 1.5.6
     com.timgroup:java-statsd-client 3.1.0
     com.zaxxer:HikariCP 2.4.7
     com.zaxxer:HikariCP-java6 2.3.13
@@ -1166,7 +1194,7 @@ integrationTestRuntime - Dependency management for the integrationTestRuntime co
     io.undertow:undertow-websockets-jsr 1.3.23.Final
     javax.cache:cache-api 1.0.0
     javax.jms:jms-api 1.1-rev-1
-    javax.mail:javax.mail-api 1.5.5
+    javax.mail:javax.mail-api 1.5.6
     javax.servlet:javax.servlet-api 3.1.0
     javax.servlet:jstl 1.2
     javax.transaction:javax.transaction-api 1.2
@@ -1218,13 +1246,13 @@ integrationTestRuntime - Dependency management for the integrationTestRuntime co
     org.apache.logging.log4j:log4j-core 2.4.1
     org.apache.logging.log4j:log4j-slf4j-impl 2.4.1
     org.apache.solr:solr-solrj 4.10.4
-    org.apache.tomcat:tomcat-jdbc 8.0.36
-    org.apache.tomcat:tomcat-jsp-api 8.0.36
-    org.apache.tomcat.embed:tomcat-embed-core 8.0.36
-    org.apache.tomcat.embed:tomcat-embed-el 8.0.36
-    org.apache.tomcat.embed:tomcat-embed-jasper 8.0.36
-    org.apache.tomcat.embed:tomcat-embed-logging-juli 8.0.36
-    org.apache.tomcat.embed:tomcat-embed-websocket 8.0.36
+    org.apache.tomcat:tomcat-jdbc 8.0.37
+    org.apache.tomcat:tomcat-jsp-api 8.0.37
+    org.apache.tomcat.embed:tomcat-embed-core 8.0.37
+    org.apache.tomcat.embed:tomcat-embed-el 8.0.37
+    org.apache.tomcat.embed:tomcat-embed-jasper 8.0.37
+    org.apache.tomcat.embed:tomcat-embed-logging-juli 8.0.37
+    org.apache.tomcat.embed:tomcat-embed-websocket 8.0.37
     org.apache.velocity:velocity 1.7
     org.apache.velocity:velocity-tools 2.0
     org.aspectj:aspectjrt 1.8.9
@@ -1258,30 +1286,30 @@ integrationTestRuntime - Dependency management for the integrationTestRuntime co
     org.crashub:crash.plugins.cron 1.3.2
     org.crashub:crash.plugins.mail 1.3.2
     org.crashub:crash.shell 1.3.2
-    org.eclipse.jetty:jetty-annotations 9.2.18.v20160721
-    org.eclipse.jetty:jetty-client 9.2.18.v20160721
-    org.eclipse.jetty:jetty-continuation 9.2.18.v20160721
-    org.eclipse.jetty:jetty-deploy 9.2.18.v20160721
-    org.eclipse.jetty:jetty-http 9.2.18.v20160721
-    org.eclipse.jetty:jetty-io 9.2.18.v20160721
-    org.eclipse.jetty:jetty-jmx 9.2.18.v20160721
-    org.eclipse.jetty:jetty-jsp 9.2.18.v20160721
-    org.eclipse.jetty:jetty-plus 9.2.18.v20160721
-    org.eclipse.jetty:jetty-security 9.2.18.v20160721
-    org.eclipse.jetty:jetty-server 9.2.18.v20160721
-    org.eclipse.jetty:jetty-servlet 9.2.18.v20160721
-    org.eclipse.jetty:jetty-servlets 9.2.18.v20160721
-    org.eclipse.jetty:jetty-util 9.2.18.v20160721
-    org.eclipse.jetty:jetty-webapp 9.2.18.v20160721
-    org.eclipse.jetty:jetty-xml 9.2.18.v20160721
+    org.eclipse.jetty:jetty-annotations 9.2.19.v20160908
+    org.eclipse.jetty:jetty-client 9.2.19.v20160908
+    org.eclipse.jetty:jetty-continuation 9.2.19.v20160908
+    org.eclipse.jetty:jetty-deploy 9.2.19.v20160908
+    org.eclipse.jetty:jetty-http 9.2.19.v20160908
+    org.eclipse.jetty:jetty-io 9.2.19.v20160908
+    org.eclipse.jetty:jetty-jmx 9.2.19.v20160908
+    org.eclipse.jetty:jetty-jsp 9.2.19.v20160908
+    org.eclipse.jetty:jetty-plus 9.2.19.v20160908
+    org.eclipse.jetty:jetty-security 9.2.19.v20160908
+    org.eclipse.jetty:jetty-server 9.2.19.v20160908
+    org.eclipse.jetty:jetty-servlet 9.2.19.v20160908
+    org.eclipse.jetty:jetty-servlets 9.2.19.v20160908
+    org.eclipse.jetty:jetty-util 9.2.19.v20160908
+    org.eclipse.jetty:jetty-webapp 9.2.19.v20160908
+    org.eclipse.jetty:jetty-xml 9.2.19.v20160908
     org.eclipse.jetty.orbit:javax.servlet.jsp 2.2.0.v201112011158
-    org.eclipse.jetty.websocket:javax-websocket-server-impl 9.2.18.v20160721
-    org.eclipse.jetty.websocket:websocket-client 9.2.18.v20160721
-    org.eclipse.jetty.websocket:websocket-server 9.2.18.v20160721
+    org.eclipse.jetty.websocket:javax-websocket-server-impl 9.2.19.v20160908
+    org.eclipse.jetty.websocket:websocket-client 9.2.19.v20160908
+    org.eclipse.jetty.websocket:websocket-server 9.2.19.v20160908
     org.elasticsearch:elasticsearch 1.5.2
-    org.firebirdsql.jdbc:jaybird-jdk16 2.2.10
-    org.firebirdsql.jdbc:jaybird-jdk17 2.2.10
-    org.firebirdsql.jdbc:jaybird-jdk18 2.2.10
+    org.firebirdsql.jdbc:jaybird-jdk16 2.2.11
+    org.firebirdsql.jdbc:jaybird-jdk17 2.2.11
+    org.firebirdsql.jdbc:jaybird-jdk18 2.2.11
     org.flywaydb:flyway-core 3.2.1
     org.freemarker:freemarker 2.3.25-incubating
     org.glassfish:javax.el 3.0.0
@@ -1291,84 +1319,84 @@ integrationTestRuntime - Dependency management for the integrationTestRuntime co
     org.glassfish.jersey.ext:jersey-bean-validation 2.22.2
     org.glassfish.jersey.ext:jersey-spring3 2.22.2
     org.glassfish.jersey.media:jersey-media-json-jackson 2.22.2
-    org.grails:grails-async 3.1.11
-    org.grails:grails-bootstrap 3.1.11
-    org.grails:grails-codecs 3.1.11
-    org.grails:grails-compat 3.1.11
-    org.grails:grails-console 3.1.11
-    org.grails:grails-core 3.1.11
-    org.grails:grails-databinding 3.1.11
-    org.grails:grails-datastore-core 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm-cassandra 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm-hibernate 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm-hibernate4 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm-hibernate5 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm-mongodb 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm-neo4j 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm-support 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm-test 5.0.10.RELEASE
-    org.grails:grails-datastore-rest-client 5.0.10.RELEASE
-    org.grails:grails-datastore-simple 5.0.10.RELEASE
-    org.grails:grails-datastore-test-support 5.0.10.RELEASE
-    org.grails:grails-datastore-web 5.0.10.RELEASE
-    org.grails:grails-dependencies 3.1.11
-    org.grails:grails-docs 3.1.11
-    org.grails:grails-encoder 3.1.11
-    org.grails:grails-gradle-model 3.1.11
-    org.grails:grails-gradle-plugin 3.1.11
-    org.grails:grails-gsp 3.1.11
-    org.grails:grails-logging 3.1.11
-    org.grails:grails-plugin-async 3.1.11
-    org.grails:grails-plugin-codecs 3.1.11
-    org.grails:grails-plugin-controllers 3.1.11
-    org.grails:grails-plugin-converters 3.1.11
-    org.grails:grails-plugin-databinding 3.1.11
-    org.grails:grails-plugin-datasource 3.1.11
-    org.grails:grails-plugin-domain-class 3.1.11
-    org.grails:grails-plugin-events 3.1.11
-    org.grails:grails-plugin-gsp 3.1.11
-    org.grails:grails-plugin-i18n 3.1.11
-    org.grails:grails-plugin-interceptors 3.1.11
-    org.grails:grails-plugin-mimetypes 3.1.11
-    org.grails:grails-plugin-rest 3.1.11
-    org.grails:grails-plugin-services 3.1.11
-    org.grails:grails-plugin-testing 3.1.11
-    org.grails:grails-plugin-url-mappings 3.1.11
-    org.grails:grails-plugin-validation 3.1.11
-    org.grails:grails-shell 3.1.11
-    org.grails:grails-spring 3.1.11
-    org.grails:grails-taglib 3.1.11
-    org.grails:grails-test 3.1.11
-    org.grails:grails-test-suite-base 3.1.11
-    org.grails:grails-test-suite-persistence 3.1.11
-    org.grails:grails-test-suite-uber 3.1.11
-    org.grails:grails-test-suite-web 3.1.11
-    org.grails:grails-validation 3.1.11
-    org.grails:grails-web 3.1.11
-    org.grails:grails-web-boot 3.1.11
-    org.grails:grails-web-common 3.1.11
-    org.grails:grails-web-databinding 3.1.11
-    org.grails:grails-web-fileupload 3.1.11
-    org.grails:grails-web-gsp 3.1.11
-    org.grails:grails-web-gsp-taglib 3.1.11
-    org.grails:grails-web-jsp 3.1.11
-    org.grails:grails-web-mvc 3.1.11
-    org.grails:grails-web-sitemesh 3.1.11
-    org.grails:grails-web-taglib 3.1.11
-    org.grails:grails-web-url-mappings 3.1.11
+    org.grails:grails-async 3.1.12
+    org.grails:grails-bootstrap 3.1.12
+    org.grails:grails-codecs 3.1.12
+    org.grails:grails-compat 3.1.12
+    org.grails:grails-console 3.1.12
+    org.grails:grails-core 3.1.12
+    org.grails:grails-databinding 3.1.12
+    org.grails:grails-datastore-core 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm-cassandra 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm-hibernate 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm-hibernate4 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm-hibernate5 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm-mongodb 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm-neo4j 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm-support 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm-test 5.0.12.RELEASE
+    org.grails:grails-datastore-rest-client 5.0.12.RELEASE
+    org.grails:grails-datastore-simple 5.0.12.RELEASE
+    org.grails:grails-datastore-test-support 5.0.12.RELEASE
+    org.grails:grails-datastore-web 5.0.12.RELEASE
+    org.grails:grails-dependencies 3.1.12
+    org.grails:grails-docs 3.1.12
+    org.grails:grails-encoder 3.1.12
+    org.grails:grails-gradle-model 3.1.12
+    org.grails:grails-gradle-plugin 3.1.12
+    org.grails:grails-gsp 3.1.12
+    org.grails:grails-logging 3.1.12
+    org.grails:grails-plugin-async 3.1.12
+    org.grails:grails-plugin-codecs 3.1.12
+    org.grails:grails-plugin-controllers 3.1.12
+    org.grails:grails-plugin-converters 3.1.12
+    org.grails:grails-plugin-databinding 3.1.12
+    org.grails:grails-plugin-datasource 3.1.12
+    org.grails:grails-plugin-domain-class 3.1.12
+    org.grails:grails-plugin-events 3.1.12
+    org.grails:grails-plugin-gsp 3.1.12
+    org.grails:grails-plugin-i18n 3.1.12
+    org.grails:grails-plugin-interceptors 3.1.12
+    org.grails:grails-plugin-mimetypes 3.1.12
+    org.grails:grails-plugin-rest 3.1.12
+    org.grails:grails-plugin-services 3.1.12
+    org.grails:grails-plugin-testing 3.1.12
+    org.grails:grails-plugin-url-mappings 3.1.12
+    org.grails:grails-plugin-validation 3.1.12
+    org.grails:grails-shell 3.1.12
+    org.grails:grails-spring 3.1.12
+    org.grails:grails-taglib 3.1.12
+    org.grails:grails-test 3.1.12
+    org.grails:grails-test-suite-base 3.1.12
+    org.grails:grails-test-suite-persistence 3.1.12
+    org.grails:grails-test-suite-uber 3.1.12
+    org.grails:grails-test-suite-web 3.1.12
+    org.grails:grails-validation 3.1.12
+    org.grails:grails-web 3.1.12
+    org.grails:grails-web-boot 3.1.12
+    org.grails:grails-web-common 3.1.12
+    org.grails:grails-web-databinding 3.1.12
+    org.grails:grails-web-fileupload 3.1.12
+    org.grails:grails-web-gsp 3.1.12
+    org.grails:grails-web-gsp-taglib 3.1.12
+    org.grails:grails-web-jsp 3.1.12
+    org.grails:grails-web-mvc 3.1.12
+    org.grails:grails-web-sitemesh 3.1.12
+    org.grails:grails-web-taglib 3.1.12
+    org.grails:grails-web-url-mappings 3.1.12
     org.grails.plugins:asset-pipeline 3.2.1
     org.grails.plugins:asset-pipeline-grails 2.8.2
     org.grails.plugins:cache 3.0.2
-    org.grails.plugins:cassandra 5.0.10
+    org.grails.plugins:cassandra 5.0.11
     org.grails.plugins:fields 2.1.2
     org.grails.plugins:geb 1.0.2
     org.grails.plugins:hibernate 4.3.10.7
-    org.grails.plugins:hibernate3 5.0.10
-    org.grails.plugins:hibernate4 5.0.10
-    org.grails.plugins:hibernate5 5.0.10
-    org.grails.plugins:mongodb 5.0.10
-    org.grails.plugins:neo4j 5.0.10
+    org.grails.plugins:hibernate3 5.0.11
+    org.grails.plugins:hibernate4 5.0.11
+    org.grails.plugins:hibernate5 5.0.11
+    org.grails.plugins:mongodb 5.0.11
+    org.grails.plugins:neo4j 5.0.11
     org.grails.plugins:scaffolding 3.2.1
     org.grails.plugins:views-json 1.0.12
     org.grails.plugins:views-markup 1.0.12
@@ -1396,7 +1424,7 @@ integrationTestRuntime - Dependency management for the integrationTestRuntime co
     org.javassist:javassist 3.18.1-GA
     org.jboss.logging:jboss-logging 3.3.0.Final
     org.jdom:jdom2 2.0.6
-    org.jolokia:jolokia-core 1.3.3
+    org.jolokia:jolokia-core 1.3.4
     org.jooq:jooq 3.7.4
     org.jooq:jooq-codegen 3.7.4
     org.jooq:jooq-meta 3.7.4
@@ -1405,7 +1433,7 @@ integrationTestRuntime - Dependency management for the integrationTestRuntime co
     org.mariadb.jdbc:mariadb-java-client 1.2.3
     org.mockito:mockito-core 1.10.19
     org.mongodb:mongo-java-driver 2.13.3
-    org.postgresql:postgresql 9.4.1209.jre7
+    org.postgresql:postgresql 9.4.1211.jre7
     org.skyscreamer:jsonassert 1.2.3
     org.slf4j:jcl-over-slf4j 1.7.21
     org.slf4j:jul-to-slf4j 1.7.21
@@ -1416,26 +1444,26 @@ integrationTestRuntime - Dependency management for the integrationTestRuntime co
     org.slf4j:slf4j-simple 1.7.21
     org.spockframework:spock-core 1.0-groovy-2.4
     org.spockframework:spock-spring 1.0-groovy-2.4
-    org.springframework:spring-aop 4.2.7.RELEASE
-    org.springframework:spring-aspects 4.2.7.RELEASE
-    org.springframework:spring-beans 4.2.7.RELEASE
-    org.springframework:spring-context 4.2.7.RELEASE
-    org.springframework:spring-context-support 4.2.7.RELEASE
-    org.springframework:spring-core 4.2.7.RELEASE
-    org.springframework:spring-expression 4.2.7.RELEASE
-    org.springframework:spring-instrument 4.2.7.RELEASE
-    org.springframework:spring-instrument-tomcat 4.2.7.RELEASE
-    org.springframework:spring-jdbc 4.2.7.RELEASE
-    org.springframework:spring-jms 4.2.7.RELEASE
-    org.springframework:spring-messaging 4.2.7.RELEASE
-    org.springframework:spring-orm 4.2.7.RELEASE
-    org.springframework:spring-oxm 4.2.7.RELEASE
-    org.springframework:spring-test 4.2.7.RELEASE
-    org.springframework:spring-tx 4.2.7.RELEASE
-    org.springframework:spring-web 4.2.7.RELEASE
-    org.springframework:spring-webmvc 4.2.7.RELEASE
-    org.springframework:spring-webmvc-portlet 4.2.7.RELEASE
-    org.springframework:spring-websocket 4.2.7.RELEASE
+    org.springframework:spring-aop 4.2.8.RELEASE
+    org.springframework:spring-aspects 4.2.8.RELEASE
+    org.springframework:spring-beans 4.2.8.RELEASE
+    org.springframework:spring-context 4.2.8.RELEASE
+    org.springframework:spring-context-support 4.2.8.RELEASE
+    org.springframework:spring-core 4.2.8.RELEASE
+    org.springframework:spring-expression 4.2.8.RELEASE
+    org.springframework:spring-instrument 4.2.8.RELEASE
+    org.springframework:spring-instrument-tomcat 4.2.8.RELEASE
+    org.springframework:spring-jdbc 4.2.8.RELEASE
+    org.springframework:spring-jms 4.2.8.RELEASE
+    org.springframework:spring-messaging 4.2.8.RELEASE
+    org.springframework:spring-orm 4.2.8.RELEASE
+    org.springframework:spring-oxm 4.2.8.RELEASE
+    org.springframework:spring-test 4.2.8.RELEASE
+    org.springframework:spring-tx 4.2.8.RELEASE
+    org.springframework:spring-web 4.2.8.RELEASE
+    org.springframework:spring-webmvc 4.2.8.RELEASE
+    org.springframework:spring-webmvc-portlet 4.2.8.RELEASE
+    org.springframework:spring-websocket 4.2.8.RELEASE
     org.springframework:springloaded 1.2.6.RELEASE
     org.springframework.amqp:spring-amqp 1.5.6.RELEASE
     org.springframework.amqp:spring-rabbit 1.5.6.RELEASE
@@ -1443,84 +1471,84 @@ integrationTestRuntime - Dependency management for the integrationTestRuntime co
     org.springframework.batch:spring-batch-infrastructure 3.0.7.RELEASE
     org.springframework.batch:spring-batch-integration 3.0.7.RELEASE
     org.springframework.batch:spring-batch-test 3.0.7.RELEASE
-    org.springframework.boot:spring-boot 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-actuator 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-actuator-docs 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-autoconfigure 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-configuration-metadata 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-configuration-processor 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-devtools 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-loader 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-loader-tools 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-actuator 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-amqp 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-aop 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-artemis 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-batch 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-cache 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-cloud-connectors 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-data-cassandra 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-data-elasticsearch 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-data-gemfire 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-data-jpa 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-data-mongodb 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-data-rest 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-data-solr 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-freemarker 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-groovy-templates 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-hateoas 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-hornetq 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-integration 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-jdbc 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-jersey 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-jetty 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-jooq 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-jta-atomikos 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-jta-bitronix 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-log4j 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-log4j2 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-logging 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-mail 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-mobile 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-mustache 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-redis 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-remote-shell 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-security 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-social-facebook 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-social-linkedin 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-social-twitter 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-test 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-thymeleaf 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-tomcat 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-undertow 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-validation 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-velocity 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-web 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-websocket 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-ws 1.3.7.RELEASE
+    org.springframework.boot:spring-boot 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-actuator 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-actuator-docs 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-autoconfigure 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-configuration-metadata 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-configuration-processor 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-devtools 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-loader 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-loader-tools 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-actuator 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-amqp 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-aop 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-artemis 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-batch 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-cache 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-cloud-connectors 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-data-cassandra 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-data-elasticsearch 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-data-gemfire 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-data-jpa 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-data-mongodb 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-data-rest 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-data-solr 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-freemarker 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-groovy-templates 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-hateoas 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-hornetq 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-integration 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-jdbc 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-jersey 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-jetty 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-jooq 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-jta-atomikos 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-jta-bitronix 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-log4j 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-log4j2 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-logging 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-mail 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-mobile 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-mustache 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-redis 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-remote-shell 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-security 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-social-facebook 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-social-linkedin 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-social-twitter 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-test 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-thymeleaf 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-tomcat 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-undertow 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-validation 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-velocity 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-web 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-websocket 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-ws 1.3.8.RELEASE
     org.springframework.cloud:spring-cloud-cloudfoundry-connector 1.2.3.RELEASE
     org.springframework.cloud:spring-cloud-core 1.2.3.RELEASE
     org.springframework.cloud:spring-cloud-heroku-connector 1.2.3.RELEASE
     org.springframework.cloud:spring-cloud-localconfig-connector 1.2.3.RELEASE
     org.springframework.cloud:spring-cloud-spring-service-connector 1.2.3.RELEASE
-    org.springframework.data:spring-cql 1.3.4.RELEASE
-    org.springframework.data:spring-data-cassandra 1.3.4.RELEASE
-    org.springframework.data:spring-data-commons 1.11.4.RELEASE
-    org.springframework.data:spring-data-couchbase 1.4.4.RELEASE
-    org.springframework.data:spring-data-elasticsearch 1.3.4.RELEASE
-    org.springframework.data:spring-data-gemfire 1.7.4.RELEASE
-    org.springframework.data:spring-data-jpa 1.9.4.RELEASE
-    org.springframework.data:spring-data-keyvalue 1.0.4.RELEASE
-    org.springframework.data:spring-data-mongodb 1.8.4.RELEASE
-    org.springframework.data:spring-data-mongodb-cross-store 1.8.4.RELEASE
-    org.springframework.data:spring-data-mongodb-log4j 1.8.4.RELEASE
-    org.springframework.data:spring-data-neo4j 3.4.4.RELEASE
-    org.springframework.data:spring-data-redis 1.6.4.RELEASE
-    org.springframework.data:spring-data-rest-core 2.4.4.RELEASE
-    org.springframework.data:spring-data-rest-hal-browser 2.4.4.RELEASE
-    org.springframework.data:spring-data-rest-webmvc 2.4.4.RELEASE
-    org.springframework.data:spring-data-solr 1.5.4.RELEASE
+    org.springframework.data:spring-cql 1.3.5.RELEASE
+    org.springframework.data:spring-data-cassandra 1.3.5.RELEASE
+    org.springframework.data:spring-data-commons 1.11.5.RELEASE
+    org.springframework.data:spring-data-couchbase 1.4.5.RELEASE
+    org.springframework.data:spring-data-elasticsearch 1.3.5.RELEASE
+    org.springframework.data:spring-data-gemfire 1.7.5.RELEASE
+    org.springframework.data:spring-data-jpa 1.9.5.RELEASE
+    org.springframework.data:spring-data-keyvalue 1.0.5.RELEASE
+    org.springframework.data:spring-data-mongodb 1.8.5.RELEASE
+    org.springframework.data:spring-data-mongodb-cross-store 1.8.5.RELEASE
+    org.springframework.data:spring-data-mongodb-log4j 1.8.5.RELEASE
+    org.springframework.data:spring-data-neo4j 3.4.5.RELEASE
+    org.springframework.data:spring-data-redis 1.6.5.RELEASE
+    org.springframework.data:spring-data-rest-core 2.4.5.RELEASE
+    org.springframework.data:spring-data-rest-hal-browser 2.4.5.RELEASE
+    org.springframework.data:spring-data-rest-webmvc 2.4.5.RELEASE
+    org.springframework.data:spring-data-solr 1.5.5.RELEASE
     org.springframework.hateoas:spring-hateoas 0.19.0.RELEASE
     org.springframework.integration:spring-integration-amqp 4.2.9.RELEASE
     org.springframework.integration:spring-integration-core 4.2.9.RELEASE
@@ -1566,7 +1594,7 @@ integrationTestRuntime - Dependency management for the integrationTestRuntime co
     org.springframework.security:spring-security-core 4.0.4.RELEASE
     org.springframework.security:spring-security-crypto 4.0.4.RELEASE
     org.springframework.security:spring-security-data 4.0.4.RELEASE
-    org.springframework.security:spring-security-jwt 1.0.4.RELEASE
+    org.springframework.security:spring-security-jwt 1.0.5.RELEASE
     org.springframework.security:spring-security-ldap 4.0.4.RELEASE
     org.springframework.security:spring-security-messaging 4.0.4.RELEASE
     org.springframework.security:spring-security-openid 4.0.4.RELEASE
@@ -1574,8 +1602,8 @@ integrationTestRuntime - Dependency management for the integrationTestRuntime co
     org.springframework.security:spring-security-taglibs 4.0.4.RELEASE
     org.springframework.security:spring-security-test 4.0.4.RELEASE
     org.springframework.security:spring-security-web 4.0.4.RELEASE
-    org.springframework.security.oauth:spring-security-oauth 2.0.10.RELEASE
-    org.springframework.security.oauth:spring-security-oauth2 2.0.10.RELEASE
+    org.springframework.security.oauth:spring-security-oauth 2.0.11.RELEASE
+    org.springframework.security.oauth:spring-security-oauth2 2.0.11.RELEASE
     org.springframework.session:spring-session 1.0.2.RELEASE
     org.springframework.session:spring-session-data-redis 1.0.2.RELEASE
     org.springframework.social:spring-social-config 1.1.4.RELEASE
@@ -1651,7 +1679,7 @@ runtime - Dependency management for the runtime configuration
     com.jayway.jsonpath:json-path-assert 2.0.0
     com.samskivert:jmustache 1.11
     com.sendgrid:sendgrid-java 2.2.2
-    com.sun.mail:javax.mail 1.5.5
+    com.sun.mail:javax.mail 1.5.6
     com.timgroup:java-statsd-client 3.1.0
     com.zaxxer:HikariCP 2.4.7
     com.zaxxer:HikariCP-java6 2.3.13
@@ -1681,7 +1709,7 @@ runtime - Dependency management for the runtime configuration
     io.undertow:undertow-websockets-jsr 1.3.23.Final
     javax.cache:cache-api 1.0.0
     javax.jms:jms-api 1.1-rev-1
-    javax.mail:javax.mail-api 1.5.5
+    javax.mail:javax.mail-api 1.5.6
     javax.servlet:javax.servlet-api 3.1.0
     javax.servlet:jstl 1.2
     javax.transaction:javax.transaction-api 1.2
@@ -1733,13 +1761,13 @@ runtime - Dependency management for the runtime configuration
     org.apache.logging.log4j:log4j-core 2.4.1
     org.apache.logging.log4j:log4j-slf4j-impl 2.4.1
     org.apache.solr:solr-solrj 4.10.4
-    org.apache.tomcat:tomcat-jdbc 8.0.36
-    org.apache.tomcat:tomcat-jsp-api 8.0.36
-    org.apache.tomcat.embed:tomcat-embed-core 8.0.36
-    org.apache.tomcat.embed:tomcat-embed-el 8.0.36
-    org.apache.tomcat.embed:tomcat-embed-jasper 8.0.36
-    org.apache.tomcat.embed:tomcat-embed-logging-juli 8.0.36
-    org.apache.tomcat.embed:tomcat-embed-websocket 8.0.36
+    org.apache.tomcat:tomcat-jdbc 8.0.37
+    org.apache.tomcat:tomcat-jsp-api 8.0.37
+    org.apache.tomcat.embed:tomcat-embed-core 8.0.37
+    org.apache.tomcat.embed:tomcat-embed-el 8.0.37
+    org.apache.tomcat.embed:tomcat-embed-jasper 8.0.37
+    org.apache.tomcat.embed:tomcat-embed-logging-juli 8.0.37
+    org.apache.tomcat.embed:tomcat-embed-websocket 8.0.37
     org.apache.velocity:velocity 1.7
     org.apache.velocity:velocity-tools 2.0
     org.aspectj:aspectjrt 1.8.9
@@ -1773,30 +1801,30 @@ runtime - Dependency management for the runtime configuration
     org.crashub:crash.plugins.cron 1.3.2
     org.crashub:crash.plugins.mail 1.3.2
     org.crashub:crash.shell 1.3.2
-    org.eclipse.jetty:jetty-annotations 9.2.18.v20160721
-    org.eclipse.jetty:jetty-client 9.2.18.v20160721
-    org.eclipse.jetty:jetty-continuation 9.2.18.v20160721
-    org.eclipse.jetty:jetty-deploy 9.2.18.v20160721
-    org.eclipse.jetty:jetty-http 9.2.18.v20160721
-    org.eclipse.jetty:jetty-io 9.2.18.v20160721
-    org.eclipse.jetty:jetty-jmx 9.2.18.v20160721
-    org.eclipse.jetty:jetty-jsp 9.2.18.v20160721
-    org.eclipse.jetty:jetty-plus 9.2.18.v20160721
-    org.eclipse.jetty:jetty-security 9.2.18.v20160721
-    org.eclipse.jetty:jetty-server 9.2.18.v20160721
-    org.eclipse.jetty:jetty-servlet 9.2.18.v20160721
-    org.eclipse.jetty:jetty-servlets 9.2.18.v20160721
-    org.eclipse.jetty:jetty-util 9.2.18.v20160721
-    org.eclipse.jetty:jetty-webapp 9.2.18.v20160721
-    org.eclipse.jetty:jetty-xml 9.2.18.v20160721
+    org.eclipse.jetty:jetty-annotations 9.2.19.v20160908
+    org.eclipse.jetty:jetty-client 9.2.19.v20160908
+    org.eclipse.jetty:jetty-continuation 9.2.19.v20160908
+    org.eclipse.jetty:jetty-deploy 9.2.19.v20160908
+    org.eclipse.jetty:jetty-http 9.2.19.v20160908
+    org.eclipse.jetty:jetty-io 9.2.19.v20160908
+    org.eclipse.jetty:jetty-jmx 9.2.19.v20160908
+    org.eclipse.jetty:jetty-jsp 9.2.19.v20160908
+    org.eclipse.jetty:jetty-plus 9.2.19.v20160908
+    org.eclipse.jetty:jetty-security 9.2.19.v20160908
+    org.eclipse.jetty:jetty-server 9.2.19.v20160908
+    org.eclipse.jetty:jetty-servlet 9.2.19.v20160908
+    org.eclipse.jetty:jetty-servlets 9.2.19.v20160908
+    org.eclipse.jetty:jetty-util 9.2.19.v20160908
+    org.eclipse.jetty:jetty-webapp 9.2.19.v20160908
+    org.eclipse.jetty:jetty-xml 9.2.19.v20160908
     org.eclipse.jetty.orbit:javax.servlet.jsp 2.2.0.v201112011158
-    org.eclipse.jetty.websocket:javax-websocket-server-impl 9.2.18.v20160721
-    org.eclipse.jetty.websocket:websocket-client 9.2.18.v20160721
-    org.eclipse.jetty.websocket:websocket-server 9.2.18.v20160721
+    org.eclipse.jetty.websocket:javax-websocket-server-impl 9.2.19.v20160908
+    org.eclipse.jetty.websocket:websocket-client 9.2.19.v20160908
+    org.eclipse.jetty.websocket:websocket-server 9.2.19.v20160908
     org.elasticsearch:elasticsearch 1.5.2
-    org.firebirdsql.jdbc:jaybird-jdk16 2.2.10
-    org.firebirdsql.jdbc:jaybird-jdk17 2.2.10
-    org.firebirdsql.jdbc:jaybird-jdk18 2.2.10
+    org.firebirdsql.jdbc:jaybird-jdk16 2.2.11
+    org.firebirdsql.jdbc:jaybird-jdk17 2.2.11
+    org.firebirdsql.jdbc:jaybird-jdk18 2.2.11
     org.flywaydb:flyway-core 3.2.1
     org.freemarker:freemarker 2.3.25-incubating
     org.glassfish:javax.el 3.0.0
@@ -1806,84 +1834,84 @@ runtime - Dependency management for the runtime configuration
     org.glassfish.jersey.ext:jersey-bean-validation 2.22.2
     org.glassfish.jersey.ext:jersey-spring3 2.22.2
     org.glassfish.jersey.media:jersey-media-json-jackson 2.22.2
-    org.grails:grails-async 3.1.11
-    org.grails:grails-bootstrap 3.1.11
-    org.grails:grails-codecs 3.1.11
-    org.grails:grails-compat 3.1.11
-    org.grails:grails-console 3.1.11
-    org.grails:grails-core 3.1.11
-    org.grails:grails-databinding 3.1.11
-    org.grails:grails-datastore-core 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm-cassandra 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm-hibernate 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm-hibernate4 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm-hibernate5 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm-mongodb 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm-neo4j 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm-support 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm-test 5.0.10.RELEASE
-    org.grails:grails-datastore-rest-client 5.0.10.RELEASE
-    org.grails:grails-datastore-simple 5.0.10.RELEASE
-    org.grails:grails-datastore-test-support 5.0.10.RELEASE
-    org.grails:grails-datastore-web 5.0.10.RELEASE
-    org.grails:grails-dependencies 3.1.11
-    org.grails:grails-docs 3.1.11
-    org.grails:grails-encoder 3.1.11
-    org.grails:grails-gradle-model 3.1.11
-    org.grails:grails-gradle-plugin 3.1.11
-    org.grails:grails-gsp 3.1.11
-    org.grails:grails-logging 3.1.11
-    org.grails:grails-plugin-async 3.1.11
-    org.grails:grails-plugin-codecs 3.1.11
-    org.grails:grails-plugin-controllers 3.1.11
-    org.grails:grails-plugin-converters 3.1.11
-    org.grails:grails-plugin-databinding 3.1.11
-    org.grails:grails-plugin-datasource 3.1.11
-    org.grails:grails-plugin-domain-class 3.1.11
-    org.grails:grails-plugin-events 3.1.11
-    org.grails:grails-plugin-gsp 3.1.11
-    org.grails:grails-plugin-i18n 3.1.11
-    org.grails:grails-plugin-interceptors 3.1.11
-    org.grails:grails-plugin-mimetypes 3.1.11
-    org.grails:grails-plugin-rest 3.1.11
-    org.grails:grails-plugin-services 3.1.11
-    org.grails:grails-plugin-testing 3.1.11
-    org.grails:grails-plugin-url-mappings 3.1.11
-    org.grails:grails-plugin-validation 3.1.11
-    org.grails:grails-shell 3.1.11
-    org.grails:grails-spring 3.1.11
-    org.grails:grails-taglib 3.1.11
-    org.grails:grails-test 3.1.11
-    org.grails:grails-test-suite-base 3.1.11
-    org.grails:grails-test-suite-persistence 3.1.11
-    org.grails:grails-test-suite-uber 3.1.11
-    org.grails:grails-test-suite-web 3.1.11
-    org.grails:grails-validation 3.1.11
-    org.grails:grails-web 3.1.11
-    org.grails:grails-web-boot 3.1.11
-    org.grails:grails-web-common 3.1.11
-    org.grails:grails-web-databinding 3.1.11
-    org.grails:grails-web-fileupload 3.1.11
-    org.grails:grails-web-gsp 3.1.11
-    org.grails:grails-web-gsp-taglib 3.1.11
-    org.grails:grails-web-jsp 3.1.11
-    org.grails:grails-web-mvc 3.1.11
-    org.grails:grails-web-sitemesh 3.1.11
-    org.grails:grails-web-taglib 3.1.11
-    org.grails:grails-web-url-mappings 3.1.11
+    org.grails:grails-async 3.1.12
+    org.grails:grails-bootstrap 3.1.12
+    org.grails:grails-codecs 3.1.12
+    org.grails:grails-compat 3.1.12
+    org.grails:grails-console 3.1.12
+    org.grails:grails-core 3.1.12
+    org.grails:grails-databinding 3.1.12
+    org.grails:grails-datastore-core 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm-cassandra 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm-hibernate 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm-hibernate4 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm-hibernate5 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm-mongodb 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm-neo4j 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm-support 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm-test 5.0.12.RELEASE
+    org.grails:grails-datastore-rest-client 5.0.12.RELEASE
+    org.grails:grails-datastore-simple 5.0.12.RELEASE
+    org.grails:grails-datastore-test-support 5.0.12.RELEASE
+    org.grails:grails-datastore-web 5.0.12.RELEASE
+    org.grails:grails-dependencies 3.1.12
+    org.grails:grails-docs 3.1.12
+    org.grails:grails-encoder 3.1.12
+    org.grails:grails-gradle-model 3.1.12
+    org.grails:grails-gradle-plugin 3.1.12
+    org.grails:grails-gsp 3.1.12
+    org.grails:grails-logging 3.1.12
+    org.grails:grails-plugin-async 3.1.12
+    org.grails:grails-plugin-codecs 3.1.12
+    org.grails:grails-plugin-controllers 3.1.12
+    org.grails:grails-plugin-converters 3.1.12
+    org.grails:grails-plugin-databinding 3.1.12
+    org.grails:grails-plugin-datasource 3.1.12
+    org.grails:grails-plugin-domain-class 3.1.12
+    org.grails:grails-plugin-events 3.1.12
+    org.grails:grails-plugin-gsp 3.1.12
+    org.grails:grails-plugin-i18n 3.1.12
+    org.grails:grails-plugin-interceptors 3.1.12
+    org.grails:grails-plugin-mimetypes 3.1.12
+    org.grails:grails-plugin-rest 3.1.12
+    org.grails:grails-plugin-services 3.1.12
+    org.grails:grails-plugin-testing 3.1.12
+    org.grails:grails-plugin-url-mappings 3.1.12
+    org.grails:grails-plugin-validation 3.1.12
+    org.grails:grails-shell 3.1.12
+    org.grails:grails-spring 3.1.12
+    org.grails:grails-taglib 3.1.12
+    org.grails:grails-test 3.1.12
+    org.grails:grails-test-suite-base 3.1.12
+    org.grails:grails-test-suite-persistence 3.1.12
+    org.grails:grails-test-suite-uber 3.1.12
+    org.grails:grails-test-suite-web 3.1.12
+    org.grails:grails-validation 3.1.12
+    org.grails:grails-web 3.1.12
+    org.grails:grails-web-boot 3.1.12
+    org.grails:grails-web-common 3.1.12
+    org.grails:grails-web-databinding 3.1.12
+    org.grails:grails-web-fileupload 3.1.12
+    org.grails:grails-web-gsp 3.1.12
+    org.grails:grails-web-gsp-taglib 3.1.12
+    org.grails:grails-web-jsp 3.1.12
+    org.grails:grails-web-mvc 3.1.12
+    org.grails:grails-web-sitemesh 3.1.12
+    org.grails:grails-web-taglib 3.1.12
+    org.grails:grails-web-url-mappings 3.1.12
     org.grails.plugins:asset-pipeline 3.2.1
     org.grails.plugins:asset-pipeline-grails 2.8.2
     org.grails.plugins:cache 3.0.2
-    org.grails.plugins:cassandra 5.0.10
+    org.grails.plugins:cassandra 5.0.11
     org.grails.plugins:fields 2.1.2
     org.grails.plugins:geb 1.0.2
     org.grails.plugins:hibernate 4.3.10.7
-    org.grails.plugins:hibernate3 5.0.10
-    org.grails.plugins:hibernate4 5.0.10
-    org.grails.plugins:hibernate5 5.0.10
-    org.grails.plugins:mongodb 5.0.10
-    org.grails.plugins:neo4j 5.0.10
+    org.grails.plugins:hibernate3 5.0.11
+    org.grails.plugins:hibernate4 5.0.11
+    org.grails.plugins:hibernate5 5.0.11
+    org.grails.plugins:mongodb 5.0.11
+    org.grails.plugins:neo4j 5.0.11
     org.grails.plugins:scaffolding 3.2.1
     org.grails.plugins:views-json 1.0.12
     org.grails.plugins:views-markup 1.0.12
@@ -1911,7 +1939,7 @@ runtime - Dependency management for the runtime configuration
     org.javassist:javassist 3.18.1-GA
     org.jboss.logging:jboss-logging 3.3.0.Final
     org.jdom:jdom2 2.0.6
-    org.jolokia:jolokia-core 1.3.3
+    org.jolokia:jolokia-core 1.3.4
     org.jooq:jooq 3.7.4
     org.jooq:jooq-codegen 3.7.4
     org.jooq:jooq-meta 3.7.4
@@ -1920,7 +1948,7 @@ runtime - Dependency management for the runtime configuration
     org.mariadb.jdbc:mariadb-java-client 1.2.3
     org.mockito:mockito-core 1.10.19
     org.mongodb:mongo-java-driver 2.13.3
-    org.postgresql:postgresql 9.4.1209.jre7
+    org.postgresql:postgresql 9.4.1211.jre7
     org.skyscreamer:jsonassert 1.2.3
     org.slf4j:jcl-over-slf4j 1.7.21
     org.slf4j:jul-to-slf4j 1.7.21
@@ -1931,26 +1959,26 @@ runtime - Dependency management for the runtime configuration
     org.slf4j:slf4j-simple 1.7.21
     org.spockframework:spock-core 1.0-groovy-2.4
     org.spockframework:spock-spring 1.0-groovy-2.4
-    org.springframework:spring-aop 4.2.7.RELEASE
-    org.springframework:spring-aspects 4.2.7.RELEASE
-    org.springframework:spring-beans 4.2.7.RELEASE
-    org.springframework:spring-context 4.2.7.RELEASE
-    org.springframework:spring-context-support 4.2.7.RELEASE
-    org.springframework:spring-core 4.2.7.RELEASE
-    org.springframework:spring-expression 4.2.7.RELEASE
-    org.springframework:spring-instrument 4.2.7.RELEASE
-    org.springframework:spring-instrument-tomcat 4.2.7.RELEASE
-    org.springframework:spring-jdbc 4.2.7.RELEASE
-    org.springframework:spring-jms 4.2.7.RELEASE
-    org.springframework:spring-messaging 4.2.7.RELEASE
-    org.springframework:spring-orm 4.2.7.RELEASE
-    org.springframework:spring-oxm 4.2.7.RELEASE
-    org.springframework:spring-test 4.2.7.RELEASE
-    org.springframework:spring-tx 4.2.7.RELEASE
-    org.springframework:spring-web 4.2.7.RELEASE
-    org.springframework:spring-webmvc 4.2.7.RELEASE
-    org.springframework:spring-webmvc-portlet 4.2.7.RELEASE
-    org.springframework:spring-websocket 4.2.7.RELEASE
+    org.springframework:spring-aop 4.2.8.RELEASE
+    org.springframework:spring-aspects 4.2.8.RELEASE
+    org.springframework:spring-beans 4.2.8.RELEASE
+    org.springframework:spring-context 4.2.8.RELEASE
+    org.springframework:spring-context-support 4.2.8.RELEASE
+    org.springframework:spring-core 4.2.8.RELEASE
+    org.springframework:spring-expression 4.2.8.RELEASE
+    org.springframework:spring-instrument 4.2.8.RELEASE
+    org.springframework:spring-instrument-tomcat 4.2.8.RELEASE
+    org.springframework:spring-jdbc 4.2.8.RELEASE
+    org.springframework:spring-jms 4.2.8.RELEASE
+    org.springframework:spring-messaging 4.2.8.RELEASE
+    org.springframework:spring-orm 4.2.8.RELEASE
+    org.springframework:spring-oxm 4.2.8.RELEASE
+    org.springframework:spring-test 4.2.8.RELEASE
+    org.springframework:spring-tx 4.2.8.RELEASE
+    org.springframework:spring-web 4.2.8.RELEASE
+    org.springframework:spring-webmvc 4.2.8.RELEASE
+    org.springframework:spring-webmvc-portlet 4.2.8.RELEASE
+    org.springframework:spring-websocket 4.2.8.RELEASE
     org.springframework:springloaded 1.2.6.RELEASE
     org.springframework.amqp:spring-amqp 1.5.6.RELEASE
     org.springframework.amqp:spring-rabbit 1.5.6.RELEASE
@@ -1958,84 +1986,84 @@ runtime - Dependency management for the runtime configuration
     org.springframework.batch:spring-batch-infrastructure 3.0.7.RELEASE
     org.springframework.batch:spring-batch-integration 3.0.7.RELEASE
     org.springframework.batch:spring-batch-test 3.0.7.RELEASE
-    org.springframework.boot:spring-boot 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-actuator 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-actuator-docs 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-autoconfigure 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-configuration-metadata 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-configuration-processor 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-devtools 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-loader 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-loader-tools 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-actuator 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-amqp 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-aop 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-artemis 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-batch 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-cache 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-cloud-connectors 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-data-cassandra 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-data-elasticsearch 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-data-gemfire 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-data-jpa 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-data-mongodb 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-data-rest 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-data-solr 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-freemarker 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-groovy-templates 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-hateoas 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-hornetq 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-integration 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-jdbc 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-jersey 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-jetty 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-jooq 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-jta-atomikos 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-jta-bitronix 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-log4j 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-log4j2 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-logging 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-mail 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-mobile 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-mustache 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-redis 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-remote-shell 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-security 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-social-facebook 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-social-linkedin 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-social-twitter 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-test 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-thymeleaf 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-tomcat 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-undertow 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-validation 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-velocity 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-web 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-websocket 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-ws 1.3.7.RELEASE
+    org.springframework.boot:spring-boot 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-actuator 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-actuator-docs 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-autoconfigure 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-configuration-metadata 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-configuration-processor 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-devtools 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-loader 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-loader-tools 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-actuator 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-amqp 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-aop 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-artemis 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-batch 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-cache 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-cloud-connectors 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-data-cassandra 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-data-elasticsearch 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-data-gemfire 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-data-jpa 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-data-mongodb 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-data-rest 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-data-solr 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-freemarker 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-groovy-templates 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-hateoas 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-hornetq 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-integration 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-jdbc 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-jersey 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-jetty 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-jooq 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-jta-atomikos 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-jta-bitronix 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-log4j 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-log4j2 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-logging 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-mail 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-mobile 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-mustache 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-redis 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-remote-shell 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-security 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-social-facebook 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-social-linkedin 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-social-twitter 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-test 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-thymeleaf 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-tomcat 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-undertow 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-validation 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-velocity 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-web 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-websocket 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-ws 1.3.8.RELEASE
     org.springframework.cloud:spring-cloud-cloudfoundry-connector 1.2.3.RELEASE
     org.springframework.cloud:spring-cloud-core 1.2.3.RELEASE
     org.springframework.cloud:spring-cloud-heroku-connector 1.2.3.RELEASE
     org.springframework.cloud:spring-cloud-localconfig-connector 1.2.3.RELEASE
     org.springframework.cloud:spring-cloud-spring-service-connector 1.2.3.RELEASE
-    org.springframework.data:spring-cql 1.3.4.RELEASE
-    org.springframework.data:spring-data-cassandra 1.3.4.RELEASE
-    org.springframework.data:spring-data-commons 1.11.4.RELEASE
-    org.springframework.data:spring-data-couchbase 1.4.4.RELEASE
-    org.springframework.data:spring-data-elasticsearch 1.3.4.RELEASE
-    org.springframework.data:spring-data-gemfire 1.7.4.RELEASE
-    org.springframework.data:spring-data-jpa 1.9.4.RELEASE
-    org.springframework.data:spring-data-keyvalue 1.0.4.RELEASE
-    org.springframework.data:spring-data-mongodb 1.8.4.RELEASE
-    org.springframework.data:spring-data-mongodb-cross-store 1.8.4.RELEASE
-    org.springframework.data:spring-data-mongodb-log4j 1.8.4.RELEASE
-    org.springframework.data:spring-data-neo4j 3.4.4.RELEASE
-    org.springframework.data:spring-data-redis 1.6.4.RELEASE
-    org.springframework.data:spring-data-rest-core 2.4.4.RELEASE
-    org.springframework.data:spring-data-rest-hal-browser 2.4.4.RELEASE
-    org.springframework.data:spring-data-rest-webmvc 2.4.4.RELEASE
-    org.springframework.data:spring-data-solr 1.5.4.RELEASE
+    org.springframework.data:spring-cql 1.3.5.RELEASE
+    org.springframework.data:spring-data-cassandra 1.3.5.RELEASE
+    org.springframework.data:spring-data-commons 1.11.5.RELEASE
+    org.springframework.data:spring-data-couchbase 1.4.5.RELEASE
+    org.springframework.data:spring-data-elasticsearch 1.3.5.RELEASE
+    org.springframework.data:spring-data-gemfire 1.7.5.RELEASE
+    org.springframework.data:spring-data-jpa 1.9.5.RELEASE
+    org.springframework.data:spring-data-keyvalue 1.0.5.RELEASE
+    org.springframework.data:spring-data-mongodb 1.8.5.RELEASE
+    org.springframework.data:spring-data-mongodb-cross-store 1.8.5.RELEASE
+    org.springframework.data:spring-data-mongodb-log4j 1.8.5.RELEASE
+    org.springframework.data:spring-data-neo4j 3.4.5.RELEASE
+    org.springframework.data:spring-data-redis 1.6.5.RELEASE
+    org.springframework.data:spring-data-rest-core 2.4.5.RELEASE
+    org.springframework.data:spring-data-rest-hal-browser 2.4.5.RELEASE
+    org.springframework.data:spring-data-rest-webmvc 2.4.5.RELEASE
+    org.springframework.data:spring-data-solr 1.5.5.RELEASE
     org.springframework.hateoas:spring-hateoas 0.19.0.RELEASE
     org.springframework.integration:spring-integration-amqp 4.2.9.RELEASE
     org.springframework.integration:spring-integration-core 4.2.9.RELEASE
@@ -2081,7 +2109,7 @@ runtime - Dependency management for the runtime configuration
     org.springframework.security:spring-security-core 4.0.4.RELEASE
     org.springframework.security:spring-security-crypto 4.0.4.RELEASE
     org.springframework.security:spring-security-data 4.0.4.RELEASE
-    org.springframework.security:spring-security-jwt 1.0.4.RELEASE
+    org.springframework.security:spring-security-jwt 1.0.5.RELEASE
     org.springframework.security:spring-security-ldap 4.0.4.RELEASE
     org.springframework.security:spring-security-messaging 4.0.4.RELEASE
     org.springframework.security:spring-security-openid 4.0.4.RELEASE
@@ -2089,8 +2117,8 @@ runtime - Dependency management for the runtime configuration
     org.springframework.security:spring-security-taglibs 4.0.4.RELEASE
     org.springframework.security:spring-security-test 4.0.4.RELEASE
     org.springframework.security:spring-security-web 4.0.4.RELEASE
-    org.springframework.security.oauth:spring-security-oauth 2.0.10.RELEASE
-    org.springframework.security.oauth:spring-security-oauth2 2.0.10.RELEASE
+    org.springframework.security.oauth:spring-security-oauth 2.0.11.RELEASE
+    org.springframework.security.oauth:spring-security-oauth2 2.0.11.RELEASE
     org.springframework.session:spring-session 1.0.2.RELEASE
     org.springframework.session:spring-session-data-redis 1.0.2.RELEASE
     org.springframework.social:spring-social-config 1.1.4.RELEASE
@@ -2163,7 +2191,7 @@ testRuntime - Dependency management for the testRuntime configuration
     com.jayway.jsonpath:json-path-assert 2.0.0
     com.samskivert:jmustache 1.11
     com.sendgrid:sendgrid-java 2.2.2
-    com.sun.mail:javax.mail 1.5.5
+    com.sun.mail:javax.mail 1.5.6
     com.timgroup:java-statsd-client 3.1.0
     com.zaxxer:HikariCP 2.4.7
     com.zaxxer:HikariCP-java6 2.3.13
@@ -2193,7 +2221,7 @@ testRuntime - Dependency management for the testRuntime configuration
     io.undertow:undertow-websockets-jsr 1.3.23.Final
     javax.cache:cache-api 1.0.0
     javax.jms:jms-api 1.1-rev-1
-    javax.mail:javax.mail-api 1.5.5
+    javax.mail:javax.mail-api 1.5.6
     javax.servlet:javax.servlet-api 3.1.0
     javax.servlet:jstl 1.2
     javax.transaction:javax.transaction-api 1.2
@@ -2245,13 +2273,13 @@ testRuntime - Dependency management for the testRuntime configuration
     org.apache.logging.log4j:log4j-core 2.4.1
     org.apache.logging.log4j:log4j-slf4j-impl 2.4.1
     org.apache.solr:solr-solrj 4.10.4
-    org.apache.tomcat:tomcat-jdbc 8.0.36
-    org.apache.tomcat:tomcat-jsp-api 8.0.36
-    org.apache.tomcat.embed:tomcat-embed-core 8.0.36
-    org.apache.tomcat.embed:tomcat-embed-el 8.0.36
-    org.apache.tomcat.embed:tomcat-embed-jasper 8.0.36
-    org.apache.tomcat.embed:tomcat-embed-logging-juli 8.0.36
-    org.apache.tomcat.embed:tomcat-embed-websocket 8.0.36
+    org.apache.tomcat:tomcat-jdbc 8.0.37
+    org.apache.tomcat:tomcat-jsp-api 8.0.37
+    org.apache.tomcat.embed:tomcat-embed-core 8.0.37
+    org.apache.tomcat.embed:tomcat-embed-el 8.0.37
+    org.apache.tomcat.embed:tomcat-embed-jasper 8.0.37
+    org.apache.tomcat.embed:tomcat-embed-logging-juli 8.0.37
+    org.apache.tomcat.embed:tomcat-embed-websocket 8.0.37
     org.apache.velocity:velocity 1.7
     org.apache.velocity:velocity-tools 2.0
     org.aspectj:aspectjrt 1.8.9
@@ -2285,30 +2313,30 @@ testRuntime - Dependency management for the testRuntime configuration
     org.crashub:crash.plugins.cron 1.3.2
     org.crashub:crash.plugins.mail 1.3.2
     org.crashub:crash.shell 1.3.2
-    org.eclipse.jetty:jetty-annotations 9.2.18.v20160721
-    org.eclipse.jetty:jetty-client 9.2.18.v20160721
-    org.eclipse.jetty:jetty-continuation 9.2.18.v20160721
-    org.eclipse.jetty:jetty-deploy 9.2.18.v20160721
-    org.eclipse.jetty:jetty-http 9.2.18.v20160721
-    org.eclipse.jetty:jetty-io 9.2.18.v20160721
-    org.eclipse.jetty:jetty-jmx 9.2.18.v20160721
-    org.eclipse.jetty:jetty-jsp 9.2.18.v20160721
-    org.eclipse.jetty:jetty-plus 9.2.18.v20160721
-    org.eclipse.jetty:jetty-security 9.2.18.v20160721
-    org.eclipse.jetty:jetty-server 9.2.18.v20160721
-    org.eclipse.jetty:jetty-servlet 9.2.18.v20160721
-    org.eclipse.jetty:jetty-servlets 9.2.18.v20160721
-    org.eclipse.jetty:jetty-util 9.2.18.v20160721
-    org.eclipse.jetty:jetty-webapp 9.2.18.v20160721
-    org.eclipse.jetty:jetty-xml 9.2.18.v20160721
+    org.eclipse.jetty:jetty-annotations 9.2.19.v20160908
+    org.eclipse.jetty:jetty-client 9.2.19.v20160908
+    org.eclipse.jetty:jetty-continuation 9.2.19.v20160908
+    org.eclipse.jetty:jetty-deploy 9.2.19.v20160908
+    org.eclipse.jetty:jetty-http 9.2.19.v20160908
+    org.eclipse.jetty:jetty-io 9.2.19.v20160908
+    org.eclipse.jetty:jetty-jmx 9.2.19.v20160908
+    org.eclipse.jetty:jetty-jsp 9.2.19.v20160908
+    org.eclipse.jetty:jetty-plus 9.2.19.v20160908
+    org.eclipse.jetty:jetty-security 9.2.19.v20160908
+    org.eclipse.jetty:jetty-server 9.2.19.v20160908
+    org.eclipse.jetty:jetty-servlet 9.2.19.v20160908
+    org.eclipse.jetty:jetty-servlets 9.2.19.v20160908
+    org.eclipse.jetty:jetty-util 9.2.19.v20160908
+    org.eclipse.jetty:jetty-webapp 9.2.19.v20160908
+    org.eclipse.jetty:jetty-xml 9.2.19.v20160908
     org.eclipse.jetty.orbit:javax.servlet.jsp 2.2.0.v201112011158
-    org.eclipse.jetty.websocket:javax-websocket-server-impl 9.2.18.v20160721
-    org.eclipse.jetty.websocket:websocket-client 9.2.18.v20160721
-    org.eclipse.jetty.websocket:websocket-server 9.2.18.v20160721
+    org.eclipse.jetty.websocket:javax-websocket-server-impl 9.2.19.v20160908
+    org.eclipse.jetty.websocket:websocket-client 9.2.19.v20160908
+    org.eclipse.jetty.websocket:websocket-server 9.2.19.v20160908
     org.elasticsearch:elasticsearch 1.5.2
-    org.firebirdsql.jdbc:jaybird-jdk16 2.2.10
-    org.firebirdsql.jdbc:jaybird-jdk17 2.2.10
-    org.firebirdsql.jdbc:jaybird-jdk18 2.2.10
+    org.firebirdsql.jdbc:jaybird-jdk16 2.2.11
+    org.firebirdsql.jdbc:jaybird-jdk17 2.2.11
+    org.firebirdsql.jdbc:jaybird-jdk18 2.2.11
     org.flywaydb:flyway-core 3.2.1
     org.freemarker:freemarker 2.3.25-incubating
     org.glassfish:javax.el 3.0.0
@@ -2318,84 +2346,84 @@ testRuntime - Dependency management for the testRuntime configuration
     org.glassfish.jersey.ext:jersey-bean-validation 2.22.2
     org.glassfish.jersey.ext:jersey-spring3 2.22.2
     org.glassfish.jersey.media:jersey-media-json-jackson 2.22.2
-    org.grails:grails-async 3.1.11
-    org.grails:grails-bootstrap 3.1.11
-    org.grails:grails-codecs 3.1.11
-    org.grails:grails-compat 3.1.11
-    org.grails:grails-console 3.1.11
-    org.grails:grails-core 3.1.11
-    org.grails:grails-databinding 3.1.11
-    org.grails:grails-datastore-core 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm-cassandra 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm-hibernate 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm-hibernate4 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm-hibernate5 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm-mongodb 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm-neo4j 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm-support 5.0.10.RELEASE
-    org.grails:grails-datastore-gorm-test 5.0.10.RELEASE
-    org.grails:grails-datastore-rest-client 5.0.10.RELEASE
-    org.grails:grails-datastore-simple 5.0.10.RELEASE
-    org.grails:grails-datastore-test-support 5.0.10.RELEASE
-    org.grails:grails-datastore-web 5.0.10.RELEASE
-    org.grails:grails-dependencies 3.1.11
-    org.grails:grails-docs 3.1.11
-    org.grails:grails-encoder 3.1.11
-    org.grails:grails-gradle-model 3.1.11
-    org.grails:grails-gradle-plugin 3.1.11
-    org.grails:grails-gsp 3.1.11
-    org.grails:grails-logging 3.1.11
-    org.grails:grails-plugin-async 3.1.11
-    org.grails:grails-plugin-codecs 3.1.11
-    org.grails:grails-plugin-controllers 3.1.11
-    org.grails:grails-plugin-converters 3.1.11
-    org.grails:grails-plugin-databinding 3.1.11
-    org.grails:grails-plugin-datasource 3.1.11
-    org.grails:grails-plugin-domain-class 3.1.11
-    org.grails:grails-plugin-events 3.1.11
-    org.grails:grails-plugin-gsp 3.1.11
-    org.grails:grails-plugin-i18n 3.1.11
-    org.grails:grails-plugin-interceptors 3.1.11
-    org.grails:grails-plugin-mimetypes 3.1.11
-    org.grails:grails-plugin-rest 3.1.11
-    org.grails:grails-plugin-services 3.1.11
-    org.grails:grails-plugin-testing 3.1.11
-    org.grails:grails-plugin-url-mappings 3.1.11
-    org.grails:grails-plugin-validation 3.1.11
-    org.grails:grails-shell 3.1.11
-    org.grails:grails-spring 3.1.11
-    org.grails:grails-taglib 3.1.11
-    org.grails:grails-test 3.1.11
-    org.grails:grails-test-suite-base 3.1.11
-    org.grails:grails-test-suite-persistence 3.1.11
-    org.grails:grails-test-suite-uber 3.1.11
-    org.grails:grails-test-suite-web 3.1.11
-    org.grails:grails-validation 3.1.11
-    org.grails:grails-web 3.1.11
-    org.grails:grails-web-boot 3.1.11
-    org.grails:grails-web-common 3.1.11
-    org.grails:grails-web-databinding 3.1.11
-    org.grails:grails-web-fileupload 3.1.11
-    org.grails:grails-web-gsp 3.1.11
-    org.grails:grails-web-gsp-taglib 3.1.11
-    org.grails:grails-web-jsp 3.1.11
-    org.grails:grails-web-mvc 3.1.11
-    org.grails:grails-web-sitemesh 3.1.11
-    org.grails:grails-web-taglib 3.1.11
-    org.grails:grails-web-url-mappings 3.1.11
+    org.grails:grails-async 3.1.12
+    org.grails:grails-bootstrap 3.1.12
+    org.grails:grails-codecs 3.1.12
+    org.grails:grails-compat 3.1.12
+    org.grails:grails-console 3.1.12
+    org.grails:grails-core 3.1.12
+    org.grails:grails-databinding 3.1.12
+    org.grails:grails-datastore-core 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm-cassandra 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm-hibernate 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm-hibernate4 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm-hibernate5 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm-mongodb 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm-neo4j 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm-support 5.0.12.RELEASE
+    org.grails:grails-datastore-gorm-test 5.0.12.RELEASE
+    org.grails:grails-datastore-rest-client 5.0.12.RELEASE
+    org.grails:grails-datastore-simple 5.0.12.RELEASE
+    org.grails:grails-datastore-test-support 5.0.12.RELEASE
+    org.grails:grails-datastore-web 5.0.12.RELEASE
+    org.grails:grails-dependencies 3.1.12
+    org.grails:grails-docs 3.1.12
+    org.grails:grails-encoder 3.1.12
+    org.grails:grails-gradle-model 3.1.12
+    org.grails:grails-gradle-plugin 3.1.12
+    org.grails:grails-gsp 3.1.12
+    org.grails:grails-logging 3.1.12
+    org.grails:grails-plugin-async 3.1.12
+    org.grails:grails-plugin-codecs 3.1.12
+    org.grails:grails-plugin-controllers 3.1.12
+    org.grails:grails-plugin-converters 3.1.12
+    org.grails:grails-plugin-databinding 3.1.12
+    org.grails:grails-plugin-datasource 3.1.12
+    org.grails:grails-plugin-domain-class 3.1.12
+    org.grails:grails-plugin-events 3.1.12
+    org.grails:grails-plugin-gsp 3.1.12
+    org.grails:grails-plugin-i18n 3.1.12
+    org.grails:grails-plugin-interceptors 3.1.12
+    org.grails:grails-plugin-mimetypes 3.1.12
+    org.grails:grails-plugin-rest 3.1.12
+    org.grails:grails-plugin-services 3.1.12
+    org.grails:grails-plugin-testing 3.1.12
+    org.grails:grails-plugin-url-mappings 3.1.12
+    org.grails:grails-plugin-validation 3.1.12
+    org.grails:grails-shell 3.1.12
+    org.grails:grails-spring 3.1.12
+    org.grails:grails-taglib 3.1.12
+    org.grails:grails-test 3.1.12
+    org.grails:grails-test-suite-base 3.1.12
+    org.grails:grails-test-suite-persistence 3.1.12
+    org.grails:grails-test-suite-uber 3.1.12
+    org.grails:grails-test-suite-web 3.1.12
+    org.grails:grails-validation 3.1.12
+    org.grails:grails-web 3.1.12
+    org.grails:grails-web-boot 3.1.12
+    org.grails:grails-web-common 3.1.12
+    org.grails:grails-web-databinding 3.1.12
+    org.grails:grails-web-fileupload 3.1.12
+    org.grails:grails-web-gsp 3.1.12
+    org.grails:grails-web-gsp-taglib 3.1.12
+    org.grails:grails-web-jsp 3.1.12
+    org.grails:grails-web-mvc 3.1.12
+    org.grails:grails-web-sitemesh 3.1.12
+    org.grails:grails-web-taglib 3.1.12
+    org.grails:grails-web-url-mappings 3.1.12
     org.grails.plugins:asset-pipeline 3.2.1
     org.grails.plugins:asset-pipeline-grails 2.8.2
     org.grails.plugins:cache 3.0.2
-    org.grails.plugins:cassandra 5.0.10
+    org.grails.plugins:cassandra 5.0.11
     org.grails.plugins:fields 2.1.2
     org.grails.plugins:geb 1.0.2
     org.grails.plugins:hibernate 4.3.10.7
-    org.grails.plugins:hibernate3 5.0.10
-    org.grails.plugins:hibernate4 5.0.10
-    org.grails.plugins:hibernate5 5.0.10
-    org.grails.plugins:mongodb 5.0.10
-    org.grails.plugins:neo4j 5.0.10
+    org.grails.plugins:hibernate3 5.0.11
+    org.grails.plugins:hibernate4 5.0.11
+    org.grails.plugins:hibernate5 5.0.11
+    org.grails.plugins:mongodb 5.0.11
+    org.grails.plugins:neo4j 5.0.11
     org.grails.plugins:scaffolding 3.2.1
     org.grails.plugins:views-json 1.0.12
     org.grails.plugins:views-markup 1.0.12
@@ -2423,7 +2451,7 @@ testRuntime - Dependency management for the testRuntime configuration
     org.javassist:javassist 3.18.1-GA
     org.jboss.logging:jboss-logging 3.3.0.Final
     org.jdom:jdom2 2.0.6
-    org.jolokia:jolokia-core 1.3.3
+    org.jolokia:jolokia-core 1.3.4
     org.jooq:jooq 3.7.4
     org.jooq:jooq-codegen 3.7.4
     org.jooq:jooq-meta 3.7.4
@@ -2432,7 +2460,7 @@ testRuntime - Dependency management for the testRuntime configuration
     org.mariadb.jdbc:mariadb-java-client 1.2.3
     org.mockito:mockito-core 1.10.19
     org.mongodb:mongo-java-driver 2.13.3
-    org.postgresql:postgresql 9.4.1209.jre7
+    org.postgresql:postgresql 9.4.1211.jre7
     org.skyscreamer:jsonassert 1.2.3
     org.slf4j:jcl-over-slf4j 1.7.21
     org.slf4j:jul-to-slf4j 1.7.21
@@ -2443,26 +2471,26 @@ testRuntime - Dependency management for the testRuntime configuration
     org.slf4j:slf4j-simple 1.7.21
     org.spockframework:spock-core 1.0-groovy-2.4
     org.spockframework:spock-spring 1.0-groovy-2.4
-    org.springframework:spring-aop 4.2.7.RELEASE
-    org.springframework:spring-aspects 4.2.7.RELEASE
-    org.springframework:spring-beans 4.2.7.RELEASE
-    org.springframework:spring-context 4.2.7.RELEASE
-    org.springframework:spring-context-support 4.2.7.RELEASE
-    org.springframework:spring-core 4.2.7.RELEASE
-    org.springframework:spring-expression 4.2.7.RELEASE
-    org.springframework:spring-instrument 4.2.7.RELEASE
-    org.springframework:spring-instrument-tomcat 4.2.7.RELEASE
-    org.springframework:spring-jdbc 4.2.7.RELEASE
-    org.springframework:spring-jms 4.2.7.RELEASE
-    org.springframework:spring-messaging 4.2.7.RELEASE
-    org.springframework:spring-orm 4.2.7.RELEASE
-    org.springframework:spring-oxm 4.2.7.RELEASE
-    org.springframework:spring-test 4.2.7.RELEASE
-    org.springframework:spring-tx 4.2.7.RELEASE
-    org.springframework:spring-web 4.2.7.RELEASE
-    org.springframework:spring-webmvc 4.2.7.RELEASE
-    org.springframework:spring-webmvc-portlet 4.2.7.RELEASE
-    org.springframework:spring-websocket 4.2.7.RELEASE
+    org.springframework:spring-aop 4.2.8.RELEASE
+    org.springframework:spring-aspects 4.2.8.RELEASE
+    org.springframework:spring-beans 4.2.8.RELEASE
+    org.springframework:spring-context 4.2.8.RELEASE
+    org.springframework:spring-context-support 4.2.8.RELEASE
+    org.springframework:spring-core 4.2.8.RELEASE
+    org.springframework:spring-expression 4.2.8.RELEASE
+    org.springframework:spring-instrument 4.2.8.RELEASE
+    org.springframework:spring-instrument-tomcat 4.2.8.RELEASE
+    org.springframework:spring-jdbc 4.2.8.RELEASE
+    org.springframework:spring-jms 4.2.8.RELEASE
+    org.springframework:spring-messaging 4.2.8.RELEASE
+    org.springframework:spring-orm 4.2.8.RELEASE
+    org.springframework:spring-oxm 4.2.8.RELEASE
+    org.springframework:spring-test 4.2.8.RELEASE
+    org.springframework:spring-tx 4.2.8.RELEASE
+    org.springframework:spring-web 4.2.8.RELEASE
+    org.springframework:spring-webmvc 4.2.8.RELEASE
+    org.springframework:spring-webmvc-portlet 4.2.8.RELEASE
+    org.springframework:spring-websocket 4.2.8.RELEASE
     org.springframework:springloaded 1.2.6.RELEASE
     org.springframework.amqp:spring-amqp 1.5.6.RELEASE
     org.springframework.amqp:spring-rabbit 1.5.6.RELEASE
@@ -2470,84 +2498,84 @@ testRuntime - Dependency management for the testRuntime configuration
     org.springframework.batch:spring-batch-infrastructure 3.0.7.RELEASE
     org.springframework.batch:spring-batch-integration 3.0.7.RELEASE
     org.springframework.batch:spring-batch-test 3.0.7.RELEASE
-    org.springframework.boot:spring-boot 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-actuator 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-actuator-docs 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-autoconfigure 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-configuration-metadata 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-configuration-processor 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-devtools 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-loader 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-loader-tools 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-actuator 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-amqp 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-aop 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-artemis 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-batch 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-cache 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-cloud-connectors 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-data-cassandra 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-data-elasticsearch 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-data-gemfire 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-data-jpa 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-data-mongodb 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-data-rest 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-data-solr 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-freemarker 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-groovy-templates 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-hateoas 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-hornetq 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-integration 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-jdbc 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-jersey 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-jetty 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-jooq 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-jta-atomikos 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-jta-bitronix 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-log4j 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-log4j2 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-logging 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-mail 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-mobile 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-mustache 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-redis 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-remote-shell 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-security 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-social-facebook 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-social-linkedin 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-social-twitter 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-test 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-thymeleaf 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-tomcat 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-undertow 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-validation 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-velocity 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-web 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-websocket 1.3.7.RELEASE
-    org.springframework.boot:spring-boot-starter-ws 1.3.7.RELEASE
+    org.springframework.boot:spring-boot 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-actuator 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-actuator-docs 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-autoconfigure 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-configuration-metadata 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-configuration-processor 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-devtools 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-loader 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-loader-tools 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-actuator 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-amqp 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-aop 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-artemis 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-batch 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-cache 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-cloud-connectors 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-data-cassandra 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-data-elasticsearch 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-data-gemfire 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-data-jpa 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-data-mongodb 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-data-rest 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-data-solr 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-freemarker 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-groovy-templates 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-hateoas 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-hornetq 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-integration 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-jdbc 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-jersey 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-jetty 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-jooq 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-jta-atomikos 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-jta-bitronix 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-log4j 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-log4j2 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-logging 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-mail 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-mobile 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-mustache 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-redis 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-remote-shell 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-security 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-social-facebook 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-social-linkedin 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-social-twitter 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-test 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-thymeleaf 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-tomcat 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-undertow 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-validation 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-velocity 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-web 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-websocket 1.3.8.RELEASE
+    org.springframework.boot:spring-boot-starter-ws 1.3.8.RELEASE
     org.springframework.cloud:spring-cloud-cloudfoundry-connector 1.2.3.RELEASE
     org.springframework.cloud:spring-cloud-core 1.2.3.RELEASE
     org.springframework.cloud:spring-cloud-heroku-connector 1.2.3.RELEASE
     org.springframework.cloud:spring-cloud-localconfig-connector 1.2.3.RELEASE
     org.springframework.cloud:spring-cloud-spring-service-connector 1.2.3.RELEASE
-    org.springframework.data:spring-cql 1.3.4.RELEASE
-    org.springframework.data:spring-data-cassandra 1.3.4.RELEASE
-    org.springframework.data:spring-data-commons 1.11.4.RELEASE
-    org.springframework.data:spring-data-couchbase 1.4.4.RELEASE
-    org.springframework.data:spring-data-elasticsearch 1.3.4.RELEASE
-    org.springframework.data:spring-data-gemfire 1.7.4.RELEASE
-    org.springframework.data:spring-data-jpa 1.9.4.RELEASE
-    org.springframework.data:spring-data-keyvalue 1.0.4.RELEASE
-    org.springframework.data:spring-data-mongodb 1.8.4.RELEASE
-    org.springframework.data:spring-data-mongodb-cross-store 1.8.4.RELEASE
-    org.springframework.data:spring-data-mongodb-log4j 1.8.4.RELEASE
-    org.springframework.data:spring-data-neo4j 3.4.4.RELEASE
-    org.springframework.data:spring-data-redis 1.6.4.RELEASE
-    org.springframework.data:spring-data-rest-core 2.4.4.RELEASE
-    org.springframework.data:spring-data-rest-hal-browser 2.4.4.RELEASE
-    org.springframework.data:spring-data-rest-webmvc 2.4.4.RELEASE
-    org.springframework.data:spring-data-solr 1.5.4.RELEASE
+    org.springframework.data:spring-cql 1.3.5.RELEASE
+    org.springframework.data:spring-data-cassandra 1.3.5.RELEASE
+    org.springframework.data:spring-data-commons 1.11.5.RELEASE
+    org.springframework.data:spring-data-couchbase 1.4.5.RELEASE
+    org.springframework.data:spring-data-elasticsearch 1.3.5.RELEASE
+    org.springframework.data:spring-data-gemfire 1.7.5.RELEASE
+    org.springframework.data:spring-data-jpa 1.9.5.RELEASE
+    org.springframework.data:spring-data-keyvalue 1.0.5.RELEASE
+    org.springframework.data:spring-data-mongodb 1.8.5.RELEASE
+    org.springframework.data:spring-data-mongodb-cross-store 1.8.5.RELEASE
+    org.springframework.data:spring-data-mongodb-log4j 1.8.5.RELEASE
+    org.springframework.data:spring-data-neo4j 3.4.5.RELEASE
+    org.springframework.data:spring-data-redis 1.6.5.RELEASE
+    org.springframework.data:spring-data-rest-core 2.4.5.RELEASE
+    org.springframework.data:spring-data-rest-hal-browser 2.4.5.RELEASE
+    org.springframework.data:spring-data-rest-webmvc 2.4.5.RELEASE
+    org.springframework.data:spring-data-solr 1.5.5.RELEASE
     org.springframework.hateoas:spring-hateoas 0.19.0.RELEASE
     org.springframework.integration:spring-integration-amqp 4.2.9.RELEASE
     org.springframework.integration:spring-integration-core 4.2.9.RELEASE
@@ -2593,7 +2621,7 @@ testRuntime - Dependency management for the testRuntime configuration
     org.springframework.security:spring-security-core 4.0.4.RELEASE
     org.springframework.security:spring-security-crypto 4.0.4.RELEASE
     org.springframework.security:spring-security-data 4.0.4.RELEASE
-    org.springframework.security:spring-security-jwt 1.0.4.RELEASE
+    org.springframework.security:spring-security-jwt 1.0.5.RELEASE
     org.springframework.security:spring-security-ldap 4.0.4.RELEASE
     org.springframework.security:spring-security-messaging 4.0.4.RELEASE
     org.springframework.security:spring-security-openid 4.0.4.RELEASE
@@ -2601,8 +2629,8 @@ testRuntime - Dependency management for the testRuntime configuration
     org.springframework.security:spring-security-taglibs 4.0.4.RELEASE
     org.springframework.security:spring-security-test 4.0.4.RELEASE
     org.springframework.security:spring-security-web 4.0.4.RELEASE
-    org.springframework.security.oauth:spring-security-oauth 2.0.10.RELEASE
-    org.springframework.security.oauth:spring-security-oauth2 2.0.10.RELEASE
+    org.springframework.security.oauth:spring-security-oauth 2.0.11.RELEASE
+    org.springframework.security.oauth:spring-security-oauth2 2.0.11.RELEASE
     org.springframework.session:spring-session 1.0.2.RELEASE
     org.springframework.session:spring-session-data-redis 1.0.2.RELEASE
     org.springframework.social:spring-social-config 1.1.4.RELEASE
@@ -2630,6 +2658,6 @@ testRuntime - Dependency management for the testRuntime configuration
 
 BUILD SUCCESSFUL
 
-Total time: 13.25 secs
+Total time: 24.054 secs
 
 This build could be faster, please consider using the Gradle Daemon: https://docs.gradle.org/2.13/userguide/gradle_daemon.html
