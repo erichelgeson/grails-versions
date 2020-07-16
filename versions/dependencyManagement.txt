@@ -1,0 +1,26 @@
+Download https://repo.grails.org/grails/core/org/grails/grails-gradle-plugin/3.0.0/grails-gradle-plugin-3.0.0.jar
+Download https://repo.grails.org/grails/core/com/bertramlabs/plugins/asset-pipeline-gradle/2.1.1/asset-pipeline-gradle-2.1.1.jar
+Download https://repo.grails.org/grails/core/io/spring/gradle/dependency-management-plugin/0.4.0.RELEASE/dependency-management-plugin-0.4.0.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/codehaus/groovy/groovy/2.4.3/groovy-2.4.3.jar
+Download https://repo.grails.org/grails/core/org/slf4j/slf4j-api/1.7.10/slf4j-api-1.7.10.jar
+Download https://repo.grails.org/grails/core/org/slf4j/jcl-over-slf4j/1.7.10/jcl-over-slf4j-1.7.10.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-gradle-model/3.0.0/grails-gradle-model-3.0.0.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-bootstrap/3.0.0/grails-bootstrap-3.0.0.jar
+Download https://repo.grails.org/grails/core/org/springframework/boot/spring-boot-gradle-plugin/1.2.3.RELEASE/spring-boot-gradle-plugin-1.2.3.RELEASE.jar
+Download https://repo.grails.org/grails/core/com/bertramlabs/plugins/asset-pipeline-core/2.1.1/asset-pipeline-core-2.1.1.jar
+Download https://repo.grails.org/grails/core/org/codehaus/groovy/groovy-xml/2.4.3/groovy-xml-2.4.3.jar
+Download https://repo.grails.org/grails/core/org/codehaus/groovy/groovy-ant/2.4.3/groovy-ant-2.4.3.jar
+Download https://repo.grails.org/grails/core/org/springframework/boot/spring-boot-loader-tools/1.2.3.RELEASE/spring-boot-loader-tools-1.2.3.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/springframework/boot/spring-boot-dependency-tools/1.2.3.RELEASE/spring-boot-dependency-tools-1.2.3.RELEASE.jar
+Download https://repo.grails.org/grails/core/com/google/javascript/closure-compiler/v20141023/closure-compiler-v20141023.jar
+Download https://repo.grails.org/grails/core/org/codehaus/groovy/groovy-groovydoc/2.4.3/groovy-groovydoc-2.4.3.jar
+Download https://repo.grails.org/grails/core/org/springframework/spring-core/4.1.6.RELEASE/spring-core-4.1.6.RELEASE.jar
+Download https://repo.grails.org/grails/core/com/google/javascript/closure-compiler-externs/v20141023/closure-compiler-externs-v20141023.jar
+Download https://repo.grails.org/grails/core/com/google/guava/guava/18.0/guava-18.0.jar
+Download https://repo.grails.org/grails/core/org/codehaus/groovy/groovy-templates/2.4.3/groovy-templates-2.4.3.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-bom/3.0.0/grails-bom-3.0.0.pom
+Download https://repo.grails.org/grails/core/org/springframework/springloaded/1.2.3.RELEASE/springloaded-1.2.3.RELEASE.jar
+
+BUILD FAILED
+
+Total time: 12.984 secs
