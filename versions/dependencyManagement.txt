@@ -1,7 +1,114 @@
-Download https://repo.grails.org/grails/core/org/grails/grails-gradle-plugin/3.0.14/grails-gradle-plugin-3.0.14.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-gradle-model/3.0.14/grails-gradle-model-3.0.14.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-bootstrap/3.0.14/grails-bootstrap-3.0.14.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-bom/3.0.14/grails-bom-3.0.14.pom
+Download https://repo.grails.org/grails/core/org/grails/grails-gradle-plugin/3.0.15/grails-gradle-plugin-3.0.15.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-gradle-model/3.0.15/grails-gradle-model-3.0.15.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-bootstrap/3.0.15/grails-bootstrap-3.0.15.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-bom/3.0.15/grails-bom-3.0.15.pom
+Download https://repo.grails.org/grails/core/org/springframework/boot/spring-boot-starter-logging/1.2.7.RELEASE/spring-boot-starter-logging-1.2.7.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/springframework/boot/spring-boot-starter-actuator/1.2.7.RELEASE/spring-boot-starter-actuator-1.2.7.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/springframework/boot/spring-boot-autoconfigure/1.2.7.RELEASE/spring-boot-autoconfigure-1.2.7.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/springframework/boot/spring-boot-starter-tomcat/1.2.7.RELEASE/spring-boot-starter-tomcat-1.2.7.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-web-boot/3.0.15/grails-web-boot-3.0.15.jar
+Download https://repo.grails.org/grails/core/org/grails/plugins/hibernate/4.3.10.7/hibernate-4.3.10.7.jar
+Download https://repo.grails.org/grails/core/org/grails/plugins/cache/3.0.2/cache-3.0.2.jar
+Download https://repo.grails.org/grails/core/org/hibernate/hibernate-ehcache/4.3.11.Final/hibernate-ehcache-4.3.11.Final.jar
+Download https://repo.grails.org/grails/core/org/grails/plugins/scaffolding/3.1.3/scaffolding-3.1.3.jar
+Download https://repo.grails.org/grails/core/org/grails/plugins/asset-pipeline/3.0.15/asset-pipeline-3.0.15.jar
+Download https://repo.grails.org/grails/core/org/slf4j/jcl-over-slf4j/1.7.12/jcl-over-slf4j-1.7.12.jar
+Download https://repo.grails.org/grails/core/org/slf4j/jul-to-slf4j/1.7.12/jul-to-slf4j-1.7.12.jar
+Download https://repo.grails.org/grails/core/org/slf4j/log4j-over-slf4j/1.7.12/log4j-over-slf4j-1.7.12.jar
+Download https://repo.grails.org/grails/core/ch/qos/logback/logback-classic/1.1.3/logback-classic-1.1.3.jar
+Download https://repo.grails.org/grails/core/org/springframework/boot/spring-boot-starter/1.2.7.RELEASE/spring-boot-starter-1.2.7.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/springframework/boot/spring-boot-actuator/1.2.7.RELEASE/spring-boot-actuator-1.2.7.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/springframework/boot/spring-boot/1.2.7.RELEASE/spring-boot-1.2.7.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/apache/tomcat/embed/tomcat-embed-core/8.0.28/tomcat-embed-core-8.0.28.jar
+Download https://repo.grails.org/grails/core/org/apache/tomcat/embed/tomcat-embed-el/8.0.28/tomcat-embed-el-8.0.28.jar
+Download https://repo.grails.org/grails/core/org/apache/tomcat/embed/tomcat-embed-logging-juli/8.0.28/tomcat-embed-logging-juli-8.0.28.jar
+Download https://repo.grails.org/grails/core/org/apache/tomcat/embed/tomcat-embed-websocket/8.0.28/tomcat-embed-websocket-8.0.28.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-rest/3.0.15/grails-plugin-rest-3.0.15.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-databinding/3.0.15/grails-plugin-databinding-3.0.15.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-i18n/3.0.15/grails-plugin-i18n-3.0.15.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-filters/3.0.15/grails-plugin-filters-3.0.15.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-gsp/3.0.15/grails-plugin-gsp-3.0.15.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-services/3.0.15/grails-plugin-services-3.0.15.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-url-mappings/3.0.15/grails-plugin-url-mappings-3.0.15.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-interceptors/3.0.15/grails-plugin-interceptors-3.0.15.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-async/3.0.15/grails-plugin-async-3.0.15.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-web-common/3.0.15/grails-web-common-3.0.15.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-datastore-gorm-hibernate4/4.0.7.RELEASE/grails-datastore-gorm-hibernate4-4.0.7.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/hibernate/hibernate-core/4.3.11.Final/hibernate-core-4.3.11.Final.jar
+Download https://repo.grails.org/grails/core/net/sf/ehcache/ehcache-core/2.4.3/ehcache-core-2.4.3.jar
+Download https://repo.grails.org/grails/core/org/grails/plugins/fields/2.1.2/fields-2.1.2.jar
+Download https://repo.grails.org/grails/core/com/bertramlabs/plugins/asset-pipeline-core/2.6.7/asset-pipeline-core-2.6.7.jar
+Download https://repo.grails.org/grails/core/ch/qos/logback/logback-core/1.1.3/logback-core-1.1.3.jar
+Download https://repo.grails.org/grails/core/com/fasterxml/jackson/core/jackson-databind/2.4.6/jackson-databind-2.4.6.jar
+Download https://repo.grails.org/grails/core/org/springframework/spring-context/4.1.8.RELEASE/spring-context-4.1.8.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-web/3.0.15/grails-web-3.0.15.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-controllers/3.0.15/grails-plugin-controllers-3.0.15.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-datasource/3.0.15/grails-plugin-datasource-3.0.15.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-core/3.0.15/grails-core-3.0.15.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-codecs/3.0.15/grails-plugin-codecs-3.0.15.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-logging/3.0.15/grails-logging-3.0.15.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-web-gsp-taglib/3.0.15/grails-web-gsp-taglib-3.0.15.jar
+Download https://repo.grails.org/grails/core/org/springframework/spring-tx/4.1.8.RELEASE/spring-tx-4.1.8.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-events/3.0.15/grails-plugin-events-3.0.15.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-validation/3.0.15/grails-validation-3.0.15.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-databinding/3.0.15/grails-databinding-3.0.15.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-encoder/3.0.15/grails-encoder-3.0.15.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-gsp/3.0.15/grails-gsp-3.0.15.jar
+Download https://repo.grails.org/grails/core/org/springframework/spring-webmvc/4.1.8.RELEASE/spring-webmvc-4.1.8.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/springframework/spring-context-support/4.1.8.RELEASE/spring-context-support-4.1.8.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-datastore-gorm-hibernate-core/4.0.7.RELEASE/grails-datastore-gorm-hibernate-core-4.0.7.RELEASE.jar
+Download https://repo.grails.org/grails/core/com/fasterxml/jackson/core/jackson-annotations/2.4.0/jackson-annotations-2.4.0.jar
+Download https://repo.grails.org/grails/core/com/fasterxml/jackson/core/jackson-core/2.4.6/jackson-core-2.4.6.jar
+Download https://repo.grails.org/grails/core/org/springframework/spring-aop/4.1.8.RELEASE/spring-aop-4.1.8.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/springframework/spring-beans/4.1.8.RELEASE/spring-beans-4.1.8.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/springframework/spring-expression/4.1.8.RELEASE/spring-expression-4.1.8.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/springframework/spring-aspects/4.1.8.RELEASE/spring-aspects-4.1.8.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/aspectj/aspectjrt/1.8.7/aspectjrt-1.8.7.jar
+Download https://repo.grails.org/grails/core/org/aspectj/aspectjweaver/1.8.7/aspectjweaver-1.8.7.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-web-gsp/3.0.15/grails-web-gsp-3.0.15.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-web-databinding/3.0.15/grails-web-databinding-3.0.15.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-web-url-mappings/3.0.15/grails-web-url-mappings-3.0.15.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-web-jsp/3.0.15/grails-web-jsp-3.0.15.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-web-mvc/3.0.15/grails-web-mvc-3.0.15.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-web-sitemesh/3.0.15/grails-web-sitemesh-3.0.15.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-async/3.0.15/grails-async-3.0.15.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-converters/3.0.15/grails-plugin-converters-3.0.15.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-mimetypes/3.0.15/grails-plugin-mimetypes-3.0.15.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-validation/3.0.15/grails-plugin-validation-3.0.15.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-domain-class/3.0.15/grails-plugin-domain-class-3.0.15.jar
+Download https://repo.grails.org/grails/core/org/apache/tomcat/embed/tomcat-embed-logging-log4j/7.0.55/tomcat-embed-logging-log4j-7.0.55.jar
+Download https://repo.grails.org/grails/core/org/springframework/spring-jdbc/4.1.8.RELEASE/spring-jdbc-4.1.8.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/codehaus/groovy/groovy-sql/2.4.5/groovy-sql-2.4.5.jar
+Download https://repo.grails.org/grails/core/org/apache/tomcat/tomcat-jdbc/7.0.55/tomcat-jdbc-7.0.55.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-spring/3.0.15/grails-spring-3.0.15.jar
+Download https://repo.grails.org/grails/core/io/projectreactor/spring/reactor-spring-context/2.0.6.RELEASE/reactor-spring-context-2.0.6.RELEASE.jar
+Download https://repo.grails.org/grails/core/io/projectreactor/reactor-bus/2.0.6.RELEASE/reactor-bus-2.0.6.RELEASE.jar
+Download https://repo.grails.org/grails/core/commons-validator/commons-validator/1.4.1/commons-validator-1.4.1.jar
+Download https://repo.grails.org/grails/core/org/codehaus/groovy/groovy-json/2.4.5/groovy-json-2.4.5.jar
+Download https://repo.grails.org/grails/core/org/springframework/spring-web/4.1.8.RELEASE/spring-web-4.1.8.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-taglib/3.0.15/grails-taglib-3.0.15.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-datastore-gorm/4.0.7.RELEASE/grails-datastore-gorm-4.0.7.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-datastore-gorm-plugin-support/4.0.7.RELEASE/grails-datastore-gorm-plugin-support-4.0.7.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-datastore-core/4.0.7.RELEASE/grails-datastore-core-4.0.7.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/springframework/spring-orm/4.1.8.RELEASE/spring-orm-4.1.8.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-web-taglib/3.0.15/grails-web-taglib-3.0.15.jar
+Download https://repo.grails.org/grails/core/opensymphony/sitemesh/2.4/sitemesh-2.4.jar
+Download https://repo.grails.org/grails/core/io/projectreactor/reactor-core/2.0.6.RELEASE/reactor-core-2.0.6.RELEASE.jar
+Download https://repo.grails.org/grails/core/io/projectreactor/reactor-stream/2.0.6.RELEASE/reactor-stream-2.0.6.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-datastore-simple/4.0.7.RELEASE/grails-datastore-simple-4.0.7.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/apache/tomcat/tomcat-juli/7.0.55/tomcat-juli-7.0.55.jar
+Download https://repo.grails.org/grails/core/com/jayway/jsonpath/json-path/0.9.0/json-path-0.9.0.jar
+Download https://repo.grails.org/grails/core/io/projectreactor/spring/reactor-spring-core/2.0.6.RELEASE/reactor-spring-core-2.0.6.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-datastore-web/4.0.7.RELEASE/grails-datastore-web-4.0.7.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/reactivestreams/reactive-streams/1.0.0/reactive-streams-1.0.0.jar
+Download https://repo.grails.org/grails/core/net/minidev/json-smart/1.2/json-smart-1.2.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-console/3.0.15/grails-console-3.0.15.jar
+Download https://repo.grails.org/grails/core/org/codehaus/groovy/groovy-console/2.4.5/groovy-console-2.4.5.jar
+Download https://repo.grails.org/grails/core/org/codehaus/groovy/groovy-groovysh/2.4.5/groovy-groovysh-2.4.5.jar
+Download https://repo.grails.org/grails/core/org/fusesource/jansi/jansi/1.11/jansi-1.11.jar
+Download https://repo.grails.org/grails/core/net/java/dev/jna/jna/4.0.0/jna-4.0.0.jar
+Download https://repo.grails.org/grails/core/org/springframework/spring-test/4.1.8.RELEASE/spring-test-4.1.8.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/codehaus/groovy/groovy-swing/2.4.5/groovy-swing-2.4.5.jar
 :dependencyManagement
 
 ------------------------------------------------------------
@@ -18,58 +125,58 @@ global - Default dependency management for all configurations
     org.codehaus.groovy:groovy-swing 2.4.5
     org.codehaus.groovy:groovy-templates 2.4.5
     org.codehaus.groovy:groovy-xml 2.4.5
-    org.grails:grails-async 3.0.14
-    org.grails:grails-bootstrap 3.0.14
-    org.grails:grails-compat 3.0.14
-    org.grails:grails-console 3.0.14
-    org.grails:grails-core 3.0.14
-    org.grails:grails-databinding 3.0.14
-    org.grails:grails-dependencies 3.0.14
-    org.grails:grails-docs 3.0.14
-    org.grails:grails-encoder 3.0.14
-    org.grails:grails-gradle-model 3.0.14
-    org.grails:grails-gradle-plugin 3.0.14
-    org.grails:grails-gsp 3.0.14
-    org.grails:grails-logging 3.0.14
-    org.grails:grails-plugin-async 3.0.14
-    org.grails:grails-plugin-codecs 3.0.14
-    org.grails:grails-plugin-controllers 3.0.14
-    org.grails:grails-plugin-converters 3.0.14
-    org.grails:grails-plugin-databinding 3.0.14
-    org.grails:grails-plugin-datasource 3.0.14
-    org.grails:grails-plugin-domain-class 3.0.14
-    org.grails:grails-plugin-events 3.0.14
-    org.grails:grails-plugin-filters 3.0.14
-    org.grails:grails-plugin-gsp 3.0.14
-    org.grails:grails-plugin-i18n 3.0.14
-    org.grails:grails-plugin-interceptors 3.0.14
-    org.grails:grails-plugin-mimetypes 3.0.14
-    org.grails:grails-plugin-rest 3.0.14
-    org.grails:grails-plugin-services 3.0.14
-    org.grails:grails-plugin-testing 3.0.14
-    org.grails:grails-plugin-url-mappings 3.0.14
-    org.grails:grails-plugin-validation 3.0.14
-    org.grails:grails-shell 3.0.14
-    org.grails:grails-spring 3.0.14
-    org.grails:grails-taglib 3.0.14
-    org.grails:grails-test 3.0.14
-    org.grails:grails-test-suite-base 3.0.14
-    org.grails:grails-test-suite-persistence 3.0.14
-    org.grails:grails-test-suite-uber 3.0.14
-    org.grails:grails-test-suite-web 3.0.14
-    org.grails:grails-validation 3.0.14
-    org.grails:grails-web 3.0.14
-    org.grails:grails-web-boot 3.0.14
-    org.grails:grails-web-common 3.0.14
-    org.grails:grails-web-databinding 3.0.14
-    org.grails:grails-web-fileupload 3.0.14
-    org.grails:grails-web-gsp 3.0.14
-    org.grails:grails-web-gsp-taglib 3.0.14
-    org.grails:grails-web-jsp 3.0.14
-    org.grails:grails-web-mvc 3.0.14
-    org.grails:grails-web-sitemesh 3.0.14
-    org.grails:grails-web-taglib 3.0.14
-    org.grails:grails-web-url-mappings 3.0.14
+    org.grails:grails-async 3.0.15
+    org.grails:grails-bootstrap 3.0.15
+    org.grails:grails-compat 3.0.15
+    org.grails:grails-console 3.0.15
+    org.grails:grails-core 3.0.15
+    org.grails:grails-databinding 3.0.15
+    org.grails:grails-dependencies 3.0.15
+    org.grails:grails-docs 3.0.15
+    org.grails:grails-encoder 3.0.15
+    org.grails:grails-gradle-model 3.0.15
+    org.grails:grails-gradle-plugin 3.0.15
+    org.grails:grails-gsp 3.0.15
+    org.grails:grails-logging 3.0.15
+    org.grails:grails-plugin-async 3.0.15
+    org.grails:grails-plugin-codecs 3.0.15
+    org.grails:grails-plugin-controllers 3.0.15
+    org.grails:grails-plugin-converters 3.0.15
+    org.grails:grails-plugin-databinding 3.0.15
+    org.grails:grails-plugin-datasource 3.0.15
+    org.grails:grails-plugin-domain-class 3.0.15
+    org.grails:grails-plugin-events 3.0.15
+    org.grails:grails-plugin-filters 3.0.15
+    org.grails:grails-plugin-gsp 3.0.15
+    org.grails:grails-plugin-i18n 3.0.15
+    org.grails:grails-plugin-interceptors 3.0.15
+    org.grails:grails-plugin-mimetypes 3.0.15
+    org.grails:grails-plugin-rest 3.0.15
+    org.grails:grails-plugin-services 3.0.15
+    org.grails:grails-plugin-testing 3.0.15
+    org.grails:grails-plugin-url-mappings 3.0.15
+    org.grails:grails-plugin-validation 3.0.15
+    org.grails:grails-shell 3.0.15
+    org.grails:grails-spring 3.0.15
+    org.grails:grails-taglib 3.0.15
+    org.grails:grails-test 3.0.15
+    org.grails:grails-test-suite-base 3.0.15
+    org.grails:grails-test-suite-persistence 3.0.15
+    org.grails:grails-test-suite-uber 3.0.15
+    org.grails:grails-test-suite-web 3.0.15
+    org.grails:grails-validation 3.0.15
+    org.grails:grails-web 3.0.15
+    org.grails:grails-web-boot 3.0.15
+    org.grails:grails-web-common 3.0.15
+    org.grails:grails-web-databinding 3.0.15
+    org.grails:grails-web-fileupload 3.0.15
+    org.grails:grails-web-gsp 3.0.15
+    org.grails:grails-web-gsp-taglib 3.0.15
+    org.grails:grails-web-jsp 3.0.15
+    org.grails:grails-web-mvc 3.0.15
+    org.grails:grails-web-sitemesh 3.0.15
+    org.grails:grails-web-taglib 3.0.15
+    org.grails:grails-web-url-mappings 3.0.15
     org.grails.plugins:asset-pipeline 3.0.15
     org.grails.plugins:cache 3.0.2
     org.grails.plugins:cassandra 4.0.7
@@ -150,4 +257,4 @@ No configuration-specific dependency management
 
 BUILD SUCCESSFUL
 
-Total time: 4.768 secs
+Total time: 29.321 secs
