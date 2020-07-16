@@ -3565,7 +3565,7 @@ tbody.collapse.in {
 .dropdown-menu > li > a:focus {
   color: #262626;
   text-decoration: none;
-  background-color: #f5f5f5;
+  background-color: #7c7c7c;
 }
 .dropdown-menu > .active > a,
 .dropdown-menu > .active > a:hover,
@@ -4276,10 +4276,16 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-brand {
   float: left;
-  height: 50px;
-  padding: 15px 15px;
+  width: 80px;
+  height: 80px;
   font-size: 18px;
   line-height: 20px;
+}
+
+.navbar-brand img {
+  width: 80px;
+  height: 80px;
+
 }
 .navbar-brand:hover,
 .navbar-brand:focus {
@@ -4363,8 +4369,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     float: left;
   }
   .navbar-nav > li > a {
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding-top: 25px;
+    padding-bottom: 25px;
   }
 }
 .navbar-form {

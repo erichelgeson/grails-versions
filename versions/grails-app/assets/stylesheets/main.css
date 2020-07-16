@@ -33,16 +33,16 @@ html * {
 }
 
 body {
-    background: #ffffff;
+    background-color: #F5F5F5;
     color: #333333;
     overflow-x: hidden; /* prevents box-shadow causing a horizontal scrollbar in firefox when viewport < 960px wide */
-    -moz-box-shadow: 0 0 0.3em #4D8618;
-    -webkit-box-shadow: 0 0 0.3em #4D8618;
-    box-shadow: 0 0 0.3em #4D8618;
+    -moz-box-shadow: 0 0 0.3em #424649;
+    -webkit-box-shadow: 0 0 0.3em #424649;
+    box-shadow: 0 0 0.3em #424649;
 }
 
 #grailsLogo {
-    background-color: #abbf78;
+    background-color: #feb672;
 }
 
 a:hover, a:active {
@@ -84,8 +84,8 @@ img {
 }
 
 .footer {
-    background: #48802c;
-    color: #000;
+    background: #424649;
+    color: #ffffff;
     clear: both;
     font-size: 0.8em;
     margin-top: 1.5em;
@@ -94,7 +94,7 @@ img {
 }
 
 .footer a {
-    color: #4D8618;
+    color: #feb672;
 }
 
 .spinner {
@@ -174,7 +174,7 @@ img {
 }
 
 .nav li.dropdown.open ul.dropdown-menu {
-    background-color: #4D8618;
+    background-color: #424649;
 }
 
 /* CREATE/EDIT FORMS AND SHOW PAGES */
@@ -446,7 +446,7 @@ th.desc a {
 }
 
 th:hover, tr:hover {
-    background: #79b94c;
+    background: #feb672;
 }
 
 /* PAGINATION */
@@ -561,7 +561,7 @@ a.skip {
 }
 
 .grails-logo-container {
-    background:#79b94c no-repeat 50% 30%;
+    background: #7c7c7c no-repeat 50% 30%;
     margin-bottom: 20px;
     color: white;
     height:300px;
