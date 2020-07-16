@@ -23,9 +23,9 @@ spring:
             check-template-location: false
     devtools:
         restart:
-            additional-exclude: 
-                - '*.gsp'     
-                - '**/*.gsp'       
+            additional-exclude:
+                - '*.gsp'
+                - '**/*.gsp'
                 - '*.gson'
                 - '**/*.gson'
                 - 'logback.groovy'
