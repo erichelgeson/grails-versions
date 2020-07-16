@@ -23,10 +23,11 @@ spring:
             check-template-location: false
     devtools:
         restart:
-            exclude:
-                - grails-app/views/**
-                - grails-app/i18n/**
-                - grails-app/conf/**
+            additional-exclude: 
+                - '*.gsp'            
+                - '*.gson'
+                - 'logback.groovy'
+                - '*.properties'
 management:
     endpoints:
         enabled-by-default: false

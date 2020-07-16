@@ -6,8 +6,8 @@ buildscript {
     dependencies {
         classpath "org.grails:grails-gradle-plugin:$grailsVersion"
         classpath "org.grails.plugins:hibernate5:${gormVersion-".RELEASE"}"
-        classpath "gradle.plugin.com.energizedwork.webdriver-binaries:webdriver-binaries-gradle-plugin:1.4"
-        classpath "com.bertramlabs.plugins:asset-pipeline-gradle:3.0.7"
+        classpath "gradle.plugin.com.github.erdi.webdriver-binaries:webdriver-binaries-gradle-plugin:2.0"
+        classpath "com.bertramlabs.plugins:asset-pipeline-gradle:3.0.10"
     }
 }
 
@@ -18,7 +18,7 @@ apply plugin:"eclipse"
 apply plugin:"idea"
 apply plugin:"war"
 apply plugin:"org.grails.grails-web"
-apply plugin:"com.energizedwork.webdriver-binaries"
+apply plugin:"com.github.erdi.webdriver-binaries"
 apply plugin:"org.grails.grails-gsp"
 apply plugin:"com.bertramlabs.asset-pipeline"
 
@@ -35,7 +35,7 @@ configurations {
 }
 
 dependencies {
-	developmentOnly("org.springframework.boot:spring-boot-devtools")
+    developmentOnly("org.springframework.boot:spring-boot-devtools")
     compile "org.springframework.boot:spring-boot-starter-logging"
     compile "org.springframework.boot:spring-boot-autoconfigure"
     compile "org.grails:grails-core"
@@ -62,7 +62,7 @@ dependencies {
     runtime "com.h2database:h2"
     runtime "org.apache.tomcat:tomcat-jdbc"
     runtime "javax.xml.bind:jaxb-api:2.3.0"
-    runtime "com.bertramlabs.plugins:asset-pipeline-grails:3.0.7"
+    runtime "com.bertramlabs.plugins:asset-pipeline-grails:3.0.10"
     testCompile "org.grails:grails-gorm-testing-support"
     testCompile "org.mockito:mockito-core"
     testCompile "org.grails:grails-web-testing-support"
@@ -86,8 +86,8 @@ bootRun {
 }
 
 webdriverBinaries {
-    chromedriver '2.45'
-    geckodriver '0.23.0'
+    chromedriver '2.45.0'
+    geckodriver '0.24.0'
 }
 
 tasks.withType(Test) {
