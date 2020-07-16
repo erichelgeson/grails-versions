@@ -59,7 +59,7 @@ a.navbar-brand {
     color: white !important;
 }
 .navbar-nav>li>a:hover {
-    background-color: #feb672 !important;
+    background-color: #2559a7 !important;
     color: white !important;
 }
 .navbar-nav>li>a {
@@ -69,7 +69,7 @@ a.navbar-brand {
     background-color: white;
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-    background-color: #feb672;
+    background-color: #2559a7;
 }
 
 @media (min-width: 768px) {
@@ -113,7 +113,7 @@ a.navbar-brand {
 
 #band {
     /*grey =#808080*/
-    background: #feb672  no-repeat 50% 30%;
+    background: #2559a7  no-repeat 50% 30%;
     height: 400px;
 }
 
@@ -381,12 +381,12 @@ body, html {
 }
 
 a {
-    color: #feb672;
+    color: #2559a7;
     text-decoration: underline;
 }
 
 a:hover {
-    color: #feb672;
+    color: #2559a7;
     text-decoration: none
 }
 
@@ -413,13 +413,13 @@ h4 {
 h5 {
     font-size: 1.125em;
     font-weight: bold;
-    color: #feb672;
+    color: #2559a7;
 }
 
 h6 {
     font-size: 1.08em;
     font-weight: normal;
-    color: #feb672;
+    color: #2559a7;
 }
 
 h7 {
@@ -899,7 +899,7 @@ html, body, .st-container, .st-pusher, .st-content {
     visibility: hidden;
     width: 300px;
     height: 100%;
-    background: #feb672;
+    background: #2559a7;
     -webkit-transition: all .5s;
     transition: all .5s;
     right: -600px

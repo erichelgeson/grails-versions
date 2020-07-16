@@ -1,15 +1,15 @@
 import org.openqa.selenium.chrome.ChromeDriver
 import org.openqa.selenium.chrome.ChromeOptions
-import org.openqa.selenium.firefox.FirefoxDriver
+import org.openqa.selenium.htmlunit.HtmlUnitDriver
 
 environments {
 
-    // run via “./gradlew -Dgeb.env=chrome iT”
+    // run via “./gradlew -Dgeb.env=chrome -Dwebdriver.chrome.driver=/Applications/chromedriver iT”
     chrome {
         driver = { new ChromeDriver() }
     }
 
-    // run via “./gradlew -Dgeb.env=chromeHeadless iT”
+    // run via “./gradlew -Dgeb.env=chromeHeadless -Dwebdriver.chrome.driver=/Applications/chromedriver iT”
     chromeHeadless {
         driver = {
             ChromeOptions o = new ChromeOptions()
@@ -18,8 +18,8 @@ environments {
         }
     }
 
-    // run via “./gradlew -Dgeb.env=firefox iT”
-    firefox {
-        driver = { new FirefoxDriver() }
+    // run via “./gradlew -Dgeb.env=htmlUnit iT”
+    htmlUnit {
+        driver = { new HtmlUnitDriver() }
     }
 }
