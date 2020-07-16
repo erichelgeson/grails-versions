@@ -5,8 +5,8 @@ buildscript {
     dependencies {
         classpath "org.grails:grails-gradle-plugin:$grailsVersion"
         classpath "gradle.plugin.com.github.erdi.webdriver-binaries:webdriver-binaries-gradle-plugin:2.0"
-        classpath "org.grails.plugins:hibernate5:7.0.0"
-        classpath "com.bertramlabs.plugins:asset-pipeline-gradle:3.0.10"
+        classpath "org.grails.plugins:hibernate5:7.0.4"
+        classpath "com.bertramlabs.plugins:asset-pipeline-gradle:3.2.4"
     }
 }
 
@@ -52,7 +52,7 @@ dependencies {
     compile "org.grails.plugins:scaffolding"
     compile "org.grails.plugins:events"
     compile "org.grails.plugins:hibernate5"
-    compile "org.hibernate:hibernate-core:5.4.0.Final"
+    compile "org.hibernate:hibernate-core:5.4.18.Final"
     compile "org.grails.plugins:gsp"
     compileOnly "io.micronaut:micronaut-inject-groovy"
     console "org.grails:grails-console"
@@ -60,8 +60,9 @@ dependencies {
     runtime "org.glassfish.web:el-impl:2.1.2-b03"
     runtime "com.h2database:h2"
     runtime "org.apache.tomcat:tomcat-jdbc"
-    runtime "javax.xml.bind:jaxb-api:2.3.0"
-    runtime "com.bertramlabs.plugins:asset-pipeline-grails:3.0.10"
+    runtime "javax.xml.bind:jaxb-api:2.3.1"
+    runtime "com.bertramlabs.plugins:asset-pipeline-grails:3.2.4"
+    testCompile "io.micronaut:micronaut-inject-groovy"
     testCompile "org.grails:grails-gorm-testing-support"
     testCompile "org.mockito:mockito-core"
     testCompile "org.grails:grails-web-testing-support"
