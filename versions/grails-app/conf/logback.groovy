@@ -8,10 +8,8 @@ appender('STDOUT', ConsoleAppender) {
     }
 }
 
-root(ERROR, ['STDOUT'])
-
 def targetDir = BuildSettings.TARGET_DIR
-if (Environment.isDevelopmentMode() && targetDir) {
+if (Environment.isDevelopmentMode() && targetDir != null) {
     appender("FULL_STACKTRACE", FileAppender) {
         file = "${targetDir}/stacktrace.log"
         append = true
@@ -20,4 +18,8 @@ if (Environment.isDevelopmentMode() && targetDir) {
         }
     }
     logger("StackTrace", ERROR, ['FULL_STACKTRACE'], false)
+    root(ERROR, ['STDOUT', 'FULL_STACKTRACE'])
+}
+else {
+    root(ERROR, ['STDOUT'])
 }
