@@ -1,97 +1,55 @@
-Download https://repo.grails.org/grails/core/org/grails/grails-gradle-plugin/3.2.5/grails-gradle-plugin-3.2.5.jar
-Download https://repo.grails.org/grails/core/org/grails/plugins/hibernate5/6.0.6/hibernate5-6.0.6.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-gradle-model/3.2.5/grails-gradle-model-3.2.5.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-shell/3.2.5/grails-shell-3.2.5.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-bootstrap/3.2.5/grails-bootstrap-3.2.5.jar
-Download https://repo.grails.org/grails/core/org/springframework/boot/spring-boot-gradle-plugin/1.4.4.RELEASE/spring-boot-gradle-plugin-1.4.4.RELEASE.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-datastore-web/6.0.6.RELEASE/grails-datastore-web-6.0.6.RELEASE.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-datastore-simple/6.0.6.RELEASE/grails-datastore-simple-6.0.6.RELEASE.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-datastore-gorm-support/6.0.6.RELEASE/grails-datastore-gorm-support-6.0.6.RELEASE.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-datastore-gorm-hibernate5/6.0.6.RELEASE/grails-datastore-gorm-hibernate5-6.0.6.RELEASE.jar
-Download https://repo.grails.org/grails/core/org/springframework/boot/spring-boot-cli/1.4.4.RELEASE/spring-boot-cli-1.4.4.RELEASE.jar
-Download https://repo.grails.org/grails/core/org/springframework/boot/spring-boot-loader-tools/1.4.4.RELEASE/spring-boot-loader-tools-1.4.4.RELEASE.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-datastore-core/6.0.6.RELEASE/grails-datastore-core-6.0.6.RELEASE.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-datastore-gorm/6.0.6.RELEASE/grails-datastore-gorm-6.0.6.RELEASE.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-datastore-gorm-hibernate-core/6.0.6.RELEASE/grails-datastore-gorm-hibernate-core-6.0.6.RELEASE.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-datastore-async/6.0.6.RELEASE/grails-datastore-async-6.0.6.RELEASE.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-datastore-gorm-validation/6.0.6.RELEASE/grails-datastore-gorm-validation-6.0.6.RELEASE.jar
-Download https://repo.grails.org/grails/core/org/springframework/spring-core/4.3.6.RELEASE/spring-core-4.3.6.RELEASE.jar
-Download https://repo.grails.org/grails/core/org/springframework/boot/spring-boot-starter-parent/1.4.4.RELEASE/spring-boot-starter-parent-1.4.4.RELEASE.pom
-Download https://repo.grails.org/grails/core/org/springframework/boot/spring-boot-dependencies/1.4.4.RELEASE/spring-boot-dependencies-1.4.4.RELEASE.pom
-Download https://repo.grails.org/grails/core/org/springframework/spring-framework-bom/4.3.6.RELEASE/spring-framework-bom-4.3.6.RELEASE.pom
-Download https://repo.grails.org/grails/core/org/springframework/data/spring-data-releasetrain/Hopper-SR7/spring-data-releasetrain-Hopper-SR7.pom
-Download https://repo.grails.org/grails/core/org/springframework/data/build/spring-data-build/1.8.7.RELEASE/spring-data-build-1.8.7.RELEASE.pom
-Download https://repo.grails.org/grails/core/org/springframework/integration/spring-integration-bom/4.3.7.RELEASE/spring-integration-bom-4.3.7.RELEASE.pom
-Download https://repo.grails.org/grails/core/org/springframework/security/spring-security-bom/4.1.4.RELEASE/spring-security-bom-4.1.4.RELEASE.pom
-Download https://repo.grails.org/grails/core/org/springframework/boot/spring-boot-starter-logging/1.4.4.RELEASE/spring-boot-starter-logging-1.4.4.RELEASE.jar
-Download https://repo.grails.org/grails/core/org/springframework/boot/spring-boot-autoconfigure/1.4.4.RELEASE/spring-boot-autoconfigure-1.4.4.RELEASE.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-core/3.2.5/grails-core-3.2.5.jar
-Download https://repo.grails.org/grails/core/org/springframework/boot/spring-boot-starter-actuator/1.4.4.RELEASE/spring-boot-starter-actuator-1.4.4.RELEASE.jar
-Download https://repo.grails.org/grails/core/org/springframework/boot/spring-boot-starter-tomcat/1.4.4.RELEASE/spring-boot-starter-tomcat-1.4.4.RELEASE.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-web-boot/3.2.5/grails-web-boot-3.2.5.jar
-Download https://repo.grails.org/grails/core/ch/qos/logback/logback-classic/1.1.9/logback-classic-1.1.9.jar
-Download https://repo.grails.org/grails/core/org/slf4j/jul-to-slf4j/1.7.22/jul-to-slf4j-1.7.22.jar
-Download https://repo.grails.org/grails/core/org/slf4j/log4j-over-slf4j/1.7.22/log4j-over-slf4j-1.7.22.jar
-Download https://repo.grails.org/grails/core/org/springframework/boot/spring-boot/1.4.4.RELEASE/spring-boot-1.4.4.RELEASE.jar
-Download https://repo.grails.org/grails/core/org/springframework/spring-tx/4.3.6.RELEASE/spring-tx-4.3.6.RELEASE.jar
-Download https://repo.grails.org/grails/core/org/springframework/spring-beans/4.3.6.RELEASE/spring-beans-4.3.6.RELEASE.jar
-Download https://repo.grails.org/grails/core/org/springframework/spring-context/4.3.6.RELEASE/spring-context-4.3.6.RELEASE.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-spring/3.2.5/grails-spring-3.2.5.jar
-Download https://repo.grails.org/grails/core/org/springframework/boot/spring-boot-starter/1.4.4.RELEASE/spring-boot-starter-1.4.4.RELEASE.jar
-Download https://repo.grails.org/grails/core/org/springframework/boot/spring-boot-actuator/1.4.4.RELEASE/spring-boot-actuator-1.4.4.RELEASE.jar
-Download https://repo.grails.org/grails/core/org/apache/tomcat/embed/tomcat-embed-core/8.5.11/tomcat-embed-core-8.5.11.jar
-Download https://repo.grails.org/grails/core/org/apache/tomcat/embed/tomcat-embed-el/8.5.11/tomcat-embed-el-8.5.11.jar
-Download https://repo.grails.org/grails/core/org/apache/tomcat/embed/tomcat-embed-websocket/8.5.11/tomcat-embed-websocket-8.5.11.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-rest/3.2.5/grails-plugin-rest-3.2.5.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-databinding/3.2.5/grails-plugin-databinding-3.2.5.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-i18n/3.2.5/grails-plugin-i18n-3.2.5.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-gsp/3.2.5/grails-plugin-gsp-3.2.5.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-services/3.2.5/grails-plugin-services-3.2.5.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-url-mappings/3.2.5/grails-plugin-url-mappings-3.2.5.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-interceptors/3.2.5/grails-plugin-interceptors-3.2.5.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-async/3.2.5/grails-plugin-async-3.2.5.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-web-common/3.2.5/grails-web-common-3.2.5.jar
-Download https://repo.grails.org/grails/core/org/springframework/spring-orm/4.3.6.RELEASE/spring-orm-4.3.6.RELEASE.jar
-Download https://repo.grails.org/grails/core/ch/qos/logback/logback-core/1.1.9/logback-core-1.1.9.jar
-Download https://repo.grails.org/grails/core/org/springframework/spring-aop/4.3.6.RELEASE/spring-aop-4.3.6.RELEASE.jar
-Download https://repo.grails.org/grails/core/org/springframework/spring-expression/4.3.6.RELEASE/spring-expression-4.3.6.RELEASE.jar
-Download https://repo.grails.org/grails/core/com/fasterxml/jackson/core/jackson-databind/2.8.6/jackson-databind-2.8.6.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-web/3.2.5/grails-web-3.2.5.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-controllers/3.2.5/grails-plugin-controllers-3.2.5.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-datasource/3.2.5/grails-plugin-datasource-3.2.5.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-codecs/3.2.5/grails-plugin-codecs-3.2.5.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-logging/3.2.5/grails-logging-3.2.5.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-web-gsp-taglib/3.2.5/grails-web-gsp-taglib-3.2.5.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-events/3.2.5/grails-plugin-events-3.2.5.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-validation/3.2.5/grails-validation-3.2.5.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-databinding/3.2.5/grails-databinding-3.2.5.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-encoder/3.2.5/grails-encoder-3.2.5.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-gsp/3.2.5/grails-gsp-3.2.5.jar
-Download https://repo.grails.org/grails/core/org/springframework/spring-webmvc/4.3.6.RELEASE/spring-webmvc-4.3.6.RELEASE.jar
-Download https://repo.grails.org/grails/core/org/springframework/spring-context-support/4.3.6.RELEASE/spring-context-support-4.3.6.RELEASE.jar
-Download https://repo.grails.org/grails/core/org/springframework/spring-web/4.3.6.RELEASE/spring-web-4.3.6.RELEASE.jar
-Download https://repo.grails.org/grails/core/org/springframework/spring-jdbc/4.3.6.RELEASE/spring-jdbc-4.3.6.RELEASE.jar
-Download https://repo.grails.org/grails/core/com/fasterxml/jackson/core/jackson-annotations/2.8.6/jackson-annotations-2.8.6.jar
-Download https://repo.grails.org/grails/core/com/fasterxml/jackson/core/jackson-core/2.8.6/jackson-core-2.8.6.jar
-Download https://repo.grails.org/grails/core/org/springframework/spring-aspects/4.3.6.RELEASE/spring-aspects-4.3.6.RELEASE.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-web-gsp/3.2.5/grails-web-gsp-3.2.5.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-web-databinding/3.2.5/grails-web-databinding-3.2.5.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-web-url-mappings/3.2.5/grails-web-url-mappings-3.2.5.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-web-jsp/3.2.5/grails-web-jsp-3.2.5.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-web-mvc/3.2.5/grails-web-mvc-3.2.5.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-web-sitemesh/3.2.5/grails-web-sitemesh-3.2.5.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-async/3.2.5/grails-async-3.2.5.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-converters/3.2.5/grails-plugin-converters-3.2.5.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-mimetypes/3.2.5/grails-plugin-mimetypes-3.2.5.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-validation/3.2.5/grails-plugin-validation-3.2.5.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-plugin-domain-class/3.2.5/grails-plugin-domain-class-3.2.5.jar
-Download https://repo.grails.org/grails/core/org/apache/tomcat/tomcat-jdbc/8.5.11/tomcat-jdbc-8.5.11.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-codecs/3.2.5/grails-codecs-3.2.5.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-taglib/3.2.5/grails-taglib-3.2.5.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-web-taglib/3.2.5/grails-web-taglib-3.2.5.jar
-Download https://repo.grails.org/grails/core/org/apache/tomcat/tomcat-juli/8.5.11/tomcat-juli-8.5.11.jar
-Download https://repo.grails.org/grails/core/org/grails/grails-console/3.2.5/grails-console-3.2.5.jar
-Download https://repo.grails.org/grails/core/org/springframework/spring-test/4.3.6.RELEASE/spring-test-4.3.6.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-gradle-plugin/3.2.6/grails-gradle-plugin-3.2.6.jar
+Download https://repo.grails.org/grails/core/org/grails/plugins/hibernate5/6.0.7/hibernate5-6.0.7.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-gradle-model/3.2.6/grails-gradle-model-3.2.6.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-shell/3.2.6/grails-shell-3.2.6.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-bootstrap/3.2.6/grails-bootstrap-3.2.6.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-datastore-web/6.0.7.RELEASE/grails-datastore-web-6.0.7.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-datastore-simple/6.0.7.RELEASE/grails-datastore-simple-6.0.7.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-datastore-gorm-support/6.0.7.RELEASE/grails-datastore-gorm-support-6.0.7.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-datastore-gorm-hibernate5/6.0.7.RELEASE/grails-datastore-gorm-hibernate5-6.0.7.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-datastore-core/6.0.7.RELEASE/grails-datastore-core-6.0.7.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-datastore-gorm/6.0.7.RELEASE/grails-datastore-gorm-6.0.7.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-datastore-gorm-hibernate-core/6.0.7.RELEASE/grails-datastore-gorm-hibernate-core-6.0.7.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-datastore-async/6.0.7.RELEASE/grails-datastore-async-6.0.7.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-datastore-gorm-validation/6.0.7.RELEASE/grails-datastore-gorm-validation-6.0.7.RELEASE.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-core/3.2.6/grails-core-3.2.6.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-web-boot/3.2.6/grails-web-boot-3.2.6.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-spring/3.2.6/grails-spring-3.2.6.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-rest/3.2.6/grails-plugin-rest-3.2.6.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-databinding/3.2.6/grails-plugin-databinding-3.2.6.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-i18n/3.2.6/grails-plugin-i18n-3.2.6.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-gsp/3.2.6/grails-plugin-gsp-3.2.6.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-services/3.2.6/grails-plugin-services-3.2.6.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-url-mappings/3.2.6/grails-plugin-url-mappings-3.2.6.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-interceptors/3.2.6/grails-plugin-interceptors-3.2.6.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-async/3.2.6/grails-plugin-async-3.2.6.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-web-common/3.2.6/grails-web-common-3.2.6.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-web/3.2.6/grails-web-3.2.6.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-controllers/3.2.6/grails-plugin-controllers-3.2.6.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-datasource/3.2.6/grails-plugin-datasource-3.2.6.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-codecs/3.2.6/grails-plugin-codecs-3.2.6.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-logging/3.2.6/grails-logging-3.2.6.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-web-gsp-taglib/3.2.6/grails-web-gsp-taglib-3.2.6.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-events/3.2.6/grails-plugin-events-3.2.6.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-validation/3.2.6/grails-validation-3.2.6.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-databinding/3.2.6/grails-databinding-3.2.6.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-encoder/3.2.6/grails-encoder-3.2.6.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-gsp/3.2.6/grails-gsp-3.2.6.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-web-gsp/3.2.6/grails-web-gsp-3.2.6.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-web-databinding/3.2.6/grails-web-databinding-3.2.6.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-web-url-mappings/3.2.6/grails-web-url-mappings-3.2.6.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-web-jsp/3.2.6/grails-web-jsp-3.2.6.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-web-mvc/3.2.6/grails-web-mvc-3.2.6.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-web-sitemesh/3.2.6/grails-web-sitemesh-3.2.6.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-async/3.2.6/grails-async-3.2.6.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-converters/3.2.6/grails-plugin-converters-3.2.6.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-mimetypes/3.2.6/grails-plugin-mimetypes-3.2.6.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-validation/3.2.6/grails-plugin-validation-3.2.6.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-plugin-domain-class/3.2.6/grails-plugin-domain-class-3.2.6.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-codecs/3.2.6/grails-codecs-3.2.6.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-taglib/3.2.6/grails-taglib-3.2.6.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-web-taglib/3.2.6/grails-web-taglib-3.2.6.jar
+Download https://repo.grails.org/grails/core/org/grails/grails-console/3.2.6/grails-console-3.2.6.jar
 :dependencyManagement
 
 ------------------------------------------------------------
@@ -325,83 +283,83 @@ global - Default dependency management for all configurations
     org.glassfish.jersey.ext:jersey-bean-validation 2.23.2
     org.glassfish.jersey.ext:jersey-spring3 2.23.2
     org.glassfish.jersey.media:jersey-media-json-jackson 2.23.2
-    org.grails:grails-async 3.2.5
-    org.grails:grails-bootstrap 3.2.5
-    org.grails:grails-codecs 3.2.5
-    org.grails:grails-console 3.2.5
-    org.grails:grails-core 3.2.5
-    org.grails:grails-databinding 3.2.5
-    org.grails:grails-datastore-core 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-cassandra 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-hibernate 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-hibernate4 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-hibernate5 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-mongodb 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-neo4j 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-support 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-test 6.0.6.RELEASE
-    org.grails:grails-datastore-rest-client 6.0.6.RELEASE
-    org.grails:grails-datastore-simple 6.0.6.RELEASE
-    org.grails:grails-datastore-test-support 6.0.6.RELEASE
-    org.grails:grails-datastore-web 6.0.6.RELEASE
-    org.grails:grails-dependencies 3.2.5
-    org.grails:grails-docs 3.2.5
-    org.grails:grails-encoder 3.2.5
-    org.grails:grails-gradle-model 3.2.5
-    org.grails:grails-gradle-plugin 3.2.5
-    org.grails:grails-gsp 3.2.5
-    org.grails:grails-logging 3.2.5
-    org.grails:grails-plugin-async 3.2.5
-    org.grails:grails-plugin-codecs 3.2.5
-    org.grails:grails-plugin-controllers 3.2.5
-    org.grails:grails-plugin-converters 3.2.5
-    org.grails:grails-plugin-databinding 3.2.5
-    org.grails:grails-plugin-datasource 3.2.5
-    org.grails:grails-plugin-domain-class 3.2.5
-    org.grails:grails-plugin-events 3.2.5
-    org.grails:grails-plugin-gsp 3.2.5
-    org.grails:grails-plugin-i18n 3.2.5
-    org.grails:grails-plugin-interceptors 3.2.5
-    org.grails:grails-plugin-mimetypes 3.2.5
-    org.grails:grails-plugin-rest 3.2.5
-    org.grails:grails-plugin-services 3.2.5
-    org.grails:grails-plugin-testing 3.2.5
-    org.grails:grails-plugin-url-mappings 3.2.5
-    org.grails:grails-plugin-validation 3.2.5
-    org.grails:grails-shell 3.2.5
-    org.grails:grails-spring 3.2.5
-    org.grails:grails-taglib 3.2.5
-    org.grails:grails-test 3.2.5
-    org.grails:grails-test-suite-base 3.2.5
-    org.grails:grails-test-suite-persistence 3.2.5
-    org.grails:grails-test-suite-uber 3.2.5
-    org.grails:grails-test-suite-web 3.2.5
-    org.grails:grails-validation 3.2.5
-    org.grails:grails-web 3.2.5
-    org.grails:grails-web-boot 3.2.5
-    org.grails:grails-web-common 3.2.5
-    org.grails:grails-web-databinding 3.2.5
-    org.grails:grails-web-fileupload 3.2.5
-    org.grails:grails-web-gsp 3.2.5
-    org.grails:grails-web-gsp-taglib 3.2.5
-    org.grails:grails-web-jsp 3.2.5
-    org.grails:grails-web-mvc 3.2.5
-    org.grails:grails-web-sitemesh 3.2.5
-    org.grails:grails-web-taglib 3.2.5
-    org.grails:grails-web-url-mappings 3.2.5
+    org.grails:grails-async 3.2.6
+    org.grails:grails-bootstrap 3.2.6
+    org.grails:grails-codecs 3.2.6
+    org.grails:grails-console 3.2.6
+    org.grails:grails-core 3.2.6
+    org.grails:grails-databinding 3.2.6
+    org.grails:grails-datastore-core 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-cassandra 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-hibernate 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-hibernate4 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-hibernate5 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-mongodb 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-neo4j 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-support 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-test 6.0.7.RELEASE
+    org.grails:grails-datastore-rest-client 6.0.7.RELEASE
+    org.grails:grails-datastore-simple 6.0.7.RELEASE
+    org.grails:grails-datastore-test-support 6.0.7.RELEASE
+    org.grails:grails-datastore-web 6.0.7.RELEASE
+    org.grails:grails-dependencies 3.2.6
+    org.grails:grails-docs 3.2.6
+    org.grails:grails-encoder 3.2.6
+    org.grails:grails-gradle-model 3.2.6
+    org.grails:grails-gradle-plugin 3.2.6
+    org.grails:grails-gsp 3.2.6
+    org.grails:grails-logging 3.2.6
+    org.grails:grails-plugin-async 3.2.6
+    org.grails:grails-plugin-codecs 3.2.6
+    org.grails:grails-plugin-controllers 3.2.6
+    org.grails:grails-plugin-converters 3.2.6
+    org.grails:grails-plugin-databinding 3.2.6
+    org.grails:grails-plugin-datasource 3.2.6
+    org.grails:grails-plugin-domain-class 3.2.6
+    org.grails:grails-plugin-events 3.2.6
+    org.grails:grails-plugin-gsp 3.2.6
+    org.grails:grails-plugin-i18n 3.2.6
+    org.grails:grails-plugin-interceptors 3.2.6
+    org.grails:grails-plugin-mimetypes 3.2.6
+    org.grails:grails-plugin-rest 3.2.6
+    org.grails:grails-plugin-services 3.2.6
+    org.grails:grails-plugin-testing 3.2.6
+    org.grails:grails-plugin-url-mappings 3.2.6
+    org.grails:grails-plugin-validation 3.2.6
+    org.grails:grails-shell 3.2.6
+    org.grails:grails-spring 3.2.6
+    org.grails:grails-taglib 3.2.6
+    org.grails:grails-test 3.2.6
+    org.grails:grails-test-suite-base 3.2.6
+    org.grails:grails-test-suite-persistence 3.2.6
+    org.grails:grails-test-suite-uber 3.2.6
+    org.grails:grails-test-suite-web 3.2.6
+    org.grails:grails-validation 3.2.6
+    org.grails:grails-web 3.2.6
+    org.grails:grails-web-boot 3.2.6
+    org.grails:grails-web-common 3.2.6
+    org.grails:grails-web-databinding 3.2.6
+    org.grails:grails-web-fileupload 3.2.6
+    org.grails:grails-web-gsp 3.2.6
+    org.grails:grails-web-gsp-taglib 3.2.6
+    org.grails:grails-web-jsp 3.2.6
+    org.grails:grails-web-mvc 3.2.6
+    org.grails:grails-web-sitemesh 3.2.6
+    org.grails:grails-web-taglib 3.2.6
+    org.grails:grails-web-url-mappings 3.2.6
     org.grails.plugins:asset-pipeline 3.2.1
     org.grails.plugins:asset-pipeline-grails 2.11.6
     org.grails.plugins:cache 3.0.3
     org.grails.plugins:fields 2.1.3
     org.grails.plugins:geb 1.0.2
     org.grails.plugins:grails-java8 1.1.0
-    org.grails.plugins:hibernate4 6.0.6
-    org.grails.plugins:hibernate5 6.0.6
-    org.grails.plugins:mongodb 6.0.6
-    org.grails.plugins:neo4j 6.0.6
+    org.grails.plugins:hibernate4 6.0.7
+    org.grails.plugins:hibernate5 6.0.7
+    org.grails.plugins:mongodb 6.0.7
+    org.grails.plugins:neo4j 6.0.7
     org.grails.plugins:rx-gorm-rest-client 1.0.4.RELEASE
-    org.grails.plugins:rx-mongodb 6.0.6
+    org.grails.plugins:rx-mongodb 6.0.7
     org.grails.plugins:rxjava 1.0.1
     org.grails.plugins:scaffolding 3.2.1
     org.grails.plugins:views-json 1.1.5
@@ -409,7 +367,7 @@ global - Default dependency management for all configurations
     org.grails.plugins:views-markup 1.1.5
     org.grails.profiles:angular 3.2.2
     org.grails.profiles:angular2 1.0.3
-    org.grails.profiles:base 3.2.4
+    org.grails.profiles:base 3.2.5
     org.grails.profiles:plugin 3.2.1
     org.grails.profiles:profile 3.2.1
     org.grails.profiles:react 2.0.1
@@ -916,83 +874,83 @@ compile - Dependency management for the compile configuration
     org.glassfish.jersey.ext:jersey-bean-validation 2.23.2
     org.glassfish.jersey.ext:jersey-spring3 2.23.2
     org.glassfish.jersey.media:jersey-media-json-jackson 2.23.2
-    org.grails:grails-async 3.2.5
-    org.grails:grails-bootstrap 3.2.5
-    org.grails:grails-codecs 3.2.5
-    org.grails:grails-console 3.2.5
-    org.grails:grails-core 3.2.5
-    org.grails:grails-databinding 3.2.5
-    org.grails:grails-datastore-core 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-cassandra 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-hibernate 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-hibernate4 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-hibernate5 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-mongodb 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-neo4j 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-support 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-test 6.0.6.RELEASE
-    org.grails:grails-datastore-rest-client 6.0.6.RELEASE
-    org.grails:grails-datastore-simple 6.0.6.RELEASE
-    org.grails:grails-datastore-test-support 6.0.6.RELEASE
-    org.grails:grails-datastore-web 6.0.6.RELEASE
-    org.grails:grails-dependencies 3.2.5
-    org.grails:grails-docs 3.2.5
-    org.grails:grails-encoder 3.2.5
-    org.grails:grails-gradle-model 3.2.5
-    org.grails:grails-gradle-plugin 3.2.5
-    org.grails:grails-gsp 3.2.5
-    org.grails:grails-logging 3.2.5
-    org.grails:grails-plugin-async 3.2.5
-    org.grails:grails-plugin-codecs 3.2.5
-    org.grails:grails-plugin-controllers 3.2.5
-    org.grails:grails-plugin-converters 3.2.5
-    org.grails:grails-plugin-databinding 3.2.5
-    org.grails:grails-plugin-datasource 3.2.5
-    org.grails:grails-plugin-domain-class 3.2.5
-    org.grails:grails-plugin-events 3.2.5
-    org.grails:grails-plugin-gsp 3.2.5
-    org.grails:grails-plugin-i18n 3.2.5
-    org.grails:grails-plugin-interceptors 3.2.5
-    org.grails:grails-plugin-mimetypes 3.2.5
-    org.grails:grails-plugin-rest 3.2.5
-    org.grails:grails-plugin-services 3.2.5
-    org.grails:grails-plugin-testing 3.2.5
-    org.grails:grails-plugin-url-mappings 3.2.5
-    org.grails:grails-plugin-validation 3.2.5
-    org.grails:grails-shell 3.2.5
-    org.grails:grails-spring 3.2.5
-    org.grails:grails-taglib 3.2.5
-    org.grails:grails-test 3.2.5
-    org.grails:grails-test-suite-base 3.2.5
-    org.grails:grails-test-suite-persistence 3.2.5
-    org.grails:grails-test-suite-uber 3.2.5
-    org.grails:grails-test-suite-web 3.2.5
-    org.grails:grails-validation 3.2.5
-    org.grails:grails-web 3.2.5
-    org.grails:grails-web-boot 3.2.5
-    org.grails:grails-web-common 3.2.5
-    org.grails:grails-web-databinding 3.2.5
-    org.grails:grails-web-fileupload 3.2.5
-    org.grails:grails-web-gsp 3.2.5
-    org.grails:grails-web-gsp-taglib 3.2.5
-    org.grails:grails-web-jsp 3.2.5
-    org.grails:grails-web-mvc 3.2.5
-    org.grails:grails-web-sitemesh 3.2.5
-    org.grails:grails-web-taglib 3.2.5
-    org.grails:grails-web-url-mappings 3.2.5
+    org.grails:grails-async 3.2.6
+    org.grails:grails-bootstrap 3.2.6
+    org.grails:grails-codecs 3.2.6
+    org.grails:grails-console 3.2.6
+    org.grails:grails-core 3.2.6
+    org.grails:grails-databinding 3.2.6
+    org.grails:grails-datastore-core 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-cassandra 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-hibernate 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-hibernate4 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-hibernate5 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-mongodb 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-neo4j 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-support 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-test 6.0.7.RELEASE
+    org.grails:grails-datastore-rest-client 6.0.7.RELEASE
+    org.grails:grails-datastore-simple 6.0.7.RELEASE
+    org.grails:grails-datastore-test-support 6.0.7.RELEASE
+    org.grails:grails-datastore-web 6.0.7.RELEASE
+    org.grails:grails-dependencies 3.2.6
+    org.grails:grails-docs 3.2.6
+    org.grails:grails-encoder 3.2.6
+    org.grails:grails-gradle-model 3.2.6
+    org.grails:grails-gradle-plugin 3.2.6
+    org.grails:grails-gsp 3.2.6
+    org.grails:grails-logging 3.2.6
+    org.grails:grails-plugin-async 3.2.6
+    org.grails:grails-plugin-codecs 3.2.6
+    org.grails:grails-plugin-controllers 3.2.6
+    org.grails:grails-plugin-converters 3.2.6
+    org.grails:grails-plugin-databinding 3.2.6
+    org.grails:grails-plugin-datasource 3.2.6
+    org.grails:grails-plugin-domain-class 3.2.6
+    org.grails:grails-plugin-events 3.2.6
+    org.grails:grails-plugin-gsp 3.2.6
+    org.grails:grails-plugin-i18n 3.2.6
+    org.grails:grails-plugin-interceptors 3.2.6
+    org.grails:grails-plugin-mimetypes 3.2.6
+    org.grails:grails-plugin-rest 3.2.6
+    org.grails:grails-plugin-services 3.2.6
+    org.grails:grails-plugin-testing 3.2.6
+    org.grails:grails-plugin-url-mappings 3.2.6
+    org.grails:grails-plugin-validation 3.2.6
+    org.grails:grails-shell 3.2.6
+    org.grails:grails-spring 3.2.6
+    org.grails:grails-taglib 3.2.6
+    org.grails:grails-test 3.2.6
+    org.grails:grails-test-suite-base 3.2.6
+    org.grails:grails-test-suite-persistence 3.2.6
+    org.grails:grails-test-suite-uber 3.2.6
+    org.grails:grails-test-suite-web 3.2.6
+    org.grails:grails-validation 3.2.6
+    org.grails:grails-web 3.2.6
+    org.grails:grails-web-boot 3.2.6
+    org.grails:grails-web-common 3.2.6
+    org.grails:grails-web-databinding 3.2.6
+    org.grails:grails-web-fileupload 3.2.6
+    org.grails:grails-web-gsp 3.2.6
+    org.grails:grails-web-gsp-taglib 3.2.6
+    org.grails:grails-web-jsp 3.2.6
+    org.grails:grails-web-mvc 3.2.6
+    org.grails:grails-web-sitemesh 3.2.6
+    org.grails:grails-web-taglib 3.2.6
+    org.grails:grails-web-url-mappings 3.2.6
     org.grails.plugins:asset-pipeline 3.2.1
     org.grails.plugins:asset-pipeline-grails 2.11.6
     org.grails.plugins:cache 3.0.3
     org.grails.plugins:fields 2.1.3
     org.grails.plugins:geb 1.0.2
     org.grails.plugins:grails-java8 1.1.0
-    org.grails.plugins:hibernate4 6.0.6
-    org.grails.plugins:hibernate5 6.0.6
-    org.grails.plugins:mongodb 6.0.6
-    org.grails.plugins:neo4j 6.0.6
+    org.grails.plugins:hibernate4 6.0.7
+    org.grails.plugins:hibernate5 6.0.7
+    org.grails.plugins:mongodb 6.0.7
+    org.grails.plugins:neo4j 6.0.7
     org.grails.plugins:rx-gorm-rest-client 1.0.4.RELEASE
-    org.grails.plugins:rx-mongodb 6.0.6
+    org.grails.plugins:rx-mongodb 6.0.7
     org.grails.plugins:rxjava 1.0.1
     org.grails.plugins:scaffolding 3.2.1
     org.grails.plugins:views-json 1.1.5
@@ -1000,7 +958,7 @@ compile - Dependency management for the compile configuration
     org.grails.plugins:views-markup 1.1.5
     org.grails.profiles:angular 3.2.2
     org.grails.profiles:angular2 1.0.3
-    org.grails.profiles:base 3.2.4
+    org.grails.profiles:base 3.2.5
     org.grails.profiles:plugin 3.2.1
     org.grails.profiles:profile 3.2.1
     org.grails.profiles:react 2.0.1
@@ -1498,83 +1456,83 @@ compileClasspath - Dependency management for the compileClasspath configuration
     org.glassfish.jersey.ext:jersey-bean-validation 2.23.2
     org.glassfish.jersey.ext:jersey-spring3 2.23.2
     org.glassfish.jersey.media:jersey-media-json-jackson 2.23.2
-    org.grails:grails-async 3.2.5
-    org.grails:grails-bootstrap 3.2.5
-    org.grails:grails-codecs 3.2.5
-    org.grails:grails-console 3.2.5
-    org.grails:grails-core 3.2.5
-    org.grails:grails-databinding 3.2.5
-    org.grails:grails-datastore-core 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-cassandra 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-hibernate 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-hibernate4 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-hibernate5 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-mongodb 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-neo4j 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-support 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-test 6.0.6.RELEASE
-    org.grails:grails-datastore-rest-client 6.0.6.RELEASE
-    org.grails:grails-datastore-simple 6.0.6.RELEASE
-    org.grails:grails-datastore-test-support 6.0.6.RELEASE
-    org.grails:grails-datastore-web 6.0.6.RELEASE
-    org.grails:grails-dependencies 3.2.5
-    org.grails:grails-docs 3.2.5
-    org.grails:grails-encoder 3.2.5
-    org.grails:grails-gradle-model 3.2.5
-    org.grails:grails-gradle-plugin 3.2.5
-    org.grails:grails-gsp 3.2.5
-    org.grails:grails-logging 3.2.5
-    org.grails:grails-plugin-async 3.2.5
-    org.grails:grails-plugin-codecs 3.2.5
-    org.grails:grails-plugin-controllers 3.2.5
-    org.grails:grails-plugin-converters 3.2.5
-    org.grails:grails-plugin-databinding 3.2.5
-    org.grails:grails-plugin-datasource 3.2.5
-    org.grails:grails-plugin-domain-class 3.2.5
-    org.grails:grails-plugin-events 3.2.5
-    org.grails:grails-plugin-gsp 3.2.5
-    org.grails:grails-plugin-i18n 3.2.5
-    org.grails:grails-plugin-interceptors 3.2.5
-    org.grails:grails-plugin-mimetypes 3.2.5
-    org.grails:grails-plugin-rest 3.2.5
-    org.grails:grails-plugin-services 3.2.5
-    org.grails:grails-plugin-testing 3.2.5
-    org.grails:grails-plugin-url-mappings 3.2.5
-    org.grails:grails-plugin-validation 3.2.5
-    org.grails:grails-shell 3.2.5
-    org.grails:grails-spring 3.2.5
-    org.grails:grails-taglib 3.2.5
-    org.grails:grails-test 3.2.5
-    org.grails:grails-test-suite-base 3.2.5
-    org.grails:grails-test-suite-persistence 3.2.5
-    org.grails:grails-test-suite-uber 3.2.5
-    org.grails:grails-test-suite-web 3.2.5
-    org.grails:grails-validation 3.2.5
-    org.grails:grails-web 3.2.5
-    org.grails:grails-web-boot 3.2.5
-    org.grails:grails-web-common 3.2.5
-    org.grails:grails-web-databinding 3.2.5
-    org.grails:grails-web-fileupload 3.2.5
-    org.grails:grails-web-gsp 3.2.5
-    org.grails:grails-web-gsp-taglib 3.2.5
-    org.grails:grails-web-jsp 3.2.5
-    org.grails:grails-web-mvc 3.2.5
-    org.grails:grails-web-sitemesh 3.2.5
-    org.grails:grails-web-taglib 3.2.5
-    org.grails:grails-web-url-mappings 3.2.5
+    org.grails:grails-async 3.2.6
+    org.grails:grails-bootstrap 3.2.6
+    org.grails:grails-codecs 3.2.6
+    org.grails:grails-console 3.2.6
+    org.grails:grails-core 3.2.6
+    org.grails:grails-databinding 3.2.6
+    org.grails:grails-datastore-core 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-cassandra 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-hibernate 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-hibernate4 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-hibernate5 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-mongodb 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-neo4j 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-support 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-test 6.0.7.RELEASE
+    org.grails:grails-datastore-rest-client 6.0.7.RELEASE
+    org.grails:grails-datastore-simple 6.0.7.RELEASE
+    org.grails:grails-datastore-test-support 6.0.7.RELEASE
+    org.grails:grails-datastore-web 6.0.7.RELEASE
+    org.grails:grails-dependencies 3.2.6
+    org.grails:grails-docs 3.2.6
+    org.grails:grails-encoder 3.2.6
+    org.grails:grails-gradle-model 3.2.6
+    org.grails:grails-gradle-plugin 3.2.6
+    org.grails:grails-gsp 3.2.6
+    org.grails:grails-logging 3.2.6
+    org.grails:grails-plugin-async 3.2.6
+    org.grails:grails-plugin-codecs 3.2.6
+    org.grails:grails-plugin-controllers 3.2.6
+    org.grails:grails-plugin-converters 3.2.6
+    org.grails:grails-plugin-databinding 3.2.6
+    org.grails:grails-plugin-datasource 3.2.6
+    org.grails:grails-plugin-domain-class 3.2.6
+    org.grails:grails-plugin-events 3.2.6
+    org.grails:grails-plugin-gsp 3.2.6
+    org.grails:grails-plugin-i18n 3.2.6
+    org.grails:grails-plugin-interceptors 3.2.6
+    org.grails:grails-plugin-mimetypes 3.2.6
+    org.grails:grails-plugin-rest 3.2.6
+    org.grails:grails-plugin-services 3.2.6
+    org.grails:grails-plugin-testing 3.2.6
+    org.grails:grails-plugin-url-mappings 3.2.6
+    org.grails:grails-plugin-validation 3.2.6
+    org.grails:grails-shell 3.2.6
+    org.grails:grails-spring 3.2.6
+    org.grails:grails-taglib 3.2.6
+    org.grails:grails-test 3.2.6
+    org.grails:grails-test-suite-base 3.2.6
+    org.grails:grails-test-suite-persistence 3.2.6
+    org.grails:grails-test-suite-uber 3.2.6
+    org.grails:grails-test-suite-web 3.2.6
+    org.grails:grails-validation 3.2.6
+    org.grails:grails-web 3.2.6
+    org.grails:grails-web-boot 3.2.6
+    org.grails:grails-web-common 3.2.6
+    org.grails:grails-web-databinding 3.2.6
+    org.grails:grails-web-fileupload 3.2.6
+    org.grails:grails-web-gsp 3.2.6
+    org.grails:grails-web-gsp-taglib 3.2.6
+    org.grails:grails-web-jsp 3.2.6
+    org.grails:grails-web-mvc 3.2.6
+    org.grails:grails-web-sitemesh 3.2.6
+    org.grails:grails-web-taglib 3.2.6
+    org.grails:grails-web-url-mappings 3.2.6
     org.grails.plugins:asset-pipeline 3.2.1
     org.grails.plugins:asset-pipeline-grails 2.11.6
     org.grails.plugins:cache 3.0.3
     org.grails.plugins:fields 2.1.3
     org.grails.plugins:geb 1.0.2
     org.grails.plugins:grails-java8 1.1.0
-    org.grails.plugins:hibernate4 6.0.6
-    org.grails.plugins:hibernate5 6.0.6
-    org.grails.plugins:mongodb 6.0.6
-    org.grails.plugins:neo4j 6.0.6
+    org.grails.plugins:hibernate4 6.0.7
+    org.grails.plugins:hibernate5 6.0.7
+    org.grails.plugins:mongodb 6.0.7
+    org.grails.plugins:neo4j 6.0.7
     org.grails.plugins:rx-gorm-rest-client 1.0.4.RELEASE
-    org.grails.plugins:rx-mongodb 6.0.6
+    org.grails.plugins:rx-mongodb 6.0.7
     org.grails.plugins:rxjava 1.0.1
     org.grails.plugins:scaffolding 3.2.1
     org.grails.plugins:views-json 1.1.5
@@ -1582,7 +1540,7 @@ compileClasspath - Dependency management for the compileClasspath configuration
     org.grails.plugins:views-markup 1.1.5
     org.grails.profiles:angular 3.2.2
     org.grails.profiles:angular2 1.0.3
-    org.grails.profiles:base 3.2.4
+    org.grails.profiles:base 3.2.5
     org.grails.profiles:plugin 3.2.1
     org.grails.profiles:profile 3.2.1
     org.grails.profiles:react 2.0.1
@@ -2080,83 +2038,83 @@ compileOnly - Dependency management for the compileOnly configuration
     org.glassfish.jersey.ext:jersey-bean-validation 2.23.2
     org.glassfish.jersey.ext:jersey-spring3 2.23.2
     org.glassfish.jersey.media:jersey-media-json-jackson 2.23.2
-    org.grails:grails-async 3.2.5
-    org.grails:grails-bootstrap 3.2.5
-    org.grails:grails-codecs 3.2.5
-    org.grails:grails-console 3.2.5
-    org.grails:grails-core 3.2.5
-    org.grails:grails-databinding 3.2.5
-    org.grails:grails-datastore-core 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-cassandra 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-hibernate 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-hibernate4 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-hibernate5 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-mongodb 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-neo4j 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-support 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-test 6.0.6.RELEASE
-    org.grails:grails-datastore-rest-client 6.0.6.RELEASE
-    org.grails:grails-datastore-simple 6.0.6.RELEASE
-    org.grails:grails-datastore-test-support 6.0.6.RELEASE
-    org.grails:grails-datastore-web 6.0.6.RELEASE
-    org.grails:grails-dependencies 3.2.5
-    org.grails:grails-docs 3.2.5
-    org.grails:grails-encoder 3.2.5
-    org.grails:grails-gradle-model 3.2.5
-    org.grails:grails-gradle-plugin 3.2.5
-    org.grails:grails-gsp 3.2.5
-    org.grails:grails-logging 3.2.5
-    org.grails:grails-plugin-async 3.2.5
-    org.grails:grails-plugin-codecs 3.2.5
-    org.grails:grails-plugin-controllers 3.2.5
-    org.grails:grails-plugin-converters 3.2.5
-    org.grails:grails-plugin-databinding 3.2.5
-    org.grails:grails-plugin-datasource 3.2.5
-    org.grails:grails-plugin-domain-class 3.2.5
-    org.grails:grails-plugin-events 3.2.5
-    org.grails:grails-plugin-gsp 3.2.5
-    org.grails:grails-plugin-i18n 3.2.5
-    org.grails:grails-plugin-interceptors 3.2.5
-    org.grails:grails-plugin-mimetypes 3.2.5
-    org.grails:grails-plugin-rest 3.2.5
-    org.grails:grails-plugin-services 3.2.5
-    org.grails:grails-plugin-testing 3.2.5
-    org.grails:grails-plugin-url-mappings 3.2.5
-    org.grails:grails-plugin-validation 3.2.5
-    org.grails:grails-shell 3.2.5
-    org.grails:grails-spring 3.2.5
-    org.grails:grails-taglib 3.2.5
-    org.grails:grails-test 3.2.5
-    org.grails:grails-test-suite-base 3.2.5
-    org.grails:grails-test-suite-persistence 3.2.5
-    org.grails:grails-test-suite-uber 3.2.5
-    org.grails:grails-test-suite-web 3.2.5
-    org.grails:grails-validation 3.2.5
-    org.grails:grails-web 3.2.5
-    org.grails:grails-web-boot 3.2.5
-    org.grails:grails-web-common 3.2.5
-    org.grails:grails-web-databinding 3.2.5
-    org.grails:grails-web-fileupload 3.2.5
-    org.grails:grails-web-gsp 3.2.5
-    org.grails:grails-web-gsp-taglib 3.2.5
-    org.grails:grails-web-jsp 3.2.5
-    org.grails:grails-web-mvc 3.2.5
-    org.grails:grails-web-sitemesh 3.2.5
-    org.grails:grails-web-taglib 3.2.5
-    org.grails:grails-web-url-mappings 3.2.5
+    org.grails:grails-async 3.2.6
+    org.grails:grails-bootstrap 3.2.6
+    org.grails:grails-codecs 3.2.6
+    org.grails:grails-console 3.2.6
+    org.grails:grails-core 3.2.6
+    org.grails:grails-databinding 3.2.6
+    org.grails:grails-datastore-core 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-cassandra 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-hibernate 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-hibernate4 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-hibernate5 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-mongodb 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-neo4j 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-support 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-test 6.0.7.RELEASE
+    org.grails:grails-datastore-rest-client 6.0.7.RELEASE
+    org.grails:grails-datastore-simple 6.0.7.RELEASE
+    org.grails:grails-datastore-test-support 6.0.7.RELEASE
+    org.grails:grails-datastore-web 6.0.7.RELEASE
+    org.grails:grails-dependencies 3.2.6
+    org.grails:grails-docs 3.2.6
+    org.grails:grails-encoder 3.2.6
+    org.grails:grails-gradle-model 3.2.6
+    org.grails:grails-gradle-plugin 3.2.6
+    org.grails:grails-gsp 3.2.6
+    org.grails:grails-logging 3.2.6
+    org.grails:grails-plugin-async 3.2.6
+    org.grails:grails-plugin-codecs 3.2.6
+    org.grails:grails-plugin-controllers 3.2.6
+    org.grails:grails-plugin-converters 3.2.6
+    org.grails:grails-plugin-databinding 3.2.6
+    org.grails:grails-plugin-datasource 3.2.6
+    org.grails:grails-plugin-domain-class 3.2.6
+    org.grails:grails-plugin-events 3.2.6
+    org.grails:grails-plugin-gsp 3.2.6
+    org.grails:grails-plugin-i18n 3.2.6
+    org.grails:grails-plugin-interceptors 3.2.6
+    org.grails:grails-plugin-mimetypes 3.2.6
+    org.grails:grails-plugin-rest 3.2.6
+    org.grails:grails-plugin-services 3.2.6
+    org.grails:grails-plugin-testing 3.2.6
+    org.grails:grails-plugin-url-mappings 3.2.6
+    org.grails:grails-plugin-validation 3.2.6
+    org.grails:grails-shell 3.2.6
+    org.grails:grails-spring 3.2.6
+    org.grails:grails-taglib 3.2.6
+    org.grails:grails-test 3.2.6
+    org.grails:grails-test-suite-base 3.2.6
+    org.grails:grails-test-suite-persistence 3.2.6
+    org.grails:grails-test-suite-uber 3.2.6
+    org.grails:grails-test-suite-web 3.2.6
+    org.grails:grails-validation 3.2.6
+    org.grails:grails-web 3.2.6
+    org.grails:grails-web-boot 3.2.6
+    org.grails:grails-web-common 3.2.6
+    org.grails:grails-web-databinding 3.2.6
+    org.grails:grails-web-fileupload 3.2.6
+    org.grails:grails-web-gsp 3.2.6
+    org.grails:grails-web-gsp-taglib 3.2.6
+    org.grails:grails-web-jsp 3.2.6
+    org.grails:grails-web-mvc 3.2.6
+    org.grails:grails-web-sitemesh 3.2.6
+    org.grails:grails-web-taglib 3.2.6
+    org.grails:grails-web-url-mappings 3.2.6
     org.grails.plugins:asset-pipeline 3.2.1
     org.grails.plugins:asset-pipeline-grails 2.11.6
     org.grails.plugins:cache 3.0.3
     org.grails.plugins:fields 2.1.3
     org.grails.plugins:geb 1.0.2
     org.grails.plugins:grails-java8 1.1.0
-    org.grails.plugins:hibernate4 6.0.6
-    org.grails.plugins:hibernate5 6.0.6
-    org.grails.plugins:mongodb 6.0.6
-    org.grails.plugins:neo4j 6.0.6
+    org.grails.plugins:hibernate4 6.0.7
+    org.grails.plugins:hibernate5 6.0.7
+    org.grails.plugins:mongodb 6.0.7
+    org.grails.plugins:neo4j 6.0.7
     org.grails.plugins:rx-gorm-rest-client 1.0.4.RELEASE
-    org.grails.plugins:rx-mongodb 6.0.6
+    org.grails.plugins:rx-mongodb 6.0.7
     org.grails.plugins:rxjava 1.0.1
     org.grails.plugins:scaffolding 3.2.1
     org.grails.plugins:views-json 1.1.5
@@ -2164,7 +2122,7 @@ compileOnly - Dependency management for the compileOnly configuration
     org.grails.plugins:views-markup 1.1.5
     org.grails.profiles:angular 3.2.2
     org.grails.profiles:angular2 1.0.3
-    org.grails.profiles:base 3.2.4
+    org.grails.profiles:base 3.2.5
     org.grails.profiles:plugin 3.2.1
     org.grails.profiles:profile 3.2.1
     org.grails.profiles:react 2.0.1
@@ -2666,83 +2624,83 @@ default - Dependency management for the default configuration
     org.glassfish.jersey.ext:jersey-bean-validation 2.23.2
     org.glassfish.jersey.ext:jersey-spring3 2.23.2
     org.glassfish.jersey.media:jersey-media-json-jackson 2.23.2
-    org.grails:grails-async 3.2.5
-    org.grails:grails-bootstrap 3.2.5
-    org.grails:grails-codecs 3.2.5
-    org.grails:grails-console 3.2.5
-    org.grails:grails-core 3.2.5
-    org.grails:grails-databinding 3.2.5
-    org.grails:grails-datastore-core 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-cassandra 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-hibernate 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-hibernate4 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-hibernate5 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-mongodb 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-neo4j 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-support 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-test 6.0.6.RELEASE
-    org.grails:grails-datastore-rest-client 6.0.6.RELEASE
-    org.grails:grails-datastore-simple 6.0.6.RELEASE
-    org.grails:grails-datastore-test-support 6.0.6.RELEASE
-    org.grails:grails-datastore-web 6.0.6.RELEASE
-    org.grails:grails-dependencies 3.2.5
-    org.grails:grails-docs 3.2.5
-    org.grails:grails-encoder 3.2.5
-    org.grails:grails-gradle-model 3.2.5
-    org.grails:grails-gradle-plugin 3.2.5
-    org.grails:grails-gsp 3.2.5
-    org.grails:grails-logging 3.2.5
-    org.grails:grails-plugin-async 3.2.5
-    org.grails:grails-plugin-codecs 3.2.5
-    org.grails:grails-plugin-controllers 3.2.5
-    org.grails:grails-plugin-converters 3.2.5
-    org.grails:grails-plugin-databinding 3.2.5
-    org.grails:grails-plugin-datasource 3.2.5
-    org.grails:grails-plugin-domain-class 3.2.5
-    org.grails:grails-plugin-events 3.2.5
-    org.grails:grails-plugin-gsp 3.2.5
-    org.grails:grails-plugin-i18n 3.2.5
-    org.grails:grails-plugin-interceptors 3.2.5
-    org.grails:grails-plugin-mimetypes 3.2.5
-    org.grails:grails-plugin-rest 3.2.5
-    org.grails:grails-plugin-services 3.2.5
-    org.grails:grails-plugin-testing 3.2.5
-    org.grails:grails-plugin-url-mappings 3.2.5
-    org.grails:grails-plugin-validation 3.2.5
-    org.grails:grails-shell 3.2.5
-    org.grails:grails-spring 3.2.5
-    org.grails:grails-taglib 3.2.5
-    org.grails:grails-test 3.2.5
-    org.grails:grails-test-suite-base 3.2.5
-    org.grails:grails-test-suite-persistence 3.2.5
-    org.grails:grails-test-suite-uber 3.2.5
-    org.grails:grails-test-suite-web 3.2.5
-    org.grails:grails-validation 3.2.5
-    org.grails:grails-web 3.2.5
-    org.grails:grails-web-boot 3.2.5
-    org.grails:grails-web-common 3.2.5
-    org.grails:grails-web-databinding 3.2.5
-    org.grails:grails-web-fileupload 3.2.5
-    org.grails:grails-web-gsp 3.2.5
-    org.grails:grails-web-gsp-taglib 3.2.5
-    org.grails:grails-web-jsp 3.2.5
-    org.grails:grails-web-mvc 3.2.5
-    org.grails:grails-web-sitemesh 3.2.5
-    org.grails:grails-web-taglib 3.2.5
-    org.grails:grails-web-url-mappings 3.2.5
+    org.grails:grails-async 3.2.6
+    org.grails:grails-bootstrap 3.2.6
+    org.grails:grails-codecs 3.2.6
+    org.grails:grails-console 3.2.6
+    org.grails:grails-core 3.2.6
+    org.grails:grails-databinding 3.2.6
+    org.grails:grails-datastore-core 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-cassandra 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-hibernate 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-hibernate4 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-hibernate5 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-mongodb 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-neo4j 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-support 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-test 6.0.7.RELEASE
+    org.grails:grails-datastore-rest-client 6.0.7.RELEASE
+    org.grails:grails-datastore-simple 6.0.7.RELEASE
+    org.grails:grails-datastore-test-support 6.0.7.RELEASE
+    org.grails:grails-datastore-web 6.0.7.RELEASE
+    org.grails:grails-dependencies 3.2.6
+    org.grails:grails-docs 3.2.6
+    org.grails:grails-encoder 3.2.6
+    org.grails:grails-gradle-model 3.2.6
+    org.grails:grails-gradle-plugin 3.2.6
+    org.grails:grails-gsp 3.2.6
+    org.grails:grails-logging 3.2.6
+    org.grails:grails-plugin-async 3.2.6
+    org.grails:grails-plugin-codecs 3.2.6
+    org.grails:grails-plugin-controllers 3.2.6
+    org.grails:grails-plugin-converters 3.2.6
+    org.grails:grails-plugin-databinding 3.2.6
+    org.grails:grails-plugin-datasource 3.2.6
+    org.grails:grails-plugin-domain-class 3.2.6
+    org.grails:grails-plugin-events 3.2.6
+    org.grails:grails-plugin-gsp 3.2.6
+    org.grails:grails-plugin-i18n 3.2.6
+    org.grails:grails-plugin-interceptors 3.2.6
+    org.grails:grails-plugin-mimetypes 3.2.6
+    org.grails:grails-plugin-rest 3.2.6
+    org.grails:grails-plugin-services 3.2.6
+    org.grails:grails-plugin-testing 3.2.6
+    org.grails:grails-plugin-url-mappings 3.2.6
+    org.grails:grails-plugin-validation 3.2.6
+    org.grails:grails-shell 3.2.6
+    org.grails:grails-spring 3.2.6
+    org.grails:grails-taglib 3.2.6
+    org.grails:grails-test 3.2.6
+    org.grails:grails-test-suite-base 3.2.6
+    org.grails:grails-test-suite-persistence 3.2.6
+    org.grails:grails-test-suite-uber 3.2.6
+    org.grails:grails-test-suite-web 3.2.6
+    org.grails:grails-validation 3.2.6
+    org.grails:grails-web 3.2.6
+    org.grails:grails-web-boot 3.2.6
+    org.grails:grails-web-common 3.2.6
+    org.grails:grails-web-databinding 3.2.6
+    org.grails:grails-web-fileupload 3.2.6
+    org.grails:grails-web-gsp 3.2.6
+    org.grails:grails-web-gsp-taglib 3.2.6
+    org.grails:grails-web-jsp 3.2.6
+    org.grails:grails-web-mvc 3.2.6
+    org.grails:grails-web-sitemesh 3.2.6
+    org.grails:grails-web-taglib 3.2.6
+    org.grails:grails-web-url-mappings 3.2.6
     org.grails.plugins:asset-pipeline 3.2.1
     org.grails.plugins:asset-pipeline-grails 2.11.6
     org.grails.plugins:cache 3.0.3
     org.grails.plugins:fields 2.1.3
     org.grails.plugins:geb 1.0.2
     org.grails.plugins:grails-java8 1.1.0
-    org.grails.plugins:hibernate4 6.0.6
-    org.grails.plugins:hibernate5 6.0.6
-    org.grails.plugins:mongodb 6.0.6
-    org.grails.plugins:neo4j 6.0.6
+    org.grails.plugins:hibernate4 6.0.7
+    org.grails.plugins:hibernate5 6.0.7
+    org.grails.plugins:mongodb 6.0.7
+    org.grails.plugins:neo4j 6.0.7
     org.grails.plugins:rx-gorm-rest-client 1.0.4.RELEASE
-    org.grails.plugins:rx-mongodb 6.0.6
+    org.grails.plugins:rx-mongodb 6.0.7
     org.grails.plugins:rxjava 1.0.1
     org.grails.plugins:scaffolding 3.2.1
     org.grails.plugins:views-json 1.1.5
@@ -2750,7 +2708,7 @@ default - Dependency management for the default configuration
     org.grails.plugins:views-markup 1.1.5
     org.grails.profiles:angular 3.2.2
     org.grails.profiles:angular2 1.0.3
-    org.grails.profiles:base 3.2.4
+    org.grails.profiles:base 3.2.5
     org.grails.profiles:plugin 3.2.1
     org.grails.profiles:profile 3.2.1
     org.grails.profiles:react 2.0.1
@@ -3251,83 +3209,83 @@ integrationTestCompile - Dependency management for the integrationTestCompile co
     org.glassfish.jersey.ext:jersey-bean-validation 2.23.2
     org.glassfish.jersey.ext:jersey-spring3 2.23.2
     org.glassfish.jersey.media:jersey-media-json-jackson 2.23.2
-    org.grails:grails-async 3.2.5
-    org.grails:grails-bootstrap 3.2.5
-    org.grails:grails-codecs 3.2.5
-    org.grails:grails-console 3.2.5
-    org.grails:grails-core 3.2.5
-    org.grails:grails-databinding 3.2.5
-    org.grails:grails-datastore-core 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-cassandra 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-hibernate 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-hibernate4 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-hibernate5 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-mongodb 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-neo4j 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-support 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-test 6.0.6.RELEASE
-    org.grails:grails-datastore-rest-client 6.0.6.RELEASE
-    org.grails:grails-datastore-simple 6.0.6.RELEASE
-    org.grails:grails-datastore-test-support 6.0.6.RELEASE
-    org.grails:grails-datastore-web 6.0.6.RELEASE
-    org.grails:grails-dependencies 3.2.5
-    org.grails:grails-docs 3.2.5
-    org.grails:grails-encoder 3.2.5
-    org.grails:grails-gradle-model 3.2.5
-    org.grails:grails-gradle-plugin 3.2.5
-    org.grails:grails-gsp 3.2.5
-    org.grails:grails-logging 3.2.5
-    org.grails:grails-plugin-async 3.2.5
-    org.grails:grails-plugin-codecs 3.2.5
-    org.grails:grails-plugin-controllers 3.2.5
-    org.grails:grails-plugin-converters 3.2.5
-    org.grails:grails-plugin-databinding 3.2.5
-    org.grails:grails-plugin-datasource 3.2.5
-    org.grails:grails-plugin-domain-class 3.2.5
-    org.grails:grails-plugin-events 3.2.5
-    org.grails:grails-plugin-gsp 3.2.5
-    org.grails:grails-plugin-i18n 3.2.5
-    org.grails:grails-plugin-interceptors 3.2.5
-    org.grails:grails-plugin-mimetypes 3.2.5
-    org.grails:grails-plugin-rest 3.2.5
-    org.grails:grails-plugin-services 3.2.5
-    org.grails:grails-plugin-testing 3.2.5
-    org.grails:grails-plugin-url-mappings 3.2.5
-    org.grails:grails-plugin-validation 3.2.5
-    org.grails:grails-shell 3.2.5
-    org.grails:grails-spring 3.2.5
-    org.grails:grails-taglib 3.2.5
-    org.grails:grails-test 3.2.5
-    org.grails:grails-test-suite-base 3.2.5
-    org.grails:grails-test-suite-persistence 3.2.5
-    org.grails:grails-test-suite-uber 3.2.5
-    org.grails:grails-test-suite-web 3.2.5
-    org.grails:grails-validation 3.2.5
-    org.grails:grails-web 3.2.5
-    org.grails:grails-web-boot 3.2.5
-    org.grails:grails-web-common 3.2.5
-    org.grails:grails-web-databinding 3.2.5
-    org.grails:grails-web-fileupload 3.2.5
-    org.grails:grails-web-gsp 3.2.5
-    org.grails:grails-web-gsp-taglib 3.2.5
-    org.grails:grails-web-jsp 3.2.5
-    org.grails:grails-web-mvc 3.2.5
-    org.grails:grails-web-sitemesh 3.2.5
-    org.grails:grails-web-taglib 3.2.5
-    org.grails:grails-web-url-mappings 3.2.5
+    org.grails:grails-async 3.2.6
+    org.grails:grails-bootstrap 3.2.6
+    org.grails:grails-codecs 3.2.6
+    org.grails:grails-console 3.2.6
+    org.grails:grails-core 3.2.6
+    org.grails:grails-databinding 3.2.6
+    org.grails:grails-datastore-core 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-cassandra 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-hibernate 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-hibernate4 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-hibernate5 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-mongodb 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-neo4j 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-support 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-test 6.0.7.RELEASE
+    org.grails:grails-datastore-rest-client 6.0.7.RELEASE
+    org.grails:grails-datastore-simple 6.0.7.RELEASE
+    org.grails:grails-datastore-test-support 6.0.7.RELEASE
+    org.grails:grails-datastore-web 6.0.7.RELEASE
+    org.grails:grails-dependencies 3.2.6
+    org.grails:grails-docs 3.2.6
+    org.grails:grails-encoder 3.2.6
+    org.grails:grails-gradle-model 3.2.6
+    org.grails:grails-gradle-plugin 3.2.6
+    org.grails:grails-gsp 3.2.6
+    org.grails:grails-logging 3.2.6
+    org.grails:grails-plugin-async 3.2.6
+    org.grails:grails-plugin-codecs 3.2.6
+    org.grails:grails-plugin-controllers 3.2.6
+    org.grails:grails-plugin-converters 3.2.6
+    org.grails:grails-plugin-databinding 3.2.6
+    org.grails:grails-plugin-datasource 3.2.6
+    org.grails:grails-plugin-domain-class 3.2.6
+    org.grails:grails-plugin-events 3.2.6
+    org.grails:grails-plugin-gsp 3.2.6
+    org.grails:grails-plugin-i18n 3.2.6
+    org.grails:grails-plugin-interceptors 3.2.6
+    org.grails:grails-plugin-mimetypes 3.2.6
+    org.grails:grails-plugin-rest 3.2.6
+    org.grails:grails-plugin-services 3.2.6
+    org.grails:grails-plugin-testing 3.2.6
+    org.grails:grails-plugin-url-mappings 3.2.6
+    org.grails:grails-plugin-validation 3.2.6
+    org.grails:grails-shell 3.2.6
+    org.grails:grails-spring 3.2.6
+    org.grails:grails-taglib 3.2.6
+    org.grails:grails-test 3.2.6
+    org.grails:grails-test-suite-base 3.2.6
+    org.grails:grails-test-suite-persistence 3.2.6
+    org.grails:grails-test-suite-uber 3.2.6
+    org.grails:grails-test-suite-web 3.2.6
+    org.grails:grails-validation 3.2.6
+    org.grails:grails-web 3.2.6
+    org.grails:grails-web-boot 3.2.6
+    org.grails:grails-web-common 3.2.6
+    org.grails:grails-web-databinding 3.2.6
+    org.grails:grails-web-fileupload 3.2.6
+    org.grails:grails-web-gsp 3.2.6
+    org.grails:grails-web-gsp-taglib 3.2.6
+    org.grails:grails-web-jsp 3.2.6
+    org.grails:grails-web-mvc 3.2.6
+    org.grails:grails-web-sitemesh 3.2.6
+    org.grails:grails-web-taglib 3.2.6
+    org.grails:grails-web-url-mappings 3.2.6
     org.grails.plugins:asset-pipeline 3.2.1
     org.grails.plugins:asset-pipeline-grails 2.11.6
     org.grails.plugins:cache 3.0.3
     org.grails.plugins:fields 2.1.3
     org.grails.plugins:geb 1.0.2
     org.grails.plugins:grails-java8 1.1.0
-    org.grails.plugins:hibernate4 6.0.6
-    org.grails.plugins:hibernate5 6.0.6
-    org.grails.plugins:mongodb 6.0.6
-    org.grails.plugins:neo4j 6.0.6
+    org.grails.plugins:hibernate4 6.0.7
+    org.grails.plugins:hibernate5 6.0.7
+    org.grails.plugins:mongodb 6.0.7
+    org.grails.plugins:neo4j 6.0.7
     org.grails.plugins:rx-gorm-rest-client 1.0.4.RELEASE
-    org.grails.plugins:rx-mongodb 6.0.6
+    org.grails.plugins:rx-mongodb 6.0.7
     org.grails.plugins:rxjava 1.0.1
     org.grails.plugins:scaffolding 3.2.1
     org.grails.plugins:views-json 1.1.5
@@ -3335,7 +3293,7 @@ integrationTestCompile - Dependency management for the integrationTestCompile co
     org.grails.plugins:views-markup 1.1.5
     org.grails.profiles:angular 3.2.2
     org.grails.profiles:angular2 1.0.3
-    org.grails.profiles:base 3.2.4
+    org.grails.profiles:base 3.2.5
     org.grails.profiles:plugin 3.2.1
     org.grails.profiles:profile 3.2.1
     org.grails.profiles:react 2.0.1
@@ -3833,83 +3791,83 @@ integrationTestCompileClasspath - Dependency management for the integrationTestC
     org.glassfish.jersey.ext:jersey-bean-validation 2.23.2
     org.glassfish.jersey.ext:jersey-spring3 2.23.2
     org.glassfish.jersey.media:jersey-media-json-jackson 2.23.2
-    org.grails:grails-async 3.2.5
-    org.grails:grails-bootstrap 3.2.5
-    org.grails:grails-codecs 3.2.5
-    org.grails:grails-console 3.2.5
-    org.grails:grails-core 3.2.5
-    org.grails:grails-databinding 3.2.5
-    org.grails:grails-datastore-core 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-cassandra 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-hibernate 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-hibernate4 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-hibernate5 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-mongodb 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-neo4j 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-support 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-test 6.0.6.RELEASE
-    org.grails:grails-datastore-rest-client 6.0.6.RELEASE
-    org.grails:grails-datastore-simple 6.0.6.RELEASE
-    org.grails:grails-datastore-test-support 6.0.6.RELEASE
-    org.grails:grails-datastore-web 6.0.6.RELEASE
-    org.grails:grails-dependencies 3.2.5
-    org.grails:grails-docs 3.2.5
-    org.grails:grails-encoder 3.2.5
-    org.grails:grails-gradle-model 3.2.5
-    org.grails:grails-gradle-plugin 3.2.5
-    org.grails:grails-gsp 3.2.5
-    org.grails:grails-logging 3.2.5
-    org.grails:grails-plugin-async 3.2.5
-    org.grails:grails-plugin-codecs 3.2.5
-    org.grails:grails-plugin-controllers 3.2.5
-    org.grails:grails-plugin-converters 3.2.5
-    org.grails:grails-plugin-databinding 3.2.5
-    org.grails:grails-plugin-datasource 3.2.5
-    org.grails:grails-plugin-domain-class 3.2.5
-    org.grails:grails-plugin-events 3.2.5
-    org.grails:grails-plugin-gsp 3.2.5
-    org.grails:grails-plugin-i18n 3.2.5
-    org.grails:grails-plugin-interceptors 3.2.5
-    org.grails:grails-plugin-mimetypes 3.2.5
-    org.grails:grails-plugin-rest 3.2.5
-    org.grails:grails-plugin-services 3.2.5
-    org.grails:grails-plugin-testing 3.2.5
-    org.grails:grails-plugin-url-mappings 3.2.5
-    org.grails:grails-plugin-validation 3.2.5
-    org.grails:grails-shell 3.2.5
-    org.grails:grails-spring 3.2.5
-    org.grails:grails-taglib 3.2.5
-    org.grails:grails-test 3.2.5
-    org.grails:grails-test-suite-base 3.2.5
-    org.grails:grails-test-suite-persistence 3.2.5
-    org.grails:grails-test-suite-uber 3.2.5
-    org.grails:grails-test-suite-web 3.2.5
-    org.grails:grails-validation 3.2.5
-    org.grails:grails-web 3.2.5
-    org.grails:grails-web-boot 3.2.5
-    org.grails:grails-web-common 3.2.5
-    org.grails:grails-web-databinding 3.2.5
-    org.grails:grails-web-fileupload 3.2.5
-    org.grails:grails-web-gsp 3.2.5
-    org.grails:grails-web-gsp-taglib 3.2.5
-    org.grails:grails-web-jsp 3.2.5
-    org.grails:grails-web-mvc 3.2.5
-    org.grails:grails-web-sitemesh 3.2.5
-    org.grails:grails-web-taglib 3.2.5
-    org.grails:grails-web-url-mappings 3.2.5
+    org.grails:grails-async 3.2.6
+    org.grails:grails-bootstrap 3.2.6
+    org.grails:grails-codecs 3.2.6
+    org.grails:grails-console 3.2.6
+    org.grails:grails-core 3.2.6
+    org.grails:grails-databinding 3.2.6
+    org.grails:grails-datastore-core 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-cassandra 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-hibernate 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-hibernate4 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-hibernate5 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-mongodb 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-neo4j 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-support 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-test 6.0.7.RELEASE
+    org.grails:grails-datastore-rest-client 6.0.7.RELEASE
+    org.grails:grails-datastore-simple 6.0.7.RELEASE
+    org.grails:grails-datastore-test-support 6.0.7.RELEASE
+    org.grails:grails-datastore-web 6.0.7.RELEASE
+    org.grails:grails-dependencies 3.2.6
+    org.grails:grails-docs 3.2.6
+    org.grails:grails-encoder 3.2.6
+    org.grails:grails-gradle-model 3.2.6
+    org.grails:grails-gradle-plugin 3.2.6
+    org.grails:grails-gsp 3.2.6
+    org.grails:grails-logging 3.2.6
+    org.grails:grails-plugin-async 3.2.6
+    org.grails:grails-plugin-codecs 3.2.6
+    org.grails:grails-plugin-controllers 3.2.6
+    org.grails:grails-plugin-converters 3.2.6
+    org.grails:grails-plugin-databinding 3.2.6
+    org.grails:grails-plugin-datasource 3.2.6
+    org.grails:grails-plugin-domain-class 3.2.6
+    org.grails:grails-plugin-events 3.2.6
+    org.grails:grails-plugin-gsp 3.2.6
+    org.grails:grails-plugin-i18n 3.2.6
+    org.grails:grails-plugin-interceptors 3.2.6
+    org.grails:grails-plugin-mimetypes 3.2.6
+    org.grails:grails-plugin-rest 3.2.6
+    org.grails:grails-plugin-services 3.2.6
+    org.grails:grails-plugin-testing 3.2.6
+    org.grails:grails-plugin-url-mappings 3.2.6
+    org.grails:grails-plugin-validation 3.2.6
+    org.grails:grails-shell 3.2.6
+    org.grails:grails-spring 3.2.6
+    org.grails:grails-taglib 3.2.6
+    org.grails:grails-test 3.2.6
+    org.grails:grails-test-suite-base 3.2.6
+    org.grails:grails-test-suite-persistence 3.2.6
+    org.grails:grails-test-suite-uber 3.2.6
+    org.grails:grails-test-suite-web 3.2.6
+    org.grails:grails-validation 3.2.6
+    org.grails:grails-web 3.2.6
+    org.grails:grails-web-boot 3.2.6
+    org.grails:grails-web-common 3.2.6
+    org.grails:grails-web-databinding 3.2.6
+    org.grails:grails-web-fileupload 3.2.6
+    org.grails:grails-web-gsp 3.2.6
+    org.grails:grails-web-gsp-taglib 3.2.6
+    org.grails:grails-web-jsp 3.2.6
+    org.grails:grails-web-mvc 3.2.6
+    org.grails:grails-web-sitemesh 3.2.6
+    org.grails:grails-web-taglib 3.2.6
+    org.grails:grails-web-url-mappings 3.2.6
     org.grails.plugins:asset-pipeline 3.2.1
     org.grails.plugins:asset-pipeline-grails 2.11.6
     org.grails.plugins:cache 3.0.3
     org.grails.plugins:fields 2.1.3
     org.grails.plugins:geb 1.0.2
     org.grails.plugins:grails-java8 1.1.0
-    org.grails.plugins:hibernate4 6.0.6
-    org.grails.plugins:hibernate5 6.0.6
-    org.grails.plugins:mongodb 6.0.6
-    org.grails.plugins:neo4j 6.0.6
+    org.grails.plugins:hibernate4 6.0.7
+    org.grails.plugins:hibernate5 6.0.7
+    org.grails.plugins:mongodb 6.0.7
+    org.grails.plugins:neo4j 6.0.7
     org.grails.plugins:rx-gorm-rest-client 1.0.4.RELEASE
-    org.grails.plugins:rx-mongodb 6.0.6
+    org.grails.plugins:rx-mongodb 6.0.7
     org.grails.plugins:rxjava 1.0.1
     org.grails.plugins:scaffolding 3.2.1
     org.grails.plugins:views-json 1.1.5
@@ -3917,7 +3875,7 @@ integrationTestCompileClasspath - Dependency management for the integrationTestC
     org.grails.plugins:views-markup 1.1.5
     org.grails.profiles:angular 3.2.2
     org.grails.profiles:angular2 1.0.3
-    org.grails.profiles:base 3.2.4
+    org.grails.profiles:base 3.2.5
     org.grails.profiles:plugin 3.2.1
     org.grails.profiles:profile 3.2.1
     org.grails.profiles:react 2.0.1
@@ -4415,83 +4373,83 @@ integrationTestCompileOnly - Dependency management for the integrationTestCompil
     org.glassfish.jersey.ext:jersey-bean-validation 2.23.2
     org.glassfish.jersey.ext:jersey-spring3 2.23.2
     org.glassfish.jersey.media:jersey-media-json-jackson 2.23.2
-    org.grails:grails-async 3.2.5
-    org.grails:grails-bootstrap 3.2.5
-    org.grails:grails-codecs 3.2.5
-    org.grails:grails-console 3.2.5
-    org.grails:grails-core 3.2.5
-    org.grails:grails-databinding 3.2.5
-    org.grails:grails-datastore-core 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-cassandra 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-hibernate 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-hibernate4 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-hibernate5 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-mongodb 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-neo4j 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-support 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-test 6.0.6.RELEASE
-    org.grails:grails-datastore-rest-client 6.0.6.RELEASE
-    org.grails:grails-datastore-simple 6.0.6.RELEASE
-    org.grails:grails-datastore-test-support 6.0.6.RELEASE
-    org.grails:grails-datastore-web 6.0.6.RELEASE
-    org.grails:grails-dependencies 3.2.5
-    org.grails:grails-docs 3.2.5
-    org.grails:grails-encoder 3.2.5
-    org.grails:grails-gradle-model 3.2.5
-    org.grails:grails-gradle-plugin 3.2.5
-    org.grails:grails-gsp 3.2.5
-    org.grails:grails-logging 3.2.5
-    org.grails:grails-plugin-async 3.2.5
-    org.grails:grails-plugin-codecs 3.2.5
-    org.grails:grails-plugin-controllers 3.2.5
-    org.grails:grails-plugin-converters 3.2.5
-    org.grails:grails-plugin-databinding 3.2.5
-    org.grails:grails-plugin-datasource 3.2.5
-    org.grails:grails-plugin-domain-class 3.2.5
-    org.grails:grails-plugin-events 3.2.5
-    org.grails:grails-plugin-gsp 3.2.5
-    org.grails:grails-plugin-i18n 3.2.5
-    org.grails:grails-plugin-interceptors 3.2.5
-    org.grails:grails-plugin-mimetypes 3.2.5
-    org.grails:grails-plugin-rest 3.2.5
-    org.grails:grails-plugin-services 3.2.5
-    org.grails:grails-plugin-testing 3.2.5
-    org.grails:grails-plugin-url-mappings 3.2.5
-    org.grails:grails-plugin-validation 3.2.5
-    org.grails:grails-shell 3.2.5
-    org.grails:grails-spring 3.2.5
-    org.grails:grails-taglib 3.2.5
-    org.grails:grails-test 3.2.5
-    org.grails:grails-test-suite-base 3.2.5
-    org.grails:grails-test-suite-persistence 3.2.5
-    org.grails:grails-test-suite-uber 3.2.5
-    org.grails:grails-test-suite-web 3.2.5
-    org.grails:grails-validation 3.2.5
-    org.grails:grails-web 3.2.5
-    org.grails:grails-web-boot 3.2.5
-    org.grails:grails-web-common 3.2.5
-    org.grails:grails-web-databinding 3.2.5
-    org.grails:grails-web-fileupload 3.2.5
-    org.grails:grails-web-gsp 3.2.5
-    org.grails:grails-web-gsp-taglib 3.2.5
-    org.grails:grails-web-jsp 3.2.5
-    org.grails:grails-web-mvc 3.2.5
-    org.grails:grails-web-sitemesh 3.2.5
-    org.grails:grails-web-taglib 3.2.5
-    org.grails:grails-web-url-mappings 3.2.5
+    org.grails:grails-async 3.2.6
+    org.grails:grails-bootstrap 3.2.6
+    org.grails:grails-codecs 3.2.6
+    org.grails:grails-console 3.2.6
+    org.grails:grails-core 3.2.6
+    org.grails:grails-databinding 3.2.6
+    org.grails:grails-datastore-core 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-cassandra 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-hibernate 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-hibernate4 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-hibernate5 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-mongodb 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-neo4j 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-support 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-test 6.0.7.RELEASE
+    org.grails:grails-datastore-rest-client 6.0.7.RELEASE
+    org.grails:grails-datastore-simple 6.0.7.RELEASE
+    org.grails:grails-datastore-test-support 6.0.7.RELEASE
+    org.grails:grails-datastore-web 6.0.7.RELEASE
+    org.grails:grails-dependencies 3.2.6
+    org.grails:grails-docs 3.2.6
+    org.grails:grails-encoder 3.2.6
+    org.grails:grails-gradle-model 3.2.6
+    org.grails:grails-gradle-plugin 3.2.6
+    org.grails:grails-gsp 3.2.6
+    org.grails:grails-logging 3.2.6
+    org.grails:grails-plugin-async 3.2.6
+    org.grails:grails-plugin-codecs 3.2.6
+    org.grails:grails-plugin-controllers 3.2.6
+    org.grails:grails-plugin-converters 3.2.6
+    org.grails:grails-plugin-databinding 3.2.6
+    org.grails:grails-plugin-datasource 3.2.6
+    org.grails:grails-plugin-domain-class 3.2.6
+    org.grails:grails-plugin-events 3.2.6
+    org.grails:grails-plugin-gsp 3.2.6
+    org.grails:grails-plugin-i18n 3.2.6
+    org.grails:grails-plugin-interceptors 3.2.6
+    org.grails:grails-plugin-mimetypes 3.2.6
+    org.grails:grails-plugin-rest 3.2.6
+    org.grails:grails-plugin-services 3.2.6
+    org.grails:grails-plugin-testing 3.2.6
+    org.grails:grails-plugin-url-mappings 3.2.6
+    org.grails:grails-plugin-validation 3.2.6
+    org.grails:grails-shell 3.2.6
+    org.grails:grails-spring 3.2.6
+    org.grails:grails-taglib 3.2.6
+    org.grails:grails-test 3.2.6
+    org.grails:grails-test-suite-base 3.2.6
+    org.grails:grails-test-suite-persistence 3.2.6
+    org.grails:grails-test-suite-uber 3.2.6
+    org.grails:grails-test-suite-web 3.2.6
+    org.grails:grails-validation 3.2.6
+    org.grails:grails-web 3.2.6
+    org.grails:grails-web-boot 3.2.6
+    org.grails:grails-web-common 3.2.6
+    org.grails:grails-web-databinding 3.2.6
+    org.grails:grails-web-fileupload 3.2.6
+    org.grails:grails-web-gsp 3.2.6
+    org.grails:grails-web-gsp-taglib 3.2.6
+    org.grails:grails-web-jsp 3.2.6
+    org.grails:grails-web-mvc 3.2.6
+    org.grails:grails-web-sitemesh 3.2.6
+    org.grails:grails-web-taglib 3.2.6
+    org.grails:grails-web-url-mappings 3.2.6
     org.grails.plugins:asset-pipeline 3.2.1
     org.grails.plugins:asset-pipeline-grails 2.11.6
     org.grails.plugins:cache 3.0.3
     org.grails.plugins:fields 2.1.3
     org.grails.plugins:geb 1.0.2
     org.grails.plugins:grails-java8 1.1.0
-    org.grails.plugins:hibernate4 6.0.6
-    org.grails.plugins:hibernate5 6.0.6
-    org.grails.plugins:mongodb 6.0.6
-    org.grails.plugins:neo4j 6.0.6
+    org.grails.plugins:hibernate4 6.0.7
+    org.grails.plugins:hibernate5 6.0.7
+    org.grails.plugins:mongodb 6.0.7
+    org.grails.plugins:neo4j 6.0.7
     org.grails.plugins:rx-gorm-rest-client 1.0.4.RELEASE
-    org.grails.plugins:rx-mongodb 6.0.6
+    org.grails.plugins:rx-mongodb 6.0.7
     org.grails.plugins:rxjava 1.0.1
     org.grails.plugins:scaffolding 3.2.1
     org.grails.plugins:views-json 1.1.5
@@ -4499,7 +4457,7 @@ integrationTestCompileOnly - Dependency management for the integrationTestCompil
     org.grails.plugins:views-markup 1.1.5
     org.grails.profiles:angular 3.2.2
     org.grails.profiles:angular2 1.0.3
-    org.grails.profiles:base 3.2.4
+    org.grails.profiles:base 3.2.5
     org.grails.profiles:plugin 3.2.1
     org.grails.profiles:profile 3.2.1
     org.grails.profiles:react 2.0.1
@@ -4998,83 +4956,83 @@ integrationTestRuntime - Dependency management for the integrationTestRuntime co
     org.glassfish.jersey.ext:jersey-bean-validation 2.23.2
     org.glassfish.jersey.ext:jersey-spring3 2.23.2
     org.glassfish.jersey.media:jersey-media-json-jackson 2.23.2
-    org.grails:grails-async 3.2.5
-    org.grails:grails-bootstrap 3.2.5
-    org.grails:grails-codecs 3.2.5
-    org.grails:grails-console 3.2.5
-    org.grails:grails-core 3.2.5
-    org.grails:grails-databinding 3.2.5
-    org.grails:grails-datastore-core 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-cassandra 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-hibernate 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-hibernate4 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-hibernate5 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-mongodb 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-neo4j 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-support 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-test 6.0.6.RELEASE
-    org.grails:grails-datastore-rest-client 6.0.6.RELEASE
-    org.grails:grails-datastore-simple 6.0.6.RELEASE
-    org.grails:grails-datastore-test-support 6.0.6.RELEASE
-    org.grails:grails-datastore-web 6.0.6.RELEASE
-    org.grails:grails-dependencies 3.2.5
-    org.grails:grails-docs 3.2.5
-    org.grails:grails-encoder 3.2.5
-    org.grails:grails-gradle-model 3.2.5
-    org.grails:grails-gradle-plugin 3.2.5
-    org.grails:grails-gsp 3.2.5
-    org.grails:grails-logging 3.2.5
-    org.grails:grails-plugin-async 3.2.5
-    org.grails:grails-plugin-codecs 3.2.5
-    org.grails:grails-plugin-controllers 3.2.5
-    org.grails:grails-plugin-converters 3.2.5
-    org.grails:grails-plugin-databinding 3.2.5
-    org.grails:grails-plugin-datasource 3.2.5
-    org.grails:grails-plugin-domain-class 3.2.5
-    org.grails:grails-plugin-events 3.2.5
-    org.grails:grails-plugin-gsp 3.2.5
-    org.grails:grails-plugin-i18n 3.2.5
-    org.grails:grails-plugin-interceptors 3.2.5
-    org.grails:grails-plugin-mimetypes 3.2.5
-    org.grails:grails-plugin-rest 3.2.5
-    org.grails:grails-plugin-services 3.2.5
-    org.grails:grails-plugin-testing 3.2.5
-    org.grails:grails-plugin-url-mappings 3.2.5
-    org.grails:grails-plugin-validation 3.2.5
-    org.grails:grails-shell 3.2.5
-    org.grails:grails-spring 3.2.5
-    org.grails:grails-taglib 3.2.5
-    org.grails:grails-test 3.2.5
-    org.grails:grails-test-suite-base 3.2.5
-    org.grails:grails-test-suite-persistence 3.2.5
-    org.grails:grails-test-suite-uber 3.2.5
-    org.grails:grails-test-suite-web 3.2.5
-    org.grails:grails-validation 3.2.5
-    org.grails:grails-web 3.2.5
-    org.grails:grails-web-boot 3.2.5
-    org.grails:grails-web-common 3.2.5
-    org.grails:grails-web-databinding 3.2.5
-    org.grails:grails-web-fileupload 3.2.5
-    org.grails:grails-web-gsp 3.2.5
-    org.grails:grails-web-gsp-taglib 3.2.5
-    org.grails:grails-web-jsp 3.2.5
-    org.grails:grails-web-mvc 3.2.5
-    org.grails:grails-web-sitemesh 3.2.5
-    org.grails:grails-web-taglib 3.2.5
-    org.grails:grails-web-url-mappings 3.2.5
+    org.grails:grails-async 3.2.6
+    org.grails:grails-bootstrap 3.2.6
+    org.grails:grails-codecs 3.2.6
+    org.grails:grails-console 3.2.6
+    org.grails:grails-core 3.2.6
+    org.grails:grails-databinding 3.2.6
+    org.grails:grails-datastore-core 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-cassandra 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-hibernate 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-hibernate4 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-hibernate5 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-mongodb 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-neo4j 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-support 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-test 6.0.7.RELEASE
+    org.grails:grails-datastore-rest-client 6.0.7.RELEASE
+    org.grails:grails-datastore-simple 6.0.7.RELEASE
+    org.grails:grails-datastore-test-support 6.0.7.RELEASE
+    org.grails:grails-datastore-web 6.0.7.RELEASE
+    org.grails:grails-dependencies 3.2.6
+    org.grails:grails-docs 3.2.6
+    org.grails:grails-encoder 3.2.6
+    org.grails:grails-gradle-model 3.2.6
+    org.grails:grails-gradle-plugin 3.2.6
+    org.grails:grails-gsp 3.2.6
+    org.grails:grails-logging 3.2.6
+    org.grails:grails-plugin-async 3.2.6
+    org.grails:grails-plugin-codecs 3.2.6
+    org.grails:grails-plugin-controllers 3.2.6
+    org.grails:grails-plugin-converters 3.2.6
+    org.grails:grails-plugin-databinding 3.2.6
+    org.grails:grails-plugin-datasource 3.2.6
+    org.grails:grails-plugin-domain-class 3.2.6
+    org.grails:grails-plugin-events 3.2.6
+    org.grails:grails-plugin-gsp 3.2.6
+    org.grails:grails-plugin-i18n 3.2.6
+    org.grails:grails-plugin-interceptors 3.2.6
+    org.grails:grails-plugin-mimetypes 3.2.6
+    org.grails:grails-plugin-rest 3.2.6
+    org.grails:grails-plugin-services 3.2.6
+    org.grails:grails-plugin-testing 3.2.6
+    org.grails:grails-plugin-url-mappings 3.2.6
+    org.grails:grails-plugin-validation 3.2.6
+    org.grails:grails-shell 3.2.6
+    org.grails:grails-spring 3.2.6
+    org.grails:grails-taglib 3.2.6
+    org.grails:grails-test 3.2.6
+    org.grails:grails-test-suite-base 3.2.6
+    org.grails:grails-test-suite-persistence 3.2.6
+    org.grails:grails-test-suite-uber 3.2.6
+    org.grails:grails-test-suite-web 3.2.6
+    org.grails:grails-validation 3.2.6
+    org.grails:grails-web 3.2.6
+    org.grails:grails-web-boot 3.2.6
+    org.grails:grails-web-common 3.2.6
+    org.grails:grails-web-databinding 3.2.6
+    org.grails:grails-web-fileupload 3.2.6
+    org.grails:grails-web-gsp 3.2.6
+    org.grails:grails-web-gsp-taglib 3.2.6
+    org.grails:grails-web-jsp 3.2.6
+    org.grails:grails-web-mvc 3.2.6
+    org.grails:grails-web-sitemesh 3.2.6
+    org.grails:grails-web-taglib 3.2.6
+    org.grails:grails-web-url-mappings 3.2.6
     org.grails.plugins:asset-pipeline 3.2.1
     org.grails.plugins:asset-pipeline-grails 2.11.6
     org.grails.plugins:cache 3.0.3
     org.grails.plugins:fields 2.1.3
     org.grails.plugins:geb 1.0.2
     org.grails.plugins:grails-java8 1.1.0
-    org.grails.plugins:hibernate4 6.0.6
-    org.grails.plugins:hibernate5 6.0.6
-    org.grails.plugins:mongodb 6.0.6
-    org.grails.plugins:neo4j 6.0.6
+    org.grails.plugins:hibernate4 6.0.7
+    org.grails.plugins:hibernate5 6.0.7
+    org.grails.plugins:mongodb 6.0.7
+    org.grails.plugins:neo4j 6.0.7
     org.grails.plugins:rx-gorm-rest-client 1.0.4.RELEASE
-    org.grails.plugins:rx-mongodb 6.0.6
+    org.grails.plugins:rx-mongodb 6.0.7
     org.grails.plugins:rxjava 1.0.1
     org.grails.plugins:scaffolding 3.2.1
     org.grails.plugins:views-json 1.1.5
@@ -5082,7 +5040,7 @@ integrationTestRuntime - Dependency management for the integrationTestRuntime co
     org.grails.plugins:views-markup 1.1.5
     org.grails.profiles:angular 3.2.2
     org.grails.profiles:angular2 1.0.3
-    org.grails.profiles:base 3.2.4
+    org.grails.profiles:base 3.2.5
     org.grails.profiles:plugin 3.2.1
     org.grails.profiles:profile 3.2.1
     org.grails.profiles:react 2.0.1
@@ -5593,83 +5551,83 @@ runtime - Dependency management for the runtime configuration
     org.glassfish.jersey.ext:jersey-bean-validation 2.23.2
     org.glassfish.jersey.ext:jersey-spring3 2.23.2
     org.glassfish.jersey.media:jersey-media-json-jackson 2.23.2
-    org.grails:grails-async 3.2.5
-    org.grails:grails-bootstrap 3.2.5
-    org.grails:grails-codecs 3.2.5
-    org.grails:grails-console 3.2.5
-    org.grails:grails-core 3.2.5
-    org.grails:grails-databinding 3.2.5
-    org.grails:grails-datastore-core 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-cassandra 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-hibernate 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-hibernate4 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-hibernate5 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-mongodb 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-neo4j 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-support 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-test 6.0.6.RELEASE
-    org.grails:grails-datastore-rest-client 6.0.6.RELEASE
-    org.grails:grails-datastore-simple 6.0.6.RELEASE
-    org.grails:grails-datastore-test-support 6.0.6.RELEASE
-    org.grails:grails-datastore-web 6.0.6.RELEASE
-    org.grails:grails-dependencies 3.2.5
-    org.grails:grails-docs 3.2.5
-    org.grails:grails-encoder 3.2.5
-    org.grails:grails-gradle-model 3.2.5
-    org.grails:grails-gradle-plugin 3.2.5
-    org.grails:grails-gsp 3.2.5
-    org.grails:grails-logging 3.2.5
-    org.grails:grails-plugin-async 3.2.5
-    org.grails:grails-plugin-codecs 3.2.5
-    org.grails:grails-plugin-controllers 3.2.5
-    org.grails:grails-plugin-converters 3.2.5
-    org.grails:grails-plugin-databinding 3.2.5
-    org.grails:grails-plugin-datasource 3.2.5
-    org.grails:grails-plugin-domain-class 3.2.5
-    org.grails:grails-plugin-events 3.2.5
-    org.grails:grails-plugin-gsp 3.2.5
-    org.grails:grails-plugin-i18n 3.2.5
-    org.grails:grails-plugin-interceptors 3.2.5
-    org.grails:grails-plugin-mimetypes 3.2.5
-    org.grails:grails-plugin-rest 3.2.5
-    org.grails:grails-plugin-services 3.2.5
-    org.grails:grails-plugin-testing 3.2.5
-    org.grails:grails-plugin-url-mappings 3.2.5
-    org.grails:grails-plugin-validation 3.2.5
-    org.grails:grails-shell 3.2.5
-    org.grails:grails-spring 3.2.5
-    org.grails:grails-taglib 3.2.5
-    org.grails:grails-test 3.2.5
-    org.grails:grails-test-suite-base 3.2.5
-    org.grails:grails-test-suite-persistence 3.2.5
-    org.grails:grails-test-suite-uber 3.2.5
-    org.grails:grails-test-suite-web 3.2.5
-    org.grails:grails-validation 3.2.5
-    org.grails:grails-web 3.2.5
-    org.grails:grails-web-boot 3.2.5
-    org.grails:grails-web-common 3.2.5
-    org.grails:grails-web-databinding 3.2.5
-    org.grails:grails-web-fileupload 3.2.5
-    org.grails:grails-web-gsp 3.2.5
-    org.grails:grails-web-gsp-taglib 3.2.5
-    org.grails:grails-web-jsp 3.2.5
-    org.grails:grails-web-mvc 3.2.5
-    org.grails:grails-web-sitemesh 3.2.5
-    org.grails:grails-web-taglib 3.2.5
-    org.grails:grails-web-url-mappings 3.2.5
+    org.grails:grails-async 3.2.6
+    org.grails:grails-bootstrap 3.2.6
+    org.grails:grails-codecs 3.2.6
+    org.grails:grails-console 3.2.6
+    org.grails:grails-core 3.2.6
+    org.grails:grails-databinding 3.2.6
+    org.grails:grails-datastore-core 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-cassandra 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-hibernate 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-hibernate4 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-hibernate5 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-mongodb 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-neo4j 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-support 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-test 6.0.7.RELEASE
+    org.grails:grails-datastore-rest-client 6.0.7.RELEASE
+    org.grails:grails-datastore-simple 6.0.7.RELEASE
+    org.grails:grails-datastore-test-support 6.0.7.RELEASE
+    org.grails:grails-datastore-web 6.0.7.RELEASE
+    org.grails:grails-dependencies 3.2.6
+    org.grails:grails-docs 3.2.6
+    org.grails:grails-encoder 3.2.6
+    org.grails:grails-gradle-model 3.2.6
+    org.grails:grails-gradle-plugin 3.2.6
+    org.grails:grails-gsp 3.2.6
+    org.grails:grails-logging 3.2.6
+    org.grails:grails-plugin-async 3.2.6
+    org.grails:grails-plugin-codecs 3.2.6
+    org.grails:grails-plugin-controllers 3.2.6
+    org.grails:grails-plugin-converters 3.2.6
+    org.grails:grails-plugin-databinding 3.2.6
+    org.grails:grails-plugin-datasource 3.2.6
+    org.grails:grails-plugin-domain-class 3.2.6
+    org.grails:grails-plugin-events 3.2.6
+    org.grails:grails-plugin-gsp 3.2.6
+    org.grails:grails-plugin-i18n 3.2.6
+    org.grails:grails-plugin-interceptors 3.2.6
+    org.grails:grails-plugin-mimetypes 3.2.6
+    org.grails:grails-plugin-rest 3.2.6
+    org.grails:grails-plugin-services 3.2.6
+    org.grails:grails-plugin-testing 3.2.6
+    org.grails:grails-plugin-url-mappings 3.2.6
+    org.grails:grails-plugin-validation 3.2.6
+    org.grails:grails-shell 3.2.6
+    org.grails:grails-spring 3.2.6
+    org.grails:grails-taglib 3.2.6
+    org.grails:grails-test 3.2.6
+    org.grails:grails-test-suite-base 3.2.6
+    org.grails:grails-test-suite-persistence 3.2.6
+    org.grails:grails-test-suite-uber 3.2.6
+    org.grails:grails-test-suite-web 3.2.6
+    org.grails:grails-validation 3.2.6
+    org.grails:grails-web 3.2.6
+    org.grails:grails-web-boot 3.2.6
+    org.grails:grails-web-common 3.2.6
+    org.grails:grails-web-databinding 3.2.6
+    org.grails:grails-web-fileupload 3.2.6
+    org.grails:grails-web-gsp 3.2.6
+    org.grails:grails-web-gsp-taglib 3.2.6
+    org.grails:grails-web-jsp 3.2.6
+    org.grails:grails-web-mvc 3.2.6
+    org.grails:grails-web-sitemesh 3.2.6
+    org.grails:grails-web-taglib 3.2.6
+    org.grails:grails-web-url-mappings 3.2.6
     org.grails.plugins:asset-pipeline 3.2.1
     org.grails.plugins:asset-pipeline-grails 2.11.6
     org.grails.plugins:cache 3.0.3
     org.grails.plugins:fields 2.1.3
     org.grails.plugins:geb 1.0.2
     org.grails.plugins:grails-java8 1.1.0
-    org.grails.plugins:hibernate4 6.0.6
-    org.grails.plugins:hibernate5 6.0.6
-    org.grails.plugins:mongodb 6.0.6
-    org.grails.plugins:neo4j 6.0.6
+    org.grails.plugins:hibernate4 6.0.7
+    org.grails.plugins:hibernate5 6.0.7
+    org.grails.plugins:mongodb 6.0.7
+    org.grails.plugins:neo4j 6.0.7
     org.grails.plugins:rx-gorm-rest-client 1.0.4.RELEASE
-    org.grails.plugins:rx-mongodb 6.0.6
+    org.grails.plugins:rx-mongodb 6.0.7
     org.grails.plugins:rxjava 1.0.1
     org.grails.plugins:scaffolding 3.2.1
     org.grails.plugins:views-json 1.1.5
@@ -5677,7 +5635,7 @@ runtime - Dependency management for the runtime configuration
     org.grails.plugins:views-markup 1.1.5
     org.grails.profiles:angular 3.2.2
     org.grails.profiles:angular2 1.0.3
-    org.grails.profiles:base 3.2.4
+    org.grails.profiles:base 3.2.5
     org.grails.profiles:plugin 3.2.1
     org.grails.profiles:profile 3.2.1
     org.grails.profiles:react 2.0.1
@@ -6175,83 +6133,83 @@ testCompile - Dependency management for the testCompile configuration
     org.glassfish.jersey.ext:jersey-bean-validation 2.23.2
     org.glassfish.jersey.ext:jersey-spring3 2.23.2
     org.glassfish.jersey.media:jersey-media-json-jackson 2.23.2
-    org.grails:grails-async 3.2.5
-    org.grails:grails-bootstrap 3.2.5
-    org.grails:grails-codecs 3.2.5
-    org.grails:grails-console 3.2.5
-    org.grails:grails-core 3.2.5
-    org.grails:grails-databinding 3.2.5
-    org.grails:grails-datastore-core 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-cassandra 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-hibernate 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-hibernate4 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-hibernate5 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-mongodb 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-neo4j 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-support 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-test 6.0.6.RELEASE
-    org.grails:grails-datastore-rest-client 6.0.6.RELEASE
-    org.grails:grails-datastore-simple 6.0.6.RELEASE
-    org.grails:grails-datastore-test-support 6.0.6.RELEASE
-    org.grails:grails-datastore-web 6.0.6.RELEASE
-    org.grails:grails-dependencies 3.2.5
-    org.grails:grails-docs 3.2.5
-    org.grails:grails-encoder 3.2.5
-    org.grails:grails-gradle-model 3.2.5
-    org.grails:grails-gradle-plugin 3.2.5
-    org.grails:grails-gsp 3.2.5
-    org.grails:grails-logging 3.2.5
-    org.grails:grails-plugin-async 3.2.5
-    org.grails:grails-plugin-codecs 3.2.5
-    org.grails:grails-plugin-controllers 3.2.5
-    org.grails:grails-plugin-converters 3.2.5
-    org.grails:grails-plugin-databinding 3.2.5
-    org.grails:grails-plugin-datasource 3.2.5
-    org.grails:grails-plugin-domain-class 3.2.5
-    org.grails:grails-plugin-events 3.2.5
-    org.grails:grails-plugin-gsp 3.2.5
-    org.grails:grails-plugin-i18n 3.2.5
-    org.grails:grails-plugin-interceptors 3.2.5
-    org.grails:grails-plugin-mimetypes 3.2.5
-    org.grails:grails-plugin-rest 3.2.5
-    org.grails:grails-plugin-services 3.2.5
-    org.grails:grails-plugin-testing 3.2.5
-    org.grails:grails-plugin-url-mappings 3.2.5
-    org.grails:grails-plugin-validation 3.2.5
-    org.grails:grails-shell 3.2.5
-    org.grails:grails-spring 3.2.5
-    org.grails:grails-taglib 3.2.5
-    org.grails:grails-test 3.2.5
-    org.grails:grails-test-suite-base 3.2.5
-    org.grails:grails-test-suite-persistence 3.2.5
-    org.grails:grails-test-suite-uber 3.2.5
-    org.grails:grails-test-suite-web 3.2.5
-    org.grails:grails-validation 3.2.5
-    org.grails:grails-web 3.2.5
-    org.grails:grails-web-boot 3.2.5
-    org.grails:grails-web-common 3.2.5
-    org.grails:grails-web-databinding 3.2.5
-    org.grails:grails-web-fileupload 3.2.5
-    org.grails:grails-web-gsp 3.2.5
-    org.grails:grails-web-gsp-taglib 3.2.5
-    org.grails:grails-web-jsp 3.2.5
-    org.grails:grails-web-mvc 3.2.5
-    org.grails:grails-web-sitemesh 3.2.5
-    org.grails:grails-web-taglib 3.2.5
-    org.grails:grails-web-url-mappings 3.2.5
+    org.grails:grails-async 3.2.6
+    org.grails:grails-bootstrap 3.2.6
+    org.grails:grails-codecs 3.2.6
+    org.grails:grails-console 3.2.6
+    org.grails:grails-core 3.2.6
+    org.grails:grails-databinding 3.2.6
+    org.grails:grails-datastore-core 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-cassandra 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-hibernate 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-hibernate4 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-hibernate5 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-mongodb 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-neo4j 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-support 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-test 6.0.7.RELEASE
+    org.grails:grails-datastore-rest-client 6.0.7.RELEASE
+    org.grails:grails-datastore-simple 6.0.7.RELEASE
+    org.grails:grails-datastore-test-support 6.0.7.RELEASE
+    org.grails:grails-datastore-web 6.0.7.RELEASE
+    org.grails:grails-dependencies 3.2.6
+    org.grails:grails-docs 3.2.6
+    org.grails:grails-encoder 3.2.6
+    org.grails:grails-gradle-model 3.2.6
+    org.grails:grails-gradle-plugin 3.2.6
+    org.grails:grails-gsp 3.2.6
+    org.grails:grails-logging 3.2.6
+    org.grails:grails-plugin-async 3.2.6
+    org.grails:grails-plugin-codecs 3.2.6
+    org.grails:grails-plugin-controllers 3.2.6
+    org.grails:grails-plugin-converters 3.2.6
+    org.grails:grails-plugin-databinding 3.2.6
+    org.grails:grails-plugin-datasource 3.2.6
+    org.grails:grails-plugin-domain-class 3.2.6
+    org.grails:grails-plugin-events 3.2.6
+    org.grails:grails-plugin-gsp 3.2.6
+    org.grails:grails-plugin-i18n 3.2.6
+    org.grails:grails-plugin-interceptors 3.2.6
+    org.grails:grails-plugin-mimetypes 3.2.6
+    org.grails:grails-plugin-rest 3.2.6
+    org.grails:grails-plugin-services 3.2.6
+    org.grails:grails-plugin-testing 3.2.6
+    org.grails:grails-plugin-url-mappings 3.2.6
+    org.grails:grails-plugin-validation 3.2.6
+    org.grails:grails-shell 3.2.6
+    org.grails:grails-spring 3.2.6
+    org.grails:grails-taglib 3.2.6
+    org.grails:grails-test 3.2.6
+    org.grails:grails-test-suite-base 3.2.6
+    org.grails:grails-test-suite-persistence 3.2.6
+    org.grails:grails-test-suite-uber 3.2.6
+    org.grails:grails-test-suite-web 3.2.6
+    org.grails:grails-validation 3.2.6
+    org.grails:grails-web 3.2.6
+    org.grails:grails-web-boot 3.2.6
+    org.grails:grails-web-common 3.2.6
+    org.grails:grails-web-databinding 3.2.6
+    org.grails:grails-web-fileupload 3.2.6
+    org.grails:grails-web-gsp 3.2.6
+    org.grails:grails-web-gsp-taglib 3.2.6
+    org.grails:grails-web-jsp 3.2.6
+    org.grails:grails-web-mvc 3.2.6
+    org.grails:grails-web-sitemesh 3.2.6
+    org.grails:grails-web-taglib 3.2.6
+    org.grails:grails-web-url-mappings 3.2.6
     org.grails.plugins:asset-pipeline 3.2.1
     org.grails.plugins:asset-pipeline-grails 2.11.6
     org.grails.plugins:cache 3.0.3
     org.grails.plugins:fields 2.1.3
     org.grails.plugins:geb 1.0.2
     org.grails.plugins:grails-java8 1.1.0
-    org.grails.plugins:hibernate4 6.0.6
-    org.grails.plugins:hibernate5 6.0.6
-    org.grails.plugins:mongodb 6.0.6
-    org.grails.plugins:neo4j 6.0.6
+    org.grails.plugins:hibernate4 6.0.7
+    org.grails.plugins:hibernate5 6.0.7
+    org.grails.plugins:mongodb 6.0.7
+    org.grails.plugins:neo4j 6.0.7
     org.grails.plugins:rx-gorm-rest-client 1.0.4.RELEASE
-    org.grails.plugins:rx-mongodb 6.0.6
+    org.grails.plugins:rx-mongodb 6.0.7
     org.grails.plugins:rxjava 1.0.1
     org.grails.plugins:scaffolding 3.2.1
     org.grails.plugins:views-json 1.1.5
@@ -6259,7 +6217,7 @@ testCompile - Dependency management for the testCompile configuration
     org.grails.plugins:views-markup 1.1.5
     org.grails.profiles:angular 3.2.2
     org.grails.profiles:angular2 1.0.3
-    org.grails.profiles:base 3.2.4
+    org.grails.profiles:base 3.2.5
     org.grails.profiles:plugin 3.2.1
     org.grails.profiles:profile 3.2.1
     org.grails.profiles:react 2.0.1
@@ -6757,83 +6715,83 @@ testCompileClasspath - Dependency management for the testCompileClasspath config
     org.glassfish.jersey.ext:jersey-bean-validation 2.23.2
     org.glassfish.jersey.ext:jersey-spring3 2.23.2
     org.glassfish.jersey.media:jersey-media-json-jackson 2.23.2
-    org.grails:grails-async 3.2.5
-    org.grails:grails-bootstrap 3.2.5
-    org.grails:grails-codecs 3.2.5
-    org.grails:grails-console 3.2.5
-    org.grails:grails-core 3.2.5
-    org.grails:grails-databinding 3.2.5
-    org.grails:grails-datastore-core 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-cassandra 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-hibernate 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-hibernate4 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-hibernate5 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-mongodb 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-neo4j 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-support 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-test 6.0.6.RELEASE
-    org.grails:grails-datastore-rest-client 6.0.6.RELEASE
-    org.grails:grails-datastore-simple 6.0.6.RELEASE
-    org.grails:grails-datastore-test-support 6.0.6.RELEASE
-    org.grails:grails-datastore-web 6.0.6.RELEASE
-    org.grails:grails-dependencies 3.2.5
-    org.grails:grails-docs 3.2.5
-    org.grails:grails-encoder 3.2.5
-    org.grails:grails-gradle-model 3.2.5
-    org.grails:grails-gradle-plugin 3.2.5
-    org.grails:grails-gsp 3.2.5
-    org.grails:grails-logging 3.2.5
-    org.grails:grails-plugin-async 3.2.5
-    org.grails:grails-plugin-codecs 3.2.5
-    org.grails:grails-plugin-controllers 3.2.5
-    org.grails:grails-plugin-converters 3.2.5
-    org.grails:grails-plugin-databinding 3.2.5
-    org.grails:grails-plugin-datasource 3.2.5
-    org.grails:grails-plugin-domain-class 3.2.5
-    org.grails:grails-plugin-events 3.2.5
-    org.grails:grails-plugin-gsp 3.2.5
-    org.grails:grails-plugin-i18n 3.2.5
-    org.grails:grails-plugin-interceptors 3.2.5
-    org.grails:grails-plugin-mimetypes 3.2.5
-    org.grails:grails-plugin-rest 3.2.5
-    org.grails:grails-plugin-services 3.2.5
-    org.grails:grails-plugin-testing 3.2.5
-    org.grails:grails-plugin-url-mappings 3.2.5
-    org.grails:grails-plugin-validation 3.2.5
-    org.grails:grails-shell 3.2.5
-    org.grails:grails-spring 3.2.5
-    org.grails:grails-taglib 3.2.5
-    org.grails:grails-test 3.2.5
-    org.grails:grails-test-suite-base 3.2.5
-    org.grails:grails-test-suite-persistence 3.2.5
-    org.grails:grails-test-suite-uber 3.2.5
-    org.grails:grails-test-suite-web 3.2.5
-    org.grails:grails-validation 3.2.5
-    org.grails:grails-web 3.2.5
-    org.grails:grails-web-boot 3.2.5
-    org.grails:grails-web-common 3.2.5
-    org.grails:grails-web-databinding 3.2.5
-    org.grails:grails-web-fileupload 3.2.5
-    org.grails:grails-web-gsp 3.2.5
-    org.grails:grails-web-gsp-taglib 3.2.5
-    org.grails:grails-web-jsp 3.2.5
-    org.grails:grails-web-mvc 3.2.5
-    org.grails:grails-web-sitemesh 3.2.5
-    org.grails:grails-web-taglib 3.2.5
-    org.grails:grails-web-url-mappings 3.2.5
+    org.grails:grails-async 3.2.6
+    org.grails:grails-bootstrap 3.2.6
+    org.grails:grails-codecs 3.2.6
+    org.grails:grails-console 3.2.6
+    org.grails:grails-core 3.2.6
+    org.grails:grails-databinding 3.2.6
+    org.grails:grails-datastore-core 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-cassandra 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-hibernate 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-hibernate4 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-hibernate5 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-mongodb 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-neo4j 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-support 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-test 6.0.7.RELEASE
+    org.grails:grails-datastore-rest-client 6.0.7.RELEASE
+    org.grails:grails-datastore-simple 6.0.7.RELEASE
+    org.grails:grails-datastore-test-support 6.0.7.RELEASE
+    org.grails:grails-datastore-web 6.0.7.RELEASE
+    org.grails:grails-dependencies 3.2.6
+    org.grails:grails-docs 3.2.6
+    org.grails:grails-encoder 3.2.6
+    org.grails:grails-gradle-model 3.2.6
+    org.grails:grails-gradle-plugin 3.2.6
+    org.grails:grails-gsp 3.2.6
+    org.grails:grails-logging 3.2.6
+    org.grails:grails-plugin-async 3.2.6
+    org.grails:grails-plugin-codecs 3.2.6
+    org.grails:grails-plugin-controllers 3.2.6
+    org.grails:grails-plugin-converters 3.2.6
+    org.grails:grails-plugin-databinding 3.2.6
+    org.grails:grails-plugin-datasource 3.2.6
+    org.grails:grails-plugin-domain-class 3.2.6
+    org.grails:grails-plugin-events 3.2.6
+    org.grails:grails-plugin-gsp 3.2.6
+    org.grails:grails-plugin-i18n 3.2.6
+    org.grails:grails-plugin-interceptors 3.2.6
+    org.grails:grails-plugin-mimetypes 3.2.6
+    org.grails:grails-plugin-rest 3.2.6
+    org.grails:grails-plugin-services 3.2.6
+    org.grails:grails-plugin-testing 3.2.6
+    org.grails:grails-plugin-url-mappings 3.2.6
+    org.grails:grails-plugin-validation 3.2.6
+    org.grails:grails-shell 3.2.6
+    org.grails:grails-spring 3.2.6
+    org.grails:grails-taglib 3.2.6
+    org.grails:grails-test 3.2.6
+    org.grails:grails-test-suite-base 3.2.6
+    org.grails:grails-test-suite-persistence 3.2.6
+    org.grails:grails-test-suite-uber 3.2.6
+    org.grails:grails-test-suite-web 3.2.6
+    org.grails:grails-validation 3.2.6
+    org.grails:grails-web 3.2.6
+    org.grails:grails-web-boot 3.2.6
+    org.grails:grails-web-common 3.2.6
+    org.grails:grails-web-databinding 3.2.6
+    org.grails:grails-web-fileupload 3.2.6
+    org.grails:grails-web-gsp 3.2.6
+    org.grails:grails-web-gsp-taglib 3.2.6
+    org.grails:grails-web-jsp 3.2.6
+    org.grails:grails-web-mvc 3.2.6
+    org.grails:grails-web-sitemesh 3.2.6
+    org.grails:grails-web-taglib 3.2.6
+    org.grails:grails-web-url-mappings 3.2.6
     org.grails.plugins:asset-pipeline 3.2.1
     org.grails.plugins:asset-pipeline-grails 2.11.6
     org.grails.plugins:cache 3.0.3
     org.grails.plugins:fields 2.1.3
     org.grails.plugins:geb 1.0.2
     org.grails.plugins:grails-java8 1.1.0
-    org.grails.plugins:hibernate4 6.0.6
-    org.grails.plugins:hibernate5 6.0.6
-    org.grails.plugins:mongodb 6.0.6
-    org.grails.plugins:neo4j 6.0.6
+    org.grails.plugins:hibernate4 6.0.7
+    org.grails.plugins:hibernate5 6.0.7
+    org.grails.plugins:mongodb 6.0.7
+    org.grails.plugins:neo4j 6.0.7
     org.grails.plugins:rx-gorm-rest-client 1.0.4.RELEASE
-    org.grails.plugins:rx-mongodb 6.0.6
+    org.grails.plugins:rx-mongodb 6.0.7
     org.grails.plugins:rxjava 1.0.1
     org.grails.plugins:scaffolding 3.2.1
     org.grails.plugins:views-json 1.1.5
@@ -6841,7 +6799,7 @@ testCompileClasspath - Dependency management for the testCompileClasspath config
     org.grails.plugins:views-markup 1.1.5
     org.grails.profiles:angular 3.2.2
     org.grails.profiles:angular2 1.0.3
-    org.grails.profiles:base 3.2.4
+    org.grails.profiles:base 3.2.5
     org.grails.profiles:plugin 3.2.1
     org.grails.profiles:profile 3.2.1
     org.grails.profiles:react 2.0.1
@@ -7339,83 +7297,83 @@ testCompileOnly - Dependency management for the testCompileOnly configuration
     org.glassfish.jersey.ext:jersey-bean-validation 2.23.2
     org.glassfish.jersey.ext:jersey-spring3 2.23.2
     org.glassfish.jersey.media:jersey-media-json-jackson 2.23.2
-    org.grails:grails-async 3.2.5
-    org.grails:grails-bootstrap 3.2.5
-    org.grails:grails-codecs 3.2.5
-    org.grails:grails-console 3.2.5
-    org.grails:grails-core 3.2.5
-    org.grails:grails-databinding 3.2.5
-    org.grails:grails-datastore-core 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-cassandra 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-hibernate 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-hibernate4 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-hibernate5 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-mongodb 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-neo4j 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-support 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-test 6.0.6.RELEASE
-    org.grails:grails-datastore-rest-client 6.0.6.RELEASE
-    org.grails:grails-datastore-simple 6.0.6.RELEASE
-    org.grails:grails-datastore-test-support 6.0.6.RELEASE
-    org.grails:grails-datastore-web 6.0.6.RELEASE
-    org.grails:grails-dependencies 3.2.5
-    org.grails:grails-docs 3.2.5
-    org.grails:grails-encoder 3.2.5
-    org.grails:grails-gradle-model 3.2.5
-    org.grails:grails-gradle-plugin 3.2.5
-    org.grails:grails-gsp 3.2.5
-    org.grails:grails-logging 3.2.5
-    org.grails:grails-plugin-async 3.2.5
-    org.grails:grails-plugin-codecs 3.2.5
-    org.grails:grails-plugin-controllers 3.2.5
-    org.grails:grails-plugin-converters 3.2.5
-    org.grails:grails-plugin-databinding 3.2.5
-    org.grails:grails-plugin-datasource 3.2.5
-    org.grails:grails-plugin-domain-class 3.2.5
-    org.grails:grails-plugin-events 3.2.5
-    org.grails:grails-plugin-gsp 3.2.5
-    org.grails:grails-plugin-i18n 3.2.5
-    org.grails:grails-plugin-interceptors 3.2.5
-    org.grails:grails-plugin-mimetypes 3.2.5
-    org.grails:grails-plugin-rest 3.2.5
-    org.grails:grails-plugin-services 3.2.5
-    org.grails:grails-plugin-testing 3.2.5
-    org.grails:grails-plugin-url-mappings 3.2.5
-    org.grails:grails-plugin-validation 3.2.5
-    org.grails:grails-shell 3.2.5
-    org.grails:grails-spring 3.2.5
-    org.grails:grails-taglib 3.2.5
-    org.grails:grails-test 3.2.5
-    org.grails:grails-test-suite-base 3.2.5
-    org.grails:grails-test-suite-persistence 3.2.5
-    org.grails:grails-test-suite-uber 3.2.5
-    org.grails:grails-test-suite-web 3.2.5
-    org.grails:grails-validation 3.2.5
-    org.grails:grails-web 3.2.5
-    org.grails:grails-web-boot 3.2.5
-    org.grails:grails-web-common 3.2.5
-    org.grails:grails-web-databinding 3.2.5
-    org.grails:grails-web-fileupload 3.2.5
-    org.grails:grails-web-gsp 3.2.5
-    org.grails:grails-web-gsp-taglib 3.2.5
-    org.grails:grails-web-jsp 3.2.5
-    org.grails:grails-web-mvc 3.2.5
-    org.grails:grails-web-sitemesh 3.2.5
-    org.grails:grails-web-taglib 3.2.5
-    org.grails:grails-web-url-mappings 3.2.5
+    org.grails:grails-async 3.2.6
+    org.grails:grails-bootstrap 3.2.6
+    org.grails:grails-codecs 3.2.6
+    org.grails:grails-console 3.2.6
+    org.grails:grails-core 3.2.6
+    org.grails:grails-databinding 3.2.6
+    org.grails:grails-datastore-core 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-cassandra 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-hibernate 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-hibernate4 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-hibernate5 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-mongodb 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-neo4j 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-support 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-test 6.0.7.RELEASE
+    org.grails:grails-datastore-rest-client 6.0.7.RELEASE
+    org.grails:grails-datastore-simple 6.0.7.RELEASE
+    org.grails:grails-datastore-test-support 6.0.7.RELEASE
+    org.grails:grails-datastore-web 6.0.7.RELEASE
+    org.grails:grails-dependencies 3.2.6
+    org.grails:grails-docs 3.2.6
+    org.grails:grails-encoder 3.2.6
+    org.grails:grails-gradle-model 3.2.6
+    org.grails:grails-gradle-plugin 3.2.6
+    org.grails:grails-gsp 3.2.6
+    org.grails:grails-logging 3.2.6
+    org.grails:grails-plugin-async 3.2.6
+    org.grails:grails-plugin-codecs 3.2.6
+    org.grails:grails-plugin-controllers 3.2.6
+    org.grails:grails-plugin-converters 3.2.6
+    org.grails:grails-plugin-databinding 3.2.6
+    org.grails:grails-plugin-datasource 3.2.6
+    org.grails:grails-plugin-domain-class 3.2.6
+    org.grails:grails-plugin-events 3.2.6
+    org.grails:grails-plugin-gsp 3.2.6
+    org.grails:grails-plugin-i18n 3.2.6
+    org.grails:grails-plugin-interceptors 3.2.6
+    org.grails:grails-plugin-mimetypes 3.2.6
+    org.grails:grails-plugin-rest 3.2.6
+    org.grails:grails-plugin-services 3.2.6
+    org.grails:grails-plugin-testing 3.2.6
+    org.grails:grails-plugin-url-mappings 3.2.6
+    org.grails:grails-plugin-validation 3.2.6
+    org.grails:grails-shell 3.2.6
+    org.grails:grails-spring 3.2.6
+    org.grails:grails-taglib 3.2.6
+    org.grails:grails-test 3.2.6
+    org.grails:grails-test-suite-base 3.2.6
+    org.grails:grails-test-suite-persistence 3.2.6
+    org.grails:grails-test-suite-uber 3.2.6
+    org.grails:grails-test-suite-web 3.2.6
+    org.grails:grails-validation 3.2.6
+    org.grails:grails-web 3.2.6
+    org.grails:grails-web-boot 3.2.6
+    org.grails:grails-web-common 3.2.6
+    org.grails:grails-web-databinding 3.2.6
+    org.grails:grails-web-fileupload 3.2.6
+    org.grails:grails-web-gsp 3.2.6
+    org.grails:grails-web-gsp-taglib 3.2.6
+    org.grails:grails-web-jsp 3.2.6
+    org.grails:grails-web-mvc 3.2.6
+    org.grails:grails-web-sitemesh 3.2.6
+    org.grails:grails-web-taglib 3.2.6
+    org.grails:grails-web-url-mappings 3.2.6
     org.grails.plugins:asset-pipeline 3.2.1
     org.grails.plugins:asset-pipeline-grails 2.11.6
     org.grails.plugins:cache 3.0.3
     org.grails.plugins:fields 2.1.3
     org.grails.plugins:geb 1.0.2
     org.grails.plugins:grails-java8 1.1.0
-    org.grails.plugins:hibernate4 6.0.6
-    org.grails.plugins:hibernate5 6.0.6
-    org.grails.plugins:mongodb 6.0.6
-    org.grails.plugins:neo4j 6.0.6
+    org.grails.plugins:hibernate4 6.0.7
+    org.grails.plugins:hibernate5 6.0.7
+    org.grails.plugins:mongodb 6.0.7
+    org.grails.plugins:neo4j 6.0.7
     org.grails.plugins:rx-gorm-rest-client 1.0.4.RELEASE
-    org.grails.plugins:rx-mongodb 6.0.6
+    org.grails.plugins:rx-mongodb 6.0.7
     org.grails.plugins:rxjava 1.0.1
     org.grails.plugins:scaffolding 3.2.1
     org.grails.plugins:views-json 1.1.5
@@ -7423,7 +7381,7 @@ testCompileOnly - Dependency management for the testCompileOnly configuration
     org.grails.plugins:views-markup 1.1.5
     org.grails.profiles:angular 3.2.2
     org.grails.profiles:angular2 1.0.3
-    org.grails.profiles:base 3.2.4
+    org.grails.profiles:base 3.2.5
     org.grails.profiles:plugin 3.2.1
     org.grails.profiles:profile 3.2.1
     org.grails.profiles:react 2.0.1
@@ -7922,83 +7880,83 @@ testRuntime - Dependency management for the testRuntime configuration
     org.glassfish.jersey.ext:jersey-bean-validation 2.23.2
     org.glassfish.jersey.ext:jersey-spring3 2.23.2
     org.glassfish.jersey.media:jersey-media-json-jackson 2.23.2
-    org.grails:grails-async 3.2.5
-    org.grails:grails-bootstrap 3.2.5
-    org.grails:grails-codecs 3.2.5
-    org.grails:grails-console 3.2.5
-    org.grails:grails-core 3.2.5
-    org.grails:grails-databinding 3.2.5
-    org.grails:grails-datastore-core 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-cassandra 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-hibernate 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-hibernate4 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-hibernate5 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-mongodb 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-neo4j 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-support 6.0.6.RELEASE
-    org.grails:grails-datastore-gorm-test 6.0.6.RELEASE
-    org.grails:grails-datastore-rest-client 6.0.6.RELEASE
-    org.grails:grails-datastore-simple 6.0.6.RELEASE
-    org.grails:grails-datastore-test-support 6.0.6.RELEASE
-    org.grails:grails-datastore-web 6.0.6.RELEASE
-    org.grails:grails-dependencies 3.2.5
-    org.grails:grails-docs 3.2.5
-    org.grails:grails-encoder 3.2.5
-    org.grails:grails-gradle-model 3.2.5
-    org.grails:grails-gradle-plugin 3.2.5
-    org.grails:grails-gsp 3.2.5
-    org.grails:grails-logging 3.2.5
-    org.grails:grails-plugin-async 3.2.5
-    org.grails:grails-plugin-codecs 3.2.5
-    org.grails:grails-plugin-controllers 3.2.5
-    org.grails:grails-plugin-converters 3.2.5
-    org.grails:grails-plugin-databinding 3.2.5
-    org.grails:grails-plugin-datasource 3.2.5
-    org.grails:grails-plugin-domain-class 3.2.5
-    org.grails:grails-plugin-events 3.2.5
-    org.grails:grails-plugin-gsp 3.2.5
-    org.grails:grails-plugin-i18n 3.2.5
-    org.grails:grails-plugin-interceptors 3.2.5
-    org.grails:grails-plugin-mimetypes 3.2.5
-    org.grails:grails-plugin-rest 3.2.5
-    org.grails:grails-plugin-services 3.2.5
-    org.grails:grails-plugin-testing 3.2.5
-    org.grails:grails-plugin-url-mappings 3.2.5
-    org.grails:grails-plugin-validation 3.2.5
-    org.grails:grails-shell 3.2.5
-    org.grails:grails-spring 3.2.5
-    org.grails:grails-taglib 3.2.5
-    org.grails:grails-test 3.2.5
-    org.grails:grails-test-suite-base 3.2.5
-    org.grails:grails-test-suite-persistence 3.2.5
-    org.grails:grails-test-suite-uber 3.2.5
-    org.grails:grails-test-suite-web 3.2.5
-    org.grails:grails-validation 3.2.5
-    org.grails:grails-web 3.2.5
-    org.grails:grails-web-boot 3.2.5
-    org.grails:grails-web-common 3.2.5
-    org.grails:grails-web-databinding 3.2.5
-    org.grails:grails-web-fileupload 3.2.5
-    org.grails:grails-web-gsp 3.2.5
-    org.grails:grails-web-gsp-taglib 3.2.5
-    org.grails:grails-web-jsp 3.2.5
-    org.grails:grails-web-mvc 3.2.5
-    org.grails:grails-web-sitemesh 3.2.5
-    org.grails:grails-web-taglib 3.2.5
-    org.grails:grails-web-url-mappings 3.2.5
+    org.grails:grails-async 3.2.6
+    org.grails:grails-bootstrap 3.2.6
+    org.grails:grails-codecs 3.2.6
+    org.grails:grails-console 3.2.6
+    org.grails:grails-core 3.2.6
+    org.grails:grails-databinding 3.2.6
+    org.grails:grails-datastore-core 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-cassandra 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-hibernate 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-hibernate4 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-hibernate5 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-mongodb 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-neo4j 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-support 6.0.7.RELEASE
+    org.grails:grails-datastore-gorm-test 6.0.7.RELEASE
+    org.grails:grails-datastore-rest-client 6.0.7.RELEASE
+    org.grails:grails-datastore-simple 6.0.7.RELEASE
+    org.grails:grails-datastore-test-support 6.0.7.RELEASE
+    org.grails:grails-datastore-web 6.0.7.RELEASE
+    org.grails:grails-dependencies 3.2.6
+    org.grails:grails-docs 3.2.6
+    org.grails:grails-encoder 3.2.6
+    org.grails:grails-gradle-model 3.2.6
+    org.grails:grails-gradle-plugin 3.2.6
+    org.grails:grails-gsp 3.2.6
+    org.grails:grails-logging 3.2.6
+    org.grails:grails-plugin-async 3.2.6
+    org.grails:grails-plugin-codecs 3.2.6
+    org.grails:grails-plugin-controllers 3.2.6
+    org.grails:grails-plugin-converters 3.2.6
+    org.grails:grails-plugin-databinding 3.2.6
+    org.grails:grails-plugin-datasource 3.2.6
+    org.grails:grails-plugin-domain-class 3.2.6
+    org.grails:grails-plugin-events 3.2.6
+    org.grails:grails-plugin-gsp 3.2.6
+    org.grails:grails-plugin-i18n 3.2.6
+    org.grails:grails-plugin-interceptors 3.2.6
+    org.grails:grails-plugin-mimetypes 3.2.6
+    org.grails:grails-plugin-rest 3.2.6
+    org.grails:grails-plugin-services 3.2.6
+    org.grails:grails-plugin-testing 3.2.6
+    org.grails:grails-plugin-url-mappings 3.2.6
+    org.grails:grails-plugin-validation 3.2.6
+    org.grails:grails-shell 3.2.6
+    org.grails:grails-spring 3.2.6
+    org.grails:grails-taglib 3.2.6
+    org.grails:grails-test 3.2.6
+    org.grails:grails-test-suite-base 3.2.6
+    org.grails:grails-test-suite-persistence 3.2.6
+    org.grails:grails-test-suite-uber 3.2.6
+    org.grails:grails-test-suite-web 3.2.6
+    org.grails:grails-validation 3.2.6
+    org.grails:grails-web 3.2.6
+    org.grails:grails-web-boot 3.2.6
+    org.grails:grails-web-common 3.2.6
+    org.grails:grails-web-databinding 3.2.6
+    org.grails:grails-web-fileupload 3.2.6
+    org.grails:grails-web-gsp 3.2.6
+    org.grails:grails-web-gsp-taglib 3.2.6
+    org.grails:grails-web-jsp 3.2.6
+    org.grails:grails-web-mvc 3.2.6
+    org.grails:grails-web-sitemesh 3.2.6
+    org.grails:grails-web-taglib 3.2.6
+    org.grails:grails-web-url-mappings 3.2.6
     org.grails.plugins:asset-pipeline 3.2.1
     org.grails.plugins:asset-pipeline-grails 2.11.6
     org.grails.plugins:cache 3.0.3
     org.grails.plugins:fields 2.1.3
     org.grails.plugins:geb 1.0.2
     org.grails.plugins:grails-java8 1.1.0
-    org.grails.plugins:hibernate4 6.0.6
-    org.grails.plugins:hibernate5 6.0.6
-    org.grails.plugins:mongodb 6.0.6
-    org.grails.plugins:neo4j 6.0.6
+    org.grails.plugins:hibernate4 6.0.7
+    org.grails.plugins:hibernate5 6.0.7
+    org.grails.plugins:mongodb 6.0.7
+    org.grails.plugins:neo4j 6.0.7
     org.grails.plugins:rx-gorm-rest-client 1.0.4.RELEASE
-    org.grails.plugins:rx-mongodb 6.0.6
+    org.grails.plugins:rx-mongodb 6.0.7
     org.grails.plugins:rxjava 1.0.1
     org.grails.plugins:scaffolding 3.2.1
     org.grails.plugins:views-json 1.1.5
@@ -8006,7 +7964,7 @@ testRuntime - Dependency management for the testRuntime configuration
     org.grails.plugins:views-markup 1.1.5
     org.grails.profiles:angular 3.2.2
     org.grails.profiles:angular2 1.0.3
-    org.grails.profiles:base 3.2.4
+    org.grails.profiles:base 3.2.5
     org.grails.profiles:plugin 3.2.1
     org.grails.profiles:profile 3.2.1
     org.grails.profiles:react 2.0.1
@@ -8280,4 +8238,4 @@ testRuntime - Dependency management for the testRuntime configuration
 
 BUILD SUCCESSFUL
 
-Total time: 16.748 secs
+Total time: 8.535 secs
